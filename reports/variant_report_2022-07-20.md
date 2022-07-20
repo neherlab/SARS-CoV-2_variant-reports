@@ -63,6 +63,21 @@ The Spikes are mostly identical, the rest of the genomes have multiple different
 ![SA recombinant 2](images/2527559ee3e9c91f092f7e42447cf27a5f1a336ae7b84cf8287f0ff62253f76c.png)
 (from <https://www.nicd.ac.za/wp-content/uploads/2022/07/Update-of-SA-sequencing-data-from-GISAID-15-July-2022.pdf>)
 
+### German BA.2/BA.1/BA.2 recombinant with convergence to BA.2.75
+
+A BA.2/BA.1/BA.2 recombinant with many mutations of interest has appeared in Germany with 27 sequences to date and spread across Europe.
+
+First sequence beginning of June.
+
+Spike shows the following changes compared to BA.2:
+
+- Missing: T19I, 24-26del, 27S not there because that part is from BA.1* parent
+- Donated: 69-70del convergent with many VOCs
+- Additional S:R346K, convergent with BA.1.1
+- Additional S:K147E, S:N460K and reverted S:493 convergent with BA.2.75
+
+<https://github.com/cov-lineages/pango-designation/issues/823>
+
 ## Trends
 
 There seem to be two ways in which lineages evolve:
