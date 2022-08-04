@@ -16,6 +16,8 @@ So while BA.2.75 seems to start driving a wave as visible in positivity rate att
 
 ![BA.2.75 positivity wave in India](positivityba275.png)
 
+[Cov-Spectrum link with BA.2.75 in India](https://cov-spectrum.org/explore/India/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.2.75)
+
 [Link to Twitter thread with figures](https://twitter.com/TWenseleers/status/1554189987586908161)
 
 ## Intra-Omicron recombinants keep appearing but so far with limited growth advantages
