@@ -2,7 +2,7 @@
 
 ## S:R346T confers significant growth advantage to BA.4/5, projected to become dominant in October
 
-BA.4 and BA.5 lineages that have the S:R346T substitution continue to grow faster than their siblings without the substitution.
+BA.4 and BA.5 lineages that have the S:R346T substitution continue to grow faster than their siblings without the substitution. (S:R346K was the defining mutation of BA.1.1 that became dominant in a large number of countries before BA.2 took over)
 
 The substitution S:R346T and related ones to I, S and K have appeared numerous times independently in BA.4 and BA.5. These are the ones designated by Pango thus far:
 
