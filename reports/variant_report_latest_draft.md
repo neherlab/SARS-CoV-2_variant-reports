@@ -25,6 +25,10 @@ The following sublineages of BA.2.75 deserve attention as they are the most obvi
 
 A growth advantage of 10%/day means it takes ~6 weeks from 1% share to 50%, (5%/day -> ~3 months, 3% -> ~5 months), if the growth advantage of the above lineages hold up, BA.2.75\* could become dominant globally (including Europe) by the end of October.
 
+The figure below shows how BA.2.75* with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
+
+![Fit sublineages of BA.2.75*](../images/16583f442fb9aa6a9fc13380d61bc30322b74da6691fec377e04e9b242d75154.png)  
+
 ## Recommended tool to monitor the latest designated lineages
 
 The volunteer Federico Gueli maintains a very helpful covSpectrum collection of recently designated lineages, including the candidates for dominance at:
@@ -35,6 +39,9 @@ It is suggested to sort the list descending by `CI (low)` to counter the bias of
 By default, the growth advantage is relative to all sequences - but the baseline can be changed to e.g. BA.5*, or BA.5* & S:346T.
 
 The region can be chosen as desired, for example Europe, to focus on what happens locally.
+
+Here is the table with worldwide data and baseline BA.5*\
+![Designated lineages sorted by growth advantage](../images/e7b9a806dec363cc137179f02b2dc88a8218c7aa9b38051483ccd5eb24c67138.png)  
 
 ## Spike mutations that seem to confer growth advantages to BA.5
 
