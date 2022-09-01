@@ -57,6 +57,14 @@ Given that the variant surveillance community tries to designate all lineages wi
 
 Currently, there does not seem to be much space for BA.4/5* to move beyond picking up S:346T or similar single mutations. This makes it more likely that BA.2.75 or another yet unknown sublineage of BA.2 will become dominant in the next few months.
 
+## Recent Pango proposals of interest
+
+### South East Asian BA.2.3 sublineage with 10 convergent S1 mutations
+
+Ryan Hisner has proposed a highly S1 mutated BA.2.3 sublineage that appears to be have its origin somewhere in South East Asia, possibly Malaysia or Indonesia: <https://github.com/cov-lineages/pango-designation/issues/1013>
+
+It is unfortunately not (yet) possible to tell the growth advantage of novel lineages just from looking at the Spike profile if there are so many of them. But the simultaneous discovery on 3 continents with collection date <2 weeks ago and low diversity are what one would expect to see from a lineage with high growth advantage. This should be monitored.
+
 # Variant report 2022-08-17
 
 ## S:R346T confers significant growth advantage to BA.4/5, projected to become dominant in October
