@@ -7,7 +7,7 @@ It increasingly looks like BA.2.75\* may dominate even the fittest BA.5\* lineag
 In particular subsets of the following S1 mutations have been picked up by various lineages that have arisen from the BA.2.75 polytomy:
 
 - S:R346T (defining mutation of BL.1=BA.2.75.1.1, one of 3 defining mutations of BA.2.75.2, very homoplasic, growth advantage: 4-8%/day)
-- S:R356T (defining mutation of BA.2.75.5, growth advantage: 5-10%/day)
+- S:K356T (defining mutation of BA.2.75.5, growth advantage: 5-10%/day)
 - S:F486S (one of 3 defining mutations of BA.2.75.2, appears homoplasically in BA.2.75.3, growth advantage: 5-10%/day)
 - S:D574V (defining mutation of BA.2.75.1, growth advantage: ~3-4%/day)
 
@@ -21,7 +21,7 @@ The following sublineages of BA.2.75 deserve attention as they are the most obvi
 
 - BA.2.75.2 (S:346T, S:F486S, S:D1199N): growth advantage over BA.2.75 (~10-15%/day)
 - BL.1 (S:D574V, S:R346T): growth advantage over BA.2.75 (~5-10%/day)
-- BA.2.75.3 (S:R356T): growth advantage over BA.2.75 (~5-10%/day)
+- BA.2.75.3 (S:K356T): growth advantage over BA.2.75 (~5-10%/day)
 
 A growth advantage of 10%/day means it takes ~6 weeks from 1% share to 50%, (5%/day -> ~3 months, 3% -> ~5 months), if the growth advantage of the above lineages hold up, BA.2.75\* could become dominant globally (including Europe) by the end of October.
 
