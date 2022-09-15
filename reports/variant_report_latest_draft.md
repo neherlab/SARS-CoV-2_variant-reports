@@ -2,13 +2,17 @@
 
 ## A variant wave is likely to start in at most 3 months
 
-The BA.2.75 sublineage BA.2.75.2 (S:346T, S:486S, S:1119N) currently doubles in share every week (+80-120%). It made up between 0.1 and 0.5% in samples from two weeks ago in Europe (in Asia, North America and Oceania, the share is higher at between 0.5-5%). This means that a variant wave is on its way and will start around November - on top of the expected seasonal wave.
+The BA.2.75 sublineage BA.2.75.2 (S:346T, S:486S, S:1119N) currently doubles in share every week (+80-120%). It made up between 0.1 and 0.5% in samples from two weeks ago in Europe (in Asia, North America and Oceania, the share is higher at between 0.5-5%).
 
-The growth advantage is of the same order of magnitude as was the case from BA.2 to BA.5, sufficient to cause a summer wave.
+ * [Global Cov-Spectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
+ * [Europe Cov-Spectrum query](https://cov-spectrum.org/explore/Europe/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
 
-It is possible that another BA.2.75 lineage or another variant altogether end up being even faster growing, this would only shorten the time until a wave starts - not lengthen it.
+If this growth trend continues, this variant will dominate in about two months.
+At this point, the growth advantage would manifest in increased overall growth in incidence and a variant wave would start around November - on top of the expected seasonal acceleration of transmission.
 
-Currently, BA.2.75.2 is the fastest growing lineage with more than 200 sequences available. The rest of this report will focus on other lineages that may end up growing faster than BA.2.75.
+The growth advantage over resident BA.2 or BA.5 lineages is of the same order of magnitude as was the case when  BA.5 displaced BA.2, which was sufficient to cause a summer wave.
+
+Currently, BA.2.75.2 is the fastest growing lineage with more than 350 sequences available. The rest of this report will focus on other lineages that may end up growing faster than BA.2.75.
 
 ## BQ.1 - a BA.5 descendant - may outcompete BA.2.75.2
 
@@ -22,9 +26,9 @@ On the 14th of September 2022, 119 sequences BQ.1 sequences had been uploaded to
 
 Importantly, BQ.1 has already picked up S:R346T in a lineage called BQ.1.1, which plausibly increases the growth advantage further. 26 out of 29 sequences of BQ.1.1 have been uploaded in the past 7 days.
 
-It is possible that BQ.1 or BQ.1.1 may outcompete BA.2.75.2 and make a variant wave start even earlier.
+It is possible that BQ.1 or BQ.1.1 may outcompete BA.2.75.2, which could result in co-circulation of multiple lineages during a wave or double peak waves as seen with BA.1 or BA.2.
 
-## S:N460K is a new mutation of concern
+## S:N460K emerged in multiple new lineages
 
 A mutation that both BA.2.75 and BQ.1 have in common is S:N460K. This mutation is also present in two 2nd generation BA.2 variants: BA.2.3.20 and BS.1 (=BA.2.3.2.1).
 
@@ -65,7 +69,7 @@ A growth advantage of 10%/day means it takes ~6 weeks from 1% share to 50%, (5%/
 
 The figure below shows how BA.2.75* with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
 
-![Fit sublineages of BA.2.75*](../images/16583f442fb9aa6a9fc13380d61bc30322b74da6691fec377e04e9b242d75154.png)  
+![Fit sublineages of BA.2.75*](../images/16583f442fb9aa6a9fc13380d61bc30322b74da6691fec377e04e9b242d75154.png)
 
 ## Recommended tool to monitor the latest designated lineages
 
@@ -79,7 +83,7 @@ By default, the growth advantage is relative to all sequences - but the baseline
 The region can be chosen as desired, for example Europe, to focus on what happens locally.
 
 Here is the table with worldwide data and baseline BA.5*\
-![Designated lineages sorted by growth advantage](../images/e7b9a806dec363cc137179f02b2dc88a8218c7aa9b38051483ccd5eb24c67138.png)  
+![Designated lineages sorted by growth advantage](../images/e7b9a806dec363cc137179f02b2dc88a8218c7aa9b38051483ccd5eb24c67138.png)
 
 ## Spike mutations that seem to confer growth advantages to BA.5
 
@@ -143,11 +147,11 @@ Other countries where BA.2.75 has established itself at levels >1% at the beginn
 - Australia (~2%)
 - Japan (~1%)
 
-![BA.2.75 in Asia/Oceania](../images/408d6c8c64aff85e5e0f7fc8435cc538161837fb6a6f276e84b792b6f2ec21e8.png)  
+![BA.2.75 in Asia/Oceania](../images/408d6c8c64aff85e5e0f7fc8435cc538161837fb6a6f276e84b792b6f2ec21e8.png)
 
 While BA.2.75 is most common in Asia and Oceania, its share is increasing in all countries that have submitted large amounts of recent sequences. However, the share of BA.2.75 in Europe and North America is too small (~0.1-1%) to be able to confidently compare growth advantages of BA.2.75 and the fittest BA.5 lineages.
 
-![BA.2.75 in Rest of World](../images/34b6ed1f3040198a0e95d3aadc3b21447d907b1fbf88fe6af1c734b5c876ce30.png)  
+![BA.2.75 in Rest of World](../images/34b6ed1f3040198a0e95d3aadc3b21447d907b1fbf88fe6af1c734b5c876ce30.png)
 
 ### Extra spike mutations in BA.2.75
 
