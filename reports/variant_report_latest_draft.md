@@ -44,7 +44,7 @@ Yunlong Richard Cao has shared a vast amount of experimental data on neutralizat
 
 Unfortunately, BQ.1.1 escapes both evusheld and bebtelovimab:
 
-![picture 7](../images/d252b65b8a7e122d94ed89bb6bda24386ed22252aaa959f9e249e3c18f07412a.png)  
+![picture 8](../images/566353ff2eb766fb14a0490579b8fcac41dc1944e837fac727863a6e1fd05f09.png)  
 
 For more details see their preprint: https://t.co/itJGuLfW3y
 
