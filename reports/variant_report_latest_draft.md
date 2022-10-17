@@ -150,7 +150,7 @@ See their threads for more details:
 - Moritz Gerstung's with estimates based on German data: <https://twitter.com/MoritzGerstung/status/1580222575866564608?s=20&t=Pfphgp0lMBhomNZhS_NaVw>
 - Tom Wenseleers' with estimates based on global data: <https://twitter.com/TWenseleers/status/1580701680840024065?s=20&t=Pfphgp0lMBhomNZhS_NaVw>
 
-# Variant report 2022-09-2
+# Variant report 2022-09-28
 
 ## BQ.1 has kept doubling every week, may become dominant by the end of November
 
