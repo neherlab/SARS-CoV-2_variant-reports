@@ -8,13 +8,13 @@ It is plausible that the daughter lineage BQ.1.1 with additional S:346T will gro
 
 The relative growth rate of BQ.1 in the current BA.5 background is on the order of a doubling in share every week. BQ.1 made up around 1% of samples collected in Europe and North America in the middle of September.
 
-BA.2.75's various sublineages, including BA.2.75.2, continue to show a substantial growth advantage over circulating BA.5 - however, BQ.1 apperas to grow faster. In Europe and North America, the proportion of BA.2.75\* and BQ.1 is already roughly similar, despite BA.2.75\* having been present two months earlier. In Asia, there is still much more BA.2.75\* than BQ.1.
+BA.2.75's various sublineages, including BA.2.75.2, continue to show a substantial growth advantage over circulating BA.5 - however, BQ.1 appears to grow faster. In Europe and North America, the proportion of BA.2.75\* and BQ.1 is already roughly similar, despite BA.2.75\* having been present two months earlier. In Asia, there is still much more BA.2.75\* than BQ.1.
 
 Tom Wenseleers calculates a growth advantage over BA.5.2 of just below 14% per day for BQ.1, whereas BA.2.75.2 comes in lower at around 9% per day. This is consistent with BQ.1 doubling in share every week.
 
 ![picture 3](../images/5a92709aae16dbfb3b50e2963ea40f259b9b4285282d6c02e1eab795e02dd44f.png)
 
-(from https://twitter.com/TWenseleers/status/1574070423175966720?s=20&t=bNy5CvKmfDwXOIhIVB6z5g)
+(from <https://twitter.com/TWenseleers/status/1574070423175966720?s=20&t=bNy5CvKmfDwXOIhIVB6z5g>)
 
 There are other members of the BA.2.75\* family that could still outcompete BA.2.75.2 but the data is too scarce at this point to draw conclusions. One candidate is BN.1 which has the immune escape substitution S:356T in addition to the S:346T shared with BA.2.75.2.
 
@@ -34,7 +34,7 @@ The "Great Convergence" of similar mutations arising independently has been illu
 
 ![picture 4](../images/94fa740b8006bce1118e387bf502018dbfcd9d1f99a60fb61c72f192996878ef.png)
 
-(from https://twitter.com/SolidEvidence/status/1574040436204871680?s=20&t=bNy5CvKmfDwXOIhIVB6z5g)
+(from <https://twitter.com/SolidEvidence/status/1574040436204871680?s=20&t=bNy5CvKmfDwXOIhIVB6z5g>)
 
 ## BA.2.75.2 and other novel lineages show significant immune escape
 
@@ -46,7 +46,7 @@ Unfortunately, BQ.1.1 escapes both evusheld and bebtelovimab:
 
 ![picture 8](../images/566353ff2eb766fb14a0490579b8fcac41dc1944e837fac727863a6e1fd05f09.png)  
 
-For more details see their preprint: https://t.co/itJGuLfW3y
+For more details see their preprint: <https://t.co/itJGuLfW3y>
 
 # Variant report 2022-09-14
 
@@ -54,8 +54,8 @@ For more details see their preprint: https://t.co/itJGuLfW3y
 
 The BA.2.75 sublineage BA.2.75.2 (S:346T, S:486S, S:1199N) currently doubles in share every week (+80-120%). It made up between 0.1 and 0.5% in samples from two weeks ago in Europe (in Asia, North America and Oceania, the share is higher at between 0.5-5%).
 
- * [Global Cov-Spectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
- * [Europe Cov-Spectrum query](https://cov-spectrum.org/explore/Europe/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
+* [Global Cov-Spectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
+* [Europe Cov-Spectrum query](https://cov-spectrum.org/explore/Europe/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
 
 If this growth trend continues, this variant will dominate in about two months.
 At this point, the growth advantage would manifest in increased overall growth in incidence and a variant wave would start around November - on top of the expected seasonal acceleration of transmission.
@@ -70,7 +70,7 @@ For a while it appeared as if S:346T was the major beneficial mutation that BA.5
 
 BQ.1 stands for BA.5.3.1.1.1.1.1. It has two RBD mutations on top of BA.5's: S:K444T (defining BA.5.3.1.1.1.1 or BE.1.1.1) followed by S:N460K (defining BQ.1 alias for BE.1.1.1.1). BQ.1 is notable in that it has picked up beneficial mutations in a step wise manner (as is evident in the long Pango name). In contrast to BA.2.75 and other 2nd generation BA.2, it does not lie on a long branch.
 
-BQ.1's parent BE.1.1.1 was most commonly detected in Nigeria as early as July. It is also Nigeria where BQ.1 was first sequenced. It is important to note that sequencing activity in West African countries neighbouring Nigeria is very low so that Nigeria is not necessarily the country of origin - reminiscent of the situation with South Africa and Omicron.
+BQ.1's parent BE.1.1.1 was most commonly detected in Nigeria as early as July. It is also Nigeria where BQ.1 was first sequenced. It is important to note that sequencing activity in West African countries neighboring Nigeria is very low so that Nigeria is not necessarily the country of origin - reminiscent of the situation with South Africa and Omicron.
 
 On the 14th of September 2022, 119 sequences BQ.1 sequences had been uploaded to GISAID. The most recent 50 in just the last 3 days. The most recent 100 in just the last 9 days. This is suggestive of a large growth advantage that is difficult to estimate precisely but of similar magnitude to BA.2.75.2.
 
@@ -98,10 +98,10 @@ It increasingly looks like BA.2.75\* may dominate even the fittest BA.5\* lineag
 
 In particular subsets of the following S1 mutations have been picked up by various lineages that have arisen from the BA.2.75 polytomy:
 
-- S:R346T (defining mutation of BL.1=BA.2.75.1.1, one of 3 defining mutations of BA.2.75.2, very homoplasic, growth advantage: 4-8%/day)
-- S:K356T (defining mutation of BA.2.75.5, growth advantage: 5-10%/day)
-- S:F486S (one of 3 defining mutations of BA.2.75.2, appears homoplasically in BA.2.75.3, growth advantage: 5-10%/day)
-- S:D574V (defining mutation of BA.2.75.1, growth advantage: ~3-4%/day)
+* S:R346T (defining mutation of BL.1=BA.2.75.1.1, one of 3 defining mutations of BA.2.75.2, very homoplasic, growth advantage: 4-8%/day)
+* S:K356T (defining mutation of BA.2.75.5, growth advantage: 5-10%/day)
+* S:F486S (one of 3 defining mutations of BA.2.75.2, appears homoplasically in BA.2.75.3, growth advantage: 5-10%/day)
+* S:D574V (defining mutation of BA.2.75.1, growth advantage: ~3-4%/day)
 
 While the growth advantages of the above mutations on their own are roughly in line with growth advantages conferred in BA.4/5 sublineages, what makes BA.2.75\* different from BA.4/5\* is that BA.2.75\* is picking up multiple beneficial spike together.
 
@@ -111,13 +111,13 @@ The evolution of BA.2.75* is convergent to BA.4/5 as BA.4/5 itself has S:F486V a
 
 The following sublineages of BA.2.75 deserve attention as they are the most obvious candidates to become dominant in the next few months (BA.2.75 has comparative fitness to BA.5*):
 
-- BA.2.75.2 (S:346T, S:F486S, S:D1199N): growth advantage over BA.2.75 (~10-15%/day)
-- BL.1 (S:D574V, S:R346T): growth advantage over BA.2.75 (~5-10%/day)
-- BA.2.75.3 (S:K356T): growth advantage over BA.2.75 (~5-10%/day)
+* BA.2.75.2 (S:346T, S:F486S, S:D1199N): growth advantage over BA.2.75 (~10-15%/day)
+* BL.1 (S:D574V, S:R346T): growth advantage over BA.2.75 (~5-10%/day)
+* BA.2.75.3 (S:K356T): growth advantage over BA.2.75 (~5-10%/day)
 
 A growth advantage of 10%/day means it takes ~6 weeks from 1% share to 50%, (5%/day -> ~3 months, 3% -> ~5 months), if the growth advantage of the above lineages hold up, BA.2.75\* could become dominant globally (including Europe) by the end of October.
 
-The figure below shows how BA.2.75* with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
+The figure below shows how BA.2.75*with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
 
 ![Fit sublineages of BA.2.75*](../images/16583f442fb9aa6a9fc13380d61bc30322b74da6691fec377e04e9b242d75154.png)
 
@@ -139,13 +139,13 @@ Here is the table with worldwide data and baseline BA.5*\
 
 Given that the variant surveillance community tries to designate all lineages with significant growth advantages, the defining mutations of recently designated lineages can be taken as a proxy for mutations that seem to confer growth advantages to BA.5. The following mutations show up repeatedly:
 
-- S:R346T (most prominently in BA.2.75.2, BL.1, BA.4.6, BF.7, BF.11, BE.1.2, BA.5.2.6)
-- S:R346S (most prominently in BA.4.7, BF.13)
-- S:444M (BA.5.2.7)
-- S:444T (BE.1.1.1, BA.5.6.2)
-- S:444R (BF.16)
-- S:450D (BA.5.5.1, BF.14)
-- S:1020S (BF.3.1, BF.5)
+* S:R346T (most prominently in BA.2.75.2, BL.1, BA.4.6, BF.7, BF.11, BE.1.2, BA.5.2.6)
+* S:R346S (most prominently in BA.4.7, BF.13)
+* S:444M (BA.5.2.7)
+* S:444T (BE.1.1.1, BA.5.6.2)
+* S:444R (BF.16)
+* S:450D (BA.5.5.1, BF.14)
+* S:1020S (BF.3.1, BF.5)
 
 Currently, there does not seem to be much space for BA.4/5* to move beyond picking up S:346T or similar single mutations. This makes it more likely that BA.2.75 or another yet unknown sublineage of BA.2 will become dominant in the next few months.
 
@@ -165,14 +165,14 @@ BA.4 and BA.5 lineages that have the S:R346T substitution continue to grow faste
 
 The substitution S:R346T and related ones to I, S and K have appeared numerous times independently in BA.4 and BA.5. These are the ones designated by Pango thus far:
 
-- BA.4.6 (T)
-- BA.4.1.8 (T)
-- BA.4.7 (S)
-- BF.7 (T, alias for BA.5.2.1.7)
-- BF.11 (T, alias for BA.5.2.1.11)
-- BF.13 (S, alias for BA.5.2.1.13)
-- BE.1.2 (T, alias for BA.5.3.1.2)
-- BA.5.9 (I)
+* BA.4.6 (T)
+* BA.4.1.8 (T)
+* BA.4.7 (S)
+* BF.7 (T, alias for BA.5.2.1.7)
+* BF.11 (T, alias for BA.5.2.1.11)
+* BF.13 (S, alias for BA.5.2.1.13)
+* BE.1.2 (T, alias for BA.5.3.1.2)
+* BA.5.9 (I)
 
 While BA.4.6 is the single most common BA.4/5 lineage with S:346, it has a growth disadvantage compared to BA.5 lineages with the same mutation, due to the fact that BA.4 has a general growth disadvantage against BA.5. This is immediately evident considering that BA.4\* started out slightly more common than BA.5\* in April 2022 it is now more than 10 times less common.
 
@@ -192,10 +192,11 @@ Of course, other fitter lineages, be it sublineages of BA.4/5, of BA.2 (e.g. BA.
 BA.2.75 has continued growing in share in India and has been dominant since the end of July, despite the presence of BA.5.
 
 Other countries where BA.2.75 has established itself at levels >1% at the beginning of August are:
-- Nepal (>50%)
-- Singapore (~10%)
-- Australia (~2%)
-- Japan (~1%)
+
+* Nepal (>50%)
+* Singapore (~10%)
+* Australia (~2%)
+* Japan (~1%)
 
 ![BA.2.75 in Asia/Oceania](../images/408d6c8c64aff85e5e0f7fc8435cc538161837fb6a6f276e84b792b6f2ec21e8.png)
 
@@ -213,21 +214,23 @@ Maybe unsurprisingly, BA.2.75\* has already independently acquired S:346T twice,
 
 Other notable spike mutations detected internationally and at least ~15 times (i.e. in >0.5% of BA.2.75\*) are:
 
-- S:K356T (~1%)
-- S:L452R (~0.5%, known from Delta)
-- S:F486S (~1%, similar to S:F486V known from BA.4/5)
+* S:K356T (~1%)
+* S:L452R (~0.5%, known from Delta)
+* S:F486S (~1%, similar to S:F486V known from BA.4/5)
 
 Even if no other novel variant evolves, the large number of sublineages that have arisen and will arise in BA.5 and BA.2.75 make it difficult to predict with confidence whether a BA.5 or BA.2.75 lineage becomes dominant in Autumn/Winter in Europe. Both outcomes seem possible though BA.5 has a considerable head start - being the currently dominant variant in Europe.
 
 ## Developments outside of BA.4/5 and BA.2.75
 
 Some of the novel lineages that have been discussed in the previous report have recently been designated:
-- BA.2.10.4: BA.2.10 + W64R, 141-144del, 243-244del, G446S, F486P, R493Q, S494P, P1143L ([Pango issue #898](https://github.com/cov-lineages/pango-designation/issues/898))
-- BA.2.38.2: BA.2.38 (=S:417T) + 157S, 444N ([Pango issue #828](https://github.com/cov-lineages/pango-designation/issues/828))
-- BA.2.38.3: BA.2.38 (=S:417T) + 69/70del, 71F, 452Q, 446S, 478R, 1264L ([Pango issue #840](https://github.com/cov-lineages/pango-designation/issues/840))
+
+* BA.2.10.4: BA.2.10 + W64R, 141-144del, 243-244del, G446S, F486P, R493Q, S494P, P1143L ([Pango issue #898](https://github.com/cov-lineages/pango-designation/issues/898))
+* BA.2.38.2: BA.2.38 (=S:417T) + 157S, 444N ([Pango issue #828](https://github.com/cov-lineages/pango-designation/issues/828))
+* BA.2.38.3: BA.2.38 (=S:417T) + 69/70del, 71F, 452Q, 446S, 478R, 1264L ([Pango issue #840](https://github.com/cov-lineages/pango-designation/issues/840))
 
 In addition, the following recently designated lineage is of interest due to its large number of Spike mutations:
-- BJ.1: BA.2.10.1 + S:V83A, H146Q, Q183E, V213E, G339H, R346T, L368I, V445P, G446S, V483A, F490V, G798D, S1003I ([Pango issue #915](https://github.com/cov-lineages/pango-designation/issues/915))
+
+* BJ.1: BA.2.10.1 + S:V83A, H146Q, Q183E, V213E, G339H, R346T, L368I, V445P, G446S, V483A, F490V, G798D, S1003I ([Pango issue #915](https://github.com/cov-lineages/pango-designation/issues/915))
 
 None of these seem to show rapid growth but it is too early to exclude the possibility that they may be or become competitive with BA.4/5 and BA.2.75.
 
@@ -280,10 +283,10 @@ There are BA.4/5 sublineages with other Spike mutations, sometimes multiple Spik
 BA.2 sublineages with multiple Spike mutations keep emerging, mostly from India, but none of these seem to be able to compete with BA.5 and BA.2.75. In some cases the clusters are too small to be able to reliable say anything about the growth advantage.
 
 To give some idea of the Spike profiles, here are a few interesting lineages:
-- BA.2.10 + W64R, 141-144del, 243-244del, G446S, F486P, R493Q, S494P, P1143L [Pango issue #898](https://github.com/cov-lineages/pango-designation/issues/898)
-- BA.2.38 (=S:417T)+ 69/70del, 71F, 452Q, 446S, 478R, 1264L [Pango issue #840](https://github.com/cov-lineages/pango-designation/issues/840)
-- BA.2.38 (=S:417T)+ 157S, 444N [Pango issue #828](https://github.com/cov-lineages/pango-designation/issues/828)
 
+* BA.2.10 + W64R, 141-144del, 243-244del, G446S, F486P, R493Q, S494P, P1143L [Pango issue #898](https://github.com/cov-lineages/pango-designation/issues/898)
+* BA.2.38 (=S:417T)+ 69/70del, 71F, 452Q, 446S, 478R, 1264L [Pango issue #840](https://github.com/cov-lineages/pango-designation/issues/840)
+* BA.2.38 (=S:417T)+ 157S, 444N [Pango issue #828](https://github.com/cov-lineages/pango-designation/issues/828)
 
 # Variant report 2022-07-20
 
@@ -370,10 +373,10 @@ First sequence beginning of June.
 
 Spike shows the following changes compared to BA.2:
 
-- Missing: T19I, 24-26del, 27S not there because that part is from BA.1* parent
-- Donated: 69-70del convergent with many VOCs
-- Additional S:R346K, convergent with BA.1.1
-- Additional S:K147E, S:N460K and reverted S:493 convergent with BA.2.75
+* Missing: T19I, 24-26del, 27S not there because that part is from BA.1* parent
+* Donated: 69-70del convergent with many VOCs
+* Additional S:R346K, convergent with BA.1.1
+* Additional S:K147E, S:N460K and reverted S:493 convergent with BA.2.75
 
 <https://github.com/cov-lineages/pango-designation/issues/823>
 
@@ -397,21 +400,21 @@ Many saltations seem to derive from chronic infections as opposed to fast growin
 
 This is a non-exhaustive list of mutations that are appearing repeatedly in lineages with growth advantage on top of BA.2\*:
 
-- S:64R
-- S:76
-- S:152
-- S:153
-- S:157
-- S:248N/S
-- S:346T/S/I
-- S:354K
-- S:368I
-- S:417T
-- S:444N/T
-- S:446S
-- S:449D/S/N
-- S:450D
-- S:452Q/M
-- S:460K
-- S:468
-- S:478T
+* S:64R
+* S:76
+* S:152
+* S:153
+* S:157
+* S:248N/S
+* S:346T/S/I
+* S:354K
+* S:368I
+* S:417T
+* S:444N/T
+* S:446S
+* S:449D/S/N
+* S:450D
+* S:452Q/M
+* S:460K
+* S:468
+* S:478T

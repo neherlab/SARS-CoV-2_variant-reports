@@ -1,6 +1,6 @@
 # Variant report 2022-10-17
 
-## Various immune evasive variants are x dominant around the world
+## Various immune evasive variants are dominant around the world
 
 Various immune evasive variants have evolved around the world and are in the process of becoming dominant.
 
@@ -47,11 +47,11 @@ XBB has been detected in most countries around the world with a thousand or more
 
 Due to different regional foci of XBB and BQ.1.1, it is not possible to reliably compare whether one variant may be fitter than the other. Two scenarios are possible:
 a) One variant may be fitter and outgrow the other globally
-b) Both variants are similarly fit and antibodies against one variant do not protect as well against the other as against itself: in this case co-circulation is a possiblity.
+b) Both variants are similarly fit and antibodies against one variant do not protect as well against the other as against itself: in this case co-circulation is a possibility.
 
 Countries to watch are in particular: Australia, Japan and South Korea, as they have a similar share of BQ.1.1 as of XBB. Data from these countries could show whether which variant grows faster when cross-immunity is not (yet) a factor.
 
-Countries where one of the variants has become dominant, on the other hand, will allow to judge the degree of cross-immunity. The countries to watch for this are first and foremost Singapore where XBB is already dominant and which generates timely sequence data; and Europe/North America where BQ.1.1 is expected to become dominant and where XBB is also already present at around a 1%. 
+Countries where one of the variants has become dominant, on the other hand, will allow to judge the degree of cross-immunity. The countries to watch for this are first and foremost Singapore where XBB is already dominant and which generates timely sequence data; and Europe/North America where BQ.1.1 is expected to become dominant and where XBB is also already present at around a 1%.
 
 Furthermore, sera from people who have been infected with BQ.1.1 and/or XBB can be tested for cross-reactivity against the other variant.
 
@@ -107,7 +107,7 @@ Plotting the share of variants with at least N mutations on that list looks like
 ![picture 2](../images/1665a1b95431cf904eddc81fbb81c2e991726c9866c4b14ce0c27a2d37efb439.png)
 _Figure 2: Share of variants with at least N key mutations in the RBD worldwide, source: [covSpectrum collection 54](https://cov-spectrum.org/collections/54)_
 
-The gist is: the more key RBD mutations, the faster the growth but the lower the share (as expectable, because anything with >= 5 mutatiosn is automatically in the category of >= 4.
+The gist is: the more key RBD mutations, the faster the growth but the lower the share (as expectable, because anything with >= 5 mutations is automatically in the category of >= 4.
 
 An alternative way to plot is to use exact counts of mutations. In that case, the curve can go down, as higher levels are not included in lower levels. This is what it looks like for 0-3 mutations:
 
@@ -119,13 +119,13 @@ _Figure 4: Share of variants with exactly N key mutations in the RBD worldwide, 
 
 BA.2 (0 extra key RBD muts relative to BA.2) was dominant in April, but replaced by BA.2.12.1 (1 extra key RBD mut relative to BA.2 = S:L452Q). Variants with 2 extra mutations relative to BA.2 never became dominant because BA.4/5 (3 extra muts) arose and became dominant. Variants with 4 extra muts, e.g. BF.7/BA.4.6 (BA.4/5 with extra S:R346T) are now on the verge of becoming dominant but may get overtaken by varies higher level variants.
 
-### Trend from long branch variants to step wise evolution and recombinantion
+### Trend from long branch variants to step wise evolution and recombination
 
 There seems to be a change in the main mode of evolution. Until recently, novel variants predominantly arose on long branches where intermediates were either not circulating or only at low levels, e.g. Alpha, Beta, Gamma, Delta, Omicrons BA.1/2/4/5, BA.2.75
 
 Now, the main mode of evolution seems to be stepwise addition of receptor binding domain mutations. This has been observed now in both BA.2.75 (e.g. BA.2.75.2, BN.1, BM.1.1.1) and within BA.4/5 (BA.4.6, BF.7, BQ.1(.1), ...).
 
-Interestingly, XBB is the first recombinant with a signficant growth advantage, becoming regionally dominant, that has arisen from known parents. While various Omicron lineages likely involved some degree of recombination, this recombination could have occured during the long branch phase, before the parents (donors) were in broad circulation.
+Interestingly, XBB is the first recombinant with a significant growth advantage, becoming regionally dominant, that has arisen from known parents. While various Omicron lineages likely involved some degree of recombination, this recombination could have occurred during the long branch phase, before the parents (donors) were in broad circulation.
 
 It will be interesting to see if this trend continues, where stepwise evolution is the main mode, together with recombination between various step-wise evolved lineages.
 
@@ -135,7 +135,7 @@ In contrast to long branch variants and recombination, step wise evolution is mo
 
 The main difference between BQ.1.1 and XBB seems to be in the number of non-terminal domain (NTD) mutations that XBB has (due to being partially derived from BJ.1 which had many mutations there).
 
-There seems to be an increasing selection pressure for NTD mutations, thoug there seem to be a broader range of sites at which these mutations can be beneficial, e.g. around positions S:248-253, around S:210, and around S:140-160. In particular, the S:Y144- deletion seems to arise frequently in BQ.1.1 and other recent lineages and could potentially provide an additional growth advantage.
+There seems to be an increasing selection pressure for NTD mutations, though there seem to be a broader range of sites at which these mutations can be beneficial, e.g. around positions S:248-253, around S:210, and around S:140-160. In particular, the S:Y144- deletion seems to arise frequently in BQ.1.1 and other recent lineages and could potentially provide an additional growth advantage.
 
 It is plausible that with the RBD evolving to escape neutralizing antibodies, the NTD will become a relatively more important target for neutralizing antibodies - which in turn could lead to increased selection pressure for NTD mutations.
 
@@ -160,13 +160,13 @@ It is plausible that the daughter lineage BQ.1.1 with additional S:346T will gro
 
 The relative growth rate of BQ.1 in the current BA.5 background is on the order of a doubling in share every week. BQ.1 made up around 1% of samples collected in Europe and North America in the middle of September.
 
-BA.2.75's various sublineages, including BA.2.75.2, continue to show a substantial growth advantage over circulating BA.5 - however, BQ.1 apperas to grow faster. In Europe and North America, the proportion of BA.2.75\* and BQ.1 is already roughly similar, despite BA.2.75\* having been present two months earlier. In Asia, there is still much more BA.2.75\* than BQ.1.
+BA.2.75's various sublineages, including BA.2.75.2, continue to show a substantial growth advantage over circulating BA.5 - however, BQ.1 appears to grow faster. In Europe and North America, the proportion of BA.2.75\* and BQ.1 is already roughly similar, despite BA.2.75\* having been present two months earlier. In Asia, there is still much more BA.2.75\* than BQ.1.
 
 Tom Wenseleers calculates a growth advantage over BA.5.2 of just below 14% per day for BQ.1, whereas BA.2.75.2 comes in lower at around 9% per day. This is consistent with BQ.1 doubling in share every week.
 
 ![picture 3](../images/5a92709aae16dbfb3b50e2963ea40f259b9b4285282d6c02e1eab795e02dd44f.png)
 
-(from https://twitter.com/TWenseleers/status/1574070423175966720?s=20&t=bNy5CvKmfDwXOIhIVB6z5g)
+(from <https://twitter.com/TWenseleers/status/1574070423175966720?s=20&t=bNy5CvKmfDwXOIhIVB6z5g>)
 
 There are other members of the BA.2.75\* family that could still outcompete BA.2.75.2 but the data is too scarce at this point to draw conclusions. One candidate is BN.1 which has the immune escape substitution S:356T in addition to the S:346T shared with BA.2.75.2.
 
@@ -186,7 +186,7 @@ The "Great Convergence" of similar mutations arising independently has been illu
 
 ![picture 4](../images/94fa740b8006bce1118e387bf502018dbfcd9d1f99a60fb61c72f192996878ef.png)
 
-(from https://twitter.com/SolidEvidence/status/1574040436204871680?s=20&t=bNy5CvKmfDwXOIhIVB6z5g)
+(from <https://twitter.com/SolidEvidence/status/1574040436204871680?s=20&t=bNy5CvKmfDwXOIhIVB6z5g>)
 
 ## BA.2.75.2 and other novel lineages show significant immune escape
 
@@ -198,7 +198,7 @@ Unfortunately, BQ.1.1 escapes both evusheld and bebtelovimab:
 
 ![picture 8](../images/566353ff2eb766fb14a0490579b8fcac41dc1944e837fac727863a6e1fd05f09.png)  
 
-For more details see their preprint: https://t.co/itJGuLfW3y
+For more details see their preprint: <https://t.co/itJGuLfW3y>
 
 # Variant report 2022-09-14
 
@@ -206,8 +206,8 @@ For more details see their preprint: https://t.co/itJGuLfW3y
 
 The BA.2.75 sublineage BA.2.75.2 (S:346T, S:486S, S:1199N) currently doubles in share every week (+80-120%). It made up between 0.1 and 0.5% in samples from two weeks ago in Europe (in Asia, North America and Oceania, the share is higher at between 0.5-5%).
 
- * [Global Cov-Spectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
- * [Europe Cov-Spectrum query](https://cov-spectrum.org/explore/Europe/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
+- [Global Cov-Spectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
+- [Europe Cov-Spectrum query](https://cov-spectrum.org/explore/Europe/AllSamples/Past6M/variants?nextcladePangoLineage=BA.2.75.2*&)
 
 If this growth trend continues, this variant will dominate in about two months.
 At this point, the growth advantage would manifest in increased overall growth in incidence and a variant wave would start around November - on top of the expected seasonal acceleration of transmission.
@@ -269,7 +269,7 @@ The following sublineages of BA.2.75 deserve attention as they are the most obvi
 
 A growth advantage of 10%/day means it takes ~6 weeks from 1% share to 50%, (5%/day -> ~3 months, 3% -> ~5 months), if the growth advantage of the above lineages hold up, BA.2.75\* could become dominant globally (including Europe) by the end of October.
 
-The figure below shows how BA.2.75* with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
+The figure below shows how BA.2.75\*with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75\*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
 
 ![Fit sublineages of BA.2.75*](../images/16583f442fb9aa6a9fc13380d61bc30322b74da6691fec377e04e9b242d75154.png)
 
@@ -331,7 +331,7 @@ While BA.4.6 is the single most common BA.4/5 lineage with S:346, it has a growt
 Globally, BA.5 with S:R346T is expected to become more common than BA.4 with S:R346T in sequences from this month - although there are naturally regional variations. For example, in Belgium BA.5 with S:R346T is already much more common than BA.4 with S:R346T while in the US the BA.4 lineages are still more frequent.
 
 ![Comparison of BA.4 and BA.5 with S:346T](../images/4c15fb1b1b4fed15805df44719b8887f9dec50e695efeaf9af61e178592ce3f6.png)
-*Figure 1: BA.5 with S:R346T is overtaking BA.4 with S:R346T on a global level, source [covSpectrum](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=nextcladePangoLineage%3ABA.4*+%26+S%3A346T&variantQuery1=nextcladePangoLineage%3ABA.5*+%26+S%3A346T&analysisMode=CompareEquals&)*
+_Figure 1: BA.5 with S:R346T is overtaking BA.4 with S:R346T on a global level, source [covSpectrum](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=nextcladePangoLineage%3ABA.4*+%26+S%3A346T&variantQuery1=nextcladePangoLineage%3ABA.5*+%26+S%3A346T&analysisMode=CompareEquals&)_
 
 If evolution was frozen with only existing lineages, BA.5 + S:346T would be expected to become the dominant variant approximately in October 2022. BA.5 + S:346T made up around 1% in European countries at the end of July.
 
@@ -344,6 +344,7 @@ Of course, other fitter lineages, be it sublineages of BA.4/5, of BA.2 (e.g. BA.
 BA.2.75 has continued growing in share in India and has been dominant since the end of July, despite the presence of BA.5.
 
 Other countries where BA.2.75 has established itself at levels >1% at the beginning of August are:
+
 - Nepal (>50%)
 - Singapore (~10%)
 - Australia (~2%)
@@ -374,11 +375,13 @@ Even if no other novel variant evolves, the large number of sublineages that hav
 ## Developments outside of BA.4/5 and BA.2.75
 
 Some of the novel lineages that have been discussed in the previous report have recently been designated:
+
 - BA.2.10.4: BA.2.10 + W64R, 141-144del, 243-244del, G446S, F486P, R493Q, S494P, P1143L ([Pango issue #898](https://github.com/cov-lineages/pango-designation/issues/898))
 - BA.2.38.2: BA.2.38 (=S:417T) + 157S, 444N ([Pango issue #828](https://github.com/cov-lineages/pango-designation/issues/828))
 - BA.2.38.3: BA.2.38 (=S:417T) + 69/70del, 71F, 452Q, 446S, 478R, 1264L ([Pango issue #840](https://github.com/cov-lineages/pango-designation/issues/840))
 
 In addition, the following recently designated lineage is of interest due to its large number of Spike mutations:
+
 - BJ.1: BA.2.10.1 + S:V83A, H146Q, Q183E, V213E, G339H, R346T, L368I, V445P, G446S, V483A, F490V, G798D, S1003I ([Pango issue #915](https://github.com/cov-lineages/pango-designation/issues/915))
 
 None of these seem to show rapid growth but it is too early to exclude the possibility that they may be or become competitive with BA.4/5 and BA.2.75.
@@ -432,10 +435,10 @@ There are BA.4/5 sublineages with other Spike mutations, sometimes multiple Spik
 BA.2 sublineages with multiple Spike mutations keep emerging, mostly from India, but none of these seem to be able to compete with BA.5 and BA.2.75. In some cases the clusters are too small to be able to reliable say anything about the growth advantage.
 
 To give some idea of the Spike profiles, here are a few interesting lineages:
+
 - BA.2.10 + W64R, 141-144del, 243-244del, G446S, F486P, R493Q, S494P, P1143L [Pango issue #898](https://github.com/cov-lineages/pango-designation/issues/898)
 - BA.2.38 (=S:417T)+ 69/70del, 71F, 452Q, 446S, 478R, 1264L [Pango issue #840](https://github.com/cov-lineages/pango-designation/issues/840)
 - BA.2.38 (=S:417T)+ 157S, 444N [Pango issue #828](https://github.com/cov-lineages/pango-designation/issues/828)
-
 
 # Variant report 2022-07-20
 
