@@ -4,15 +4,15 @@
 
 Only a handful of broad variants and their descendants dominate global circulation.
 
-### BA.5
+### BA.5 (Nextstrain clade 22B)
 
-BA.5 and its children is the dominant variant in Africa, Europe and the Americas where it is responsible for around 80% of infections. The fastest growing child lineage is BQ.1 in particular with extra mutations S:R346T and S:Y144- a combination that has arisen multiple times independently.
+BA.5 and its children is the dominant variant in Africa, Europe and the Americas where it is responsible for around 80% of infections. The fastest growing child lineage is BQ.1 (22E) in particular with extra mutations S:R346T and S:Y144- a combination that has arisen multiple times independently.
 
-### BA.2.75
+### BA.2.75 (22D)
 
 BA.2.75 and child lineages is particularly common in South Asia (India, Bangladesh) where it accounts for between 20 and 80% of infections. The fastest growing child lineages are CH.1.1 and to a lesser extent CJ.1/XBF and BN.1.
 
-### XBB
+### XBB (22F)
 
 XBB can now be considered a separate macro variant due to its significant spread in South Asia (India, Bangladesh, Singapore, Indonesia) where it accounts for up to 80% of infections, depending on location. Antigenically mutated sublineages have emerged, most notably XBB.4 (S:K444R) common in Indonesia and XBB.1.5 (S:486P) which is growing on the US east coast.
 
@@ -42,14 +42,14 @@ Among the many new lineages, a few stand out due to growth and spike mutations:
 
 The following three have immediate potential for dominance:
 
-- [BQ.1 + S:R346T + S:Y144-](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?aaMutations=S%3AR346T%2CS%3A144-&nextcladePangoLineage=BQ.1*&): ~5% globally, doubling every week
-- [CH.1.1](https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?nextcladePangoLineage=CH.1.1*&): ~1% globally, doubling every week
-- [XBB.1.5](https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?nextcladePangoLineage=XBB.1.5*&): 43 sequences since first upload 7th of November, mostly US east coast, but 1x in Denmark/Switzerland each, too early to tell growth advantage but appears significant
+- [BQ.1 + S:R346T + S:Y144-](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?aaMutations=S%3AR346T%2CS%3A144-&nextcladePangoLineage=BQ.1*&): ~5% globally, doubling every week, found in multiple lineages: e.g. BQ.1.18, BQ.1.10/20/21/22/25
+- [CH.1.1](https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?nextcladePangoLineage=CH.1.1*&): ~1% globally, doubling every week, extra Spike mutations S:R346T, S:K444T, S:L452R, S:F486S on top of BA.2.75
+- [XBB.1.5, extra S:S486P](https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?nextcladePangoLineage=XBB.1.5*&): 43 sequences since first upload 7th of November, mostly US east coast, but 1x in Denmark/Switzerland each, too early to tell growth advantage but appears significant
 
 The following four are interesting due to growth and being different from the above:
-- [CJ.1/XBF](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?variantQuery=nextcladePangoLineage%3ACJ.1*+%7C+nextcladePangoLineage%3AXBF*&): Growing in Australia and Denmark, the spike of XBF is identical to CJ.1
-- [XBC.1](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?nextcladePangoLineage=XBC.1&): Delta-Omicron recombinant that is growing in Australia
-- [XAY.1](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?nextcladePangoLineage=XAY.1*&): Delta-Omicron recombinant that keeps circulating in South Africa
+- [CJ.1/XBF](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?variantQuery=nextcladePangoLineage%3ACJ.1*+%7C+nextcladePangoLineage%3AXBF*&): Growing in Australia and Denmark, the spike of XBF is identical to CJ.1, extra S:486F->S->P, S:R346T, S:F490S on top of BA.2.75
+- [XBC.1](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?nextcladePangoLineage=XBC.1&): Delta-Omicron recombinant that is growing in Australia, extra Spike mutation S:L452M on top of XBC
+- [XAY.1](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?nextcladePangoLineage=XAY.1*&): Delta-Omicron recombinant that keeps circulating in South Africa, extra S:D253G on top of XAY
 - [CM.8.1](https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?nextcladePangoLineage=CM.8.1*&): BA.2.3.20 with S:G446S and S:F486S, growing among others in Japan, California
 
 # Variant report draft 2022-11-11
