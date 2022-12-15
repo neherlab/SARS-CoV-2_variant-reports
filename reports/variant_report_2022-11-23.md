@@ -1,69 +1,3 @@
-# Variant report 2022-12-15
-
-## General picture
-
-The trend of increasing diversification continues. BA.2 was the last variant that became nearly dominant all around the world.
-
-Since then, different regions have had different distributions of variants. 22B (BA.5\*) got close to dominant in most regions except on the Indian subcontinent, where 22D (BA.2.75\*) took off before 22B got fully established.
-
-22E (BQ.1\*) grew fast when it arrived in Africa, Europe and the Americas, but has recently culminated at between 25-75% share in Europe and North America.
-
-22F (XBB\*) appears to have almost fixed on the Indian subcontinent, however, this is not true of other regions it spread to. 22F quickly grew to around 50% in Singapore but it has remained there at that level since.
-
-22D (BA.2.75\*) has been growing in share compared to 22E (BQ.1\*) in Europe and North America, but it has not yet reached dominance.
-
-Overall, there seems to be no clear winner. There appears to be an equilibrium of continuous antigenic evolution, that is:
-
-- fast enough that there is a turnover of lineages every few months
-- yet slow and homoplasic enough that
-  - replacements cause moderate rather than dramatic waves
-  - and that no single lineage dominates globally
-
-For example, BF.7\* grew close to exponentially in Europe from first detection in May 2022 until September 2022, reaching a maximum of 12% share in Europe at the end of October. Yet, due to the evolution of fitter lineages, BF.7\* has since shrunk at an increasing pace to around 5% at the end of November. By the beginning of 2023, there will be not much BF.7\* left.
-
-Without antigenic evolution, case numbers would hence be much lower than they currently are.
-
-## Fastest growing lineages
-
-- CH.1.1 (BA.2.75 + S:R346T, S:K444T, S:L452R, S:F486S)
-  - Doubling every 1-2 weeks
-  - Makes up around 5% of global sequences at the beginning of December.
-  - Particularly common in New Zealand (~20%), Thailand (~10-20%), UK (~5-10%)
-- XBB.1.5 (XBB.1 + S:F486P)
-  - Doubling every week or faster
-  - Makes up around 1% of global sequences at the beginning of December.
-  - Particularly common in New York state (~10-20%) and the US east coast
-- BQ.1\* + S:R346T + S:Y144-
-  - Doubling every 2 weeks
-  - ~10% of global sequences at the beginning of December.
-  - Particularly common in Europe (~10-20%), only 2% in the US
-
-## Lineages of interest
-
-### XAY
-
-XAY, a Delta-Omicron recombinant previously mentioned, has been circulating in South Africa at ~1-5% since June 2022, where it neither seems to disappear nor grow above that ~5%.
-It was first detected in Denmark in September 2022 where it has been doubling every 2 weeks and now makes up 2% of all sequences in Denmark.
-XAY has also been detected sporadically in increasing numbers in other European countries and globally.
-What differentiates XAY from other growing lineages is that it has apparently not undergone any significant antigenic evolution in the Spike protein. Nonetheless, it has been growing at a steady pace in Denmark.
-One possible explanation for this unusual behaviour may be that Denmark never had a significant BA.1 wave.
-
-### BA.2.3.20
-
-BA.2.3.20 is of interest as it appears to be rather different from the other major variants like BA.5\*, BA.2.75\* and XBB\*. It makes up around 1% of global sequences. Overall, it doesn't appear to grow, however, it has sublineages like CM.8.1 that _are_ doubling at least every 2 weeks. Interestingly, RBD mutation S:G485D is very homoplasic in BA.2.3.20 while hardly seen in other variants. This may be due to epistasis with S:484R, which is defining for BA.2.3.20.
-
-## Thoughts on S:F486P
-
-The 2-step RBD mutation S:F486P, discussed previously, appears to confer a significant growth advantage on the order of ~50%/week, potentially larger than that of S:R346T seen in the past.
-
-S:F486P is already present in many lineages (XBB.1.5, XBF/CJ.1, XAY, XBC, CH.3) and is otherwise reachable in one step for a large number of lineages in the BA.2.75\* and BA.2.3.20\* families, those with S:F486S.
-
-In contrast, S:F486P is very hard to reach for lineages deriving from BA.4/5, requiring 2 steps, one of which is a rare G->C, since 486 is mutated to V in BA.4/5.
-The shortest path from V to P goes via either L or A. L has globally only been observed 8 times with BA.5\* making this path very unlikely.
-A on the other hand has been observed, most notably in BW.1.1 which makes up around 10% of sequences in Mexico (S:Y144-, S:K444T, S:N460K, S:F486A)
-However, to get from A to P still requires the rare G->C mutation. And BW.1.1 notably lacks S:R346T.
-This relative difficulty of reaching S:F486P for BA.5\* lineages may cause it to be outcompeted in the mid-term by BA.2.75\*, XBB\* and potentially BA.2.3.20\* or XAY.
-
 # Variant report 2022-11-23
 
 ## Macro trends
@@ -98,7 +32,7 @@ BS.1 appears to have been close to being the dominant lineage in Vietnam. It has
 
 ## Convergent evolution of S:486P - a 2 step mutation
 
-Spike substitution S:F486P has started to grow fast in recent weeks. It is distinctive by requiring two nucleotide substitutions: T23018C and T23019C. The transition from F to P has usually happened through the common intermediate S. It has evolved at least half a dozen times independently in a number of lineages: XAY, XBC, CJ.1 (= Spike donor of XBF), BA.2.10.4, XBB.1.5, CA.4.
+Spike substitution S:F486P has started to grow fast in recent weeks. It is distinctive by requiring two nucleotide substitutions: T23018C and T23019C. The transition from F to P has usually happened through the common intermediate S. It has evolved at least half a dozen times independently in a number of lineages: XAY, XBC, CJ.1 (= Spike of XBF), BA.2.10.4, XBB.1.5, CA.4.
 
 Based on Jesse Bloom's ACE2 binding calculator, S:486P is predicted to significantly boost ACE2 binding affinity - which could explain the recent emergence, given that the intermediate has only recently been present in measurable numbers. Until June 2022, S:486S had only been sequenced 161 times, essentially background noise. Since June 2022, S:486S has been sequenced more than 14 thousand times.
 
