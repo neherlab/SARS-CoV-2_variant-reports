@@ -1,40 +1,3 @@
-# Variant report 2022-12-22
-
-## XBB.1.5  grows fast, in New York state and globally
-
-XBB.1.5 (XBB.1 + S:F486P), first mentioned in every report in this series since 2022-11-11 keeps growing fast and is predicted to be already dominant in New York state in samples collected on 2022-12-22. XBB.1.5 seems to grow by a factor of 2.2-2.5 every week (though these factors tend to decrease slightly as more data becomes available). A doubling per week compared to the average of circulating variants is still remarkable and on the order of Delta vs Alpha.
-
-![Growth of XBB.1.5 in New York state](../images/acbe498b8f9a2e5ff5fbc243ede239329bb981f224509fcf2dcc88af0841389b.png)
-*Figure 1: Growth of XBB.1.5 in New York state*
-
-The further one moves away from NY state, the less common XBB.1.5 becomes. In Connecticut, Massachusets & New Jersey, XBB is well above 20% at the time of writing. In California, it is around 5%.
-
-Globally, outside the US, XBB.1.5 appears to make up around 0.5-5%. Even Canada does not seem to have much more than 1% yet. Less than 100 of the 1400 XBB sequences have been collected outside the US, so it is not yet possible to confirm the growth advantage in other countries.
-
-Given the strong growth advantage that S:486P seems to confer in the XBB backbone, it is not unlikely that it arises independently - though at this point there is no clear evidence for such a lineage, yet.
-
-## No recent sequences from mainland China, sparse traveler data
-
-Given the reported surge in infections in mainland China, it is of particular interest what the circulating variants are. However, there is a total lack of recent sequences from community circulation in mainland China. The 15 sequences submitted to GISAID with collection date since 2022-09-01 are apparently from travellers to China, they are annotated as `Nanjing Customs Port Outpatient Department, Jiangsu International Travel Health Care Center, Center Laboratory of Health Quarantine`.
-
-There are around 400 sequences from Huanan with collection date in August 2022. These are all BA.5.1.3.
-
-Due to the lack of sequence submissions from China, the best information available is via sequences that have been annotated as coming from a traveler who had been to China - though it is not known with certainty that travelers actually got infected while in China.
-
-Singapore has submitted 3 sequences with collection date in December 2022 that are annotated as `With travel history to China`. It is not certain that this means `mainland China` as Hong Kong, Macau and Taiwan could also be referred to as `China`. These sequences are BA.5, BA.5.1 and BA.5.2 respectively.
-
-With collection dates in November 2022, there are 7 sequences uploaded from Singapore (3), Japan (3), South Korea (1). The lineages represented are:
-
-- 3 x BA.5 (BA.5.1, BA.5.2, BA.5.6)
-- 1 x BQ.1.22 (BQ.1 with S:R346T)
-- 1 x XBB.1
-- 1 x CH.1.1
-- 1 x BA.2.3.20
-
-For collection date October, the following lineages were reported in travelers: BA.5.2.20, BF.5, CM.3
-
-These lineages are typical for circulation in Asia. It is interesting, though, that out of 13 sequences, BA.2.3.20* appears twice. BA.2.3.20 has only been found at above >5% in the Philippines. Yet, 13 sequences from travelers from China are too few to allow for any conclusions.
-
 # Variant report 2022-12-15
 
 ## General picture
@@ -87,7 +50,7 @@ One possible explanation for this unusual behaviour may be that Denmark never ha
 
 ### BA.2.3.20
 
-BA.2.3.20 is of interest as it appears to be rather different from the other major variants like BA.5\*, BA.2.75\* and XBB\*. It makes up around 1% of global sequences. Overall, it doesn't appear to grow, however, it has sublineages like CM.8.1 that *are* doubling at least every 2 weeks. Interestingly, RBD mutation S:G485D is very homoplasic in BA.2.3.20 while hardly seen in other variants. This may be due to epistasis with S:484R, which is defining for BA.2.3.20.
+BA.2.3.20 is of interest as it appears to be rather different from the other major variants like BA.5\*, BA.2.75\* and XBB\*. It makes up around 1% of global sequences. Overall, it doesn't appear to grow, however, it has sublineages like CM.8.1 that _are_ doubling at least every 2 weeks. Interestingly, RBD mutation S:G485D is very homoplasic in BA.2.3.20 while hardly seen in other variants. This may be due to epistasis with S:484R, which is defining for BA.2.3.20.
 
 ## Thoughts on S:F486P
 
@@ -156,7 +119,7 @@ The following four are interesting due to growth and being different from the ab
 - [XAY.1](https://cov-spectrum.org/explore/World/AllSamples/from=2022-06-01&to=2022-11-30/variants?nextcladePangoLineage=XAY.1*&): Delta-Omicron recombinant that keeps circulating in South Africa, extra S:D253G on top of XAY
 - [CM.8.1](https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?nextcladePangoLineage=CM.8.1*&): BA.2.3.20 with S:G446S and S:F486S, growing among others in Japan, California
 
-# Variant report 2022-11-11
+# Variant report draft 2022-11-11
 
 The general trend towards step-wise antigenic drift as opposed to evolutionary jumps continues. The same key mutations keep appearing in different lineages in new or identical combinations.
 
@@ -218,9 +181,9 @@ Besides S:R346T, the other major mutation that seems to confer a significant gro
 
 Interestingly, relative growth advantage estimates conferred by S:144- seem to be higher when S:R346T is also present. While this could be a statistical artifact, it is also plausible that in the presence of S:R346T the remaining neutralizing antibodies bind particularly to the N-terminal domain which S:144- could disrupt.
 
-In samples collected in early October, in BQ.1* *without S:R346T*, S:144- was present in ~15% of them, with relative growth advantage of S:144- of at around [3-5%/day](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26%21+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26%21+S%3A346T&analysisMode=CompareToBaseline&).
+In samples collected in early October, in BQ.1* _without S:R346T_, S:144- was present in ~15% of them, with relative growth advantage of S:144- of at around [3-5%/day](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26%21+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26%21+S%3A346T&analysisMode=CompareToBaseline&).
 
-In BQ.1* *with S:R346T*, S:144- was present in ~10% of them, with relative growth advantage of S:144- of at around [7-12%/day](https://cov-spectrum.org/explore/World/AllSamples/from=2022-09-01&to=2022-10-19/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26+S%3A346T&analysisMode=CompareToBaseline&).
+In BQ.1* _with S:R346T_, S:144- was present in ~10% of them, with relative growth advantage of S:144- of at around [7-12%/day](https://cov-spectrum.org/explore/World/AllSamples/from=2022-09-01&to=2022-10-19/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26+S%3A346T&analysisMode=CompareToBaseline&).
 
 With only 200 BQ.1* with S:R346T and S:Y144- in GISAID by 2022-10-26 there are no reliable growth advantages yet. This mutation combination seems to be particularly common in France and makes up a bit more than 1% of total sequences at the beginning of October.
 
