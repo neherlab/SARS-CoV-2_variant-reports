@@ -1,100 +1,3 @@
-# Variant report 2023-01-02
-
-## The surge in China is dominated by BA.5.2 and BF.7
-
- * **Circulation in China is dominated by BA.5.2 and BF.7**
- * **Sequences obtained from travellers from China support BA.5.2 and BF.7 as main variants**
- * **The BA.5.2 and BF.7 clusters from China have considerable diversity consistent with several months of circulation.**
- * **Isolated observation of other lineages might reflect global diversity sampled in Chinese quarantine facilities**
- * **No highly mutated sequences have been submitted**
-
-Over the last two weeks, about 600 sequences with collection dates after Nov 1st from mainland China have been deposited in GISAID.
-Some, in particular those from Shanghai are labeled as imported cases and are ignored here for the purpose of investigating diversity in China.
-In addition to cases from China, about 100 sequences obtained from samples from travels from China to Singapore, South Korea, Japan, Italy, and the US are available.
-Taken together, these samples allow a rough assessment of the diversity of SARS-CoV-2 variants circulating in China.
-Most of these samples are from Nextstrain clade 22B and more specifically Pango-lineages BA.5.2 and BF.7.
-
-![samples_from_china](../images/2023-01-01_china_overview.png)
-*Overview of samples from China*
-
-The top cluster in the above tree is Pango lineage BA.5.2.
-The recent sequences suggest that multiple BA.5.2 lineages are circulating in China which are represented in Chinese data as well as in Travel exports.
-The two larger lineages have substantial diversity (sequences are around 5 mutations from the root of these clades), suggesting they have circulated for several months.
-
-![samples_from_china](../images/2023-01-01_BA52.png)
-*BA.5.2 fall into two sublineages, one of which carried the mutation T883I in Spike (Green). The other lineages as branch with Spike mutation A570S (Orange).*
-
-
-The other big group is lineage BF.7. Again, this lineage seems to have acquired substantial diversity in China in the last few months.
-The most common mutation is Spike:C1243F.
-
-![samples_from_china](../images/2023-01-01_BF7.png)
-*BA.7 samples mostly come from a group with a mutation at spike position 1243.*
-
-
-Both of these major BA.5.2 and BF.7 clusters are distributed across China.
-
-![samples_from_china](../images/2023-01-01_across_china.png)
-*Both groups are distributed across mainland China.*
-
-
-The remaining sequences tend to be isolated in the tree surrounded by global diversity.
-They mostly come from Shanghai and Jiangsu.
-The lineages they belong to are common globally (BQ.1.1, XBB, BN).
-Many of those from Jiangsu originate from the *Nanjing Customs Port Outpatient Department*, which might imply these are samples from incoming travelers.
-Similarly, not all samples from Shanghai incoming quarantine facilities might have been identified as such.
-
-### Acknowledgements
-
-The sequence data from China and the traveler data was generously shared via GISAID orginate the following laboratories
-
- * Shanghai Public Health Clinical Center, Fudan University
- * Fujian Provincial Center for Disease Control and Prevention
- * Beijing Changping Laboratory
- * National Public Health Laboratory, National Centre for Infectious Diseases
- * Sichuan Center of Disease Control and Prevention
- * Beijing Center for Disease Control and Prevention
- * Nanjing Customs Port Outpatient Department
- * Division of Infectious Disease Diagnosis Control, Honam Regional Center for Disease Control and Prevention, Korea Disease Control and Prevention Agency, KDCA
- * Guangdong Provincial Center for Diseases Control and Prevention
- * Laboratory of Microbiology, ASST SetteLaghi, Varese, Italy
- * SARS-CoV-2 testing team, National Institute of Infectious Diseases
- * Jinhua Center of Disease Control and Prevention
- * The Center for Disease Control and Prevention of Inner Mongolia
- * Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency
- * Zhoushan Center of Disease Control and Prevention
- * Center Laboratory of Health Quarantine, Nanjing Customs District P.R. China
- * Hangzhou Center of Disease Control and Prevention
- * Northeastern LSTC
- * Center Laboratory of Health Quarantine, Nanjing Customs
- * The Center for Disease Control and Prevention of Hulunbeier
- * Ordos City Center for Disease Control and Prevention
- * Chifeng Centers for Disease Control and Prevention
- * Baotou City Center for Disease Control and Prevention
- * Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention
- * Division of Laboratory Diagnosis Analysis, Jeju Branch Office, Honam Regional Center for Disease Control and Prevention, Korea Diseases Control and Prevention Agency
-
-They were submitted by
-
- * Shanghai Institute of Hematology, National Research Center for Translational Medicine, State Key Laboratory of Medical Genomics, Ruijin Hospital Affiliated to Shanghai Jiao Tong University (SJTU) School of Medicine
- * Fujian Provincial Center for Disease Control and Prevention
- * Beijing Changping Laboratory
- * National Public Health Laboratory, National Centre for Infectious Diseases
- * Sichuan Center of Disease Control and Prevention
- * Beijing Center for Disease Control and Prevention
- * Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency
- * National Institute for Viral Disease Control and Prevention, China CDC
- * Jiangsu International Travel Health Care Center, Center Laboratory of Health Quarantine
- * Zhejiang Province Center of Disease Control and Prevention
- * National Institute for Viral Disease Control and Prevention
- * Laboratory of Microbiology, ASST SetteLaghi, Varese, Italy
- * Pathogen Genomics Center, National Institute of Infectious Diseases
- * Center Laboratory of Health Quarantine, Nanjing Customs District P.R. China
- * Center Laboratory of Health Quarantine, Nanjing Customs
- * Ginkgo Bioworks Clinical Laboratory / XpressCheck
- * Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention
-
-
 # Variant report 2022-12-22
 
 ## XBB.1.5  grows fast, in New York state and globally
@@ -365,7 +268,7 @@ Both variants are found to evade neutralizing antibodies produced by vaccine and
 
 Both variants notably evade antibodies produced after breakthrough infection with BA.5, see the figure:
 
-![picture 1](../images/cb30c283a82af13c8bccb3cbd407f8157d130ed622eefc523fdd46d3fd757982.png)
+![picture 1](../images/cb30c283a82af13c8bccb3cbd407f8157d130ed622eefc523fdd46d3fd757982.png)  
 _Figure 1: BQ.1.1 and XBB evade antibodies produced after breakthrough infection with BA.5. Source: [@YunlongCao](https://twitter.com/yunlong_cao/status/1577343564572659712?s=20&t=rmsPt8YhfYSRW6-X2_8hsw)_
 
 ### BQ.1.1 not far from dominance in Europe and North America
@@ -464,10 +367,10 @@ The gist is: the more key RBD mutations, the faster the growth but the lower the
 
 An alternative way to plot is to use exact counts of mutations. In that case, the curve can go down, as higher levels are not included in lower levels. This is what it looks like for 0-3 mutations:
 
-![picture 3](../images/4cbc0c76ba23fbd05602916aa9007eb903b8570d2414491df5a63a95535eb5f0.png)
+![picture 3](../images/4cbc0c76ba23fbd05602916aa9007eb903b8570d2414491df5a63a95535eb5f0.png)  
 _Figure 3: Share of variants with exactly N key mutations in the RBD worldwide, source: [covSpectrum collection 54](https://cov-spectrum.org/collections/54)_
 
-![picture 5](../images/68c26046dc54a1a8e2360bf8c03d5d904288162a962bcc626a1e1e349fb99ee8.png)
+![picture 5](../images/68c26046dc54a1a8e2360bf8c03d5d904288162a962bcc626a1e1e349fb99ee8.png)  
 _Figure 4: Share of variants with exactly N key mutations in the RBD worldwide, source: [covSpectrum collection 54](https://cov-spectrum.org/collections/54)_
 
 BA.2 (0 extra key RBD muts relative to BA.2) was dominant in April, but replaced by BA.2.12.1 (1 extra key RBD mut relative to BA.2 = S:L452Q). Variants with 2 extra mutations relative to BA.2 never became dominant because BA.4/5 (3 extra muts) arose and became dominant. Variants with 4 extra muts, e.g. BF.7/BA.4.6 (BA.4/5 with extra S:R346T) are now on the verge of becoming dominant but may get overtaken by varies higher level variants.
@@ -549,7 +452,7 @@ Yunlong Richard Cao has shared a vast amount of experimental data on neutralizat
 
 Unfortunately, BQ.1.1 escapes both evusheld and bebtelovimab:
 
-![picture 8](../images/566353ff2eb766fb14a0490579b8fcac41dc1944e837fac727863a6e1fd05f09.png)
+![picture 8](../images/566353ff2eb766fb14a0490579b8fcac41dc1944e837fac727863a6e1fd05f09.png)  
 
 For more details see their preprint: <https://t.co/itJGuLfW3y>
 
