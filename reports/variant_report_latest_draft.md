@@ -8,18 +8,21 @@
  * **Isolated observation of other lineages might reflect global diversity sampled in Chinese quarantine facilities**
  * **No highly mutated sequences have been submitted**
 
-Over the last two weeks, about 600 sequences with collection dates after Nov 1st from mainland China have been deposited in GISAID.
+Over the last two weeks, about 600 sequences with collection dates after Nov 1st 2022 from mainland China have been deposited in GISAID.
 Some, in particular those from Shanghai are labeled as imported cases and are ignored here for the purpose of investigating diversity in China.
-In addition to cases from China, about 100 sequences obtained from samples from travels from China to Singapore, South Korea, Japan, Italy, and the US are available.
+In addition to cases from China, about 100 sequences obtained from samples from travellers from China to Singapore, South Korea, Japan, Italy, or the US are available.
 Taken together, these samples allow a rough assessment of the diversity of SARS-CoV-2 variants circulating in China.
 Most of these samples are from Nextstrain clade 22B and more specifically Pango-lineages BA.5.2 and BF.7.
 
 ![samples_from_china](../images/2023-01-01_china_overview.png)
-*Overview of samples from China*
+*Overview of samples from China. The two dense clusters are BA.5.2 (top) and BF.7 (middle).*
 
 The top cluster in the above tree is Pango lineage BA.5.2.
-The recent sequences suggest that multiple BA.5.2 lineages are circulating in China which are represented in Chinese data as well as in Travel exports.
-The two larger lineages have substantial diversity (sequences are around 5 mutations from the root of these clades), suggesting they have circulated for several months.
+The recent sequences suggest that at least two distinct clusters of BA.5.2 are circulating in China.
+Both clusters are represented in Chinese data as well as in travel exports.
+These two clusters have substantial diversity (sequences are around 5 mutations from the root of these clusters), suggesting they have circulated for several months.
+But they remain very similar to global diversity and don't contain highly mutated sequences.
+It is unclear whether their common ancestor was in China or whether these two cluster stem from separate introductions.
 
 ![samples_from_china](../images/2023-01-01_BA52.png)
 *BA.5.2 fall into two sublineages, one of which carried the mutation T883I in Spike (Green). The other lineages as branch with Spike mutation A570S (Orange).*
@@ -35,7 +38,7 @@ The most common mutation is Spike:C1243F.
 Both of these major BA.5.2 and BF.7 clusters are distributed across China.
 
 ![samples_from_china](../images/2023-01-01_across_china.png)
-*Both groups are distributed across mainland China.*
+*Both groups (BF.7 yellow, BA.5.2 green) are distributed across mainland China.*
 
 
 The remaining sequences tend to be isolated in the tree surrounded by global diversity.
