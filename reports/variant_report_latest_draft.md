@@ -22,7 +22,7 @@ XBB.1.5 rose rapidly in frequency in the North East of the USA and has been domi
 Outside of the North East of the US the variant is still sub-dominant, but increasing.
 
 ![XBB15_NY](../images/2023-01-06_XBB15_NY.png)<br>
-*XBB.1.5 is dominating in New York and the logistic extrapolation puts its current frequency between 80% and 90%. See [Cov-Spectrum](https://cov-spectrum.org/explore/United%20States/AllSamples/Past6M/variants?nextcladePangoLineage=XBB.1.5*&) for up-to-date statistics based onb *
+*XBB.1.5 is dominating in New York and the logistic extrapolation puts its current frequency between 80% and 90%. See [Cov-Spectrum](https://cov-spectrum.org/explore/United%20States/AllSamples/Past6M/variants?nextcladePangoLineage=XBB.1.5) for up-to-date statistics based on data ub GISAID.*
 
 In Europe, XBB.1.5 is still rare.
 [CoV-Spectrum](https://cov-spectrum.org/explore/Europe/AllSamples/Past2M/variants?nextcladePangoLineage=xbb.1.5*&) currently lists 267 XBB.1.5 from Europe, corresponding to about 1% of all data submitted in the second half of December.
