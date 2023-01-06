@@ -12,10 +12,10 @@ XBB.1.5 emerged from XBB, a recombinant of two BA.2 lineages (see [illustration]
 Position 486 is already mutated in XBB from the ancestral `F` to `S`.
 Similarly, position 486 is mutated to `V` in BA.5.
 Mutations at this position contribute to immune evasion of antibody responses against BA.2 like variants, but most residues at this position reduce hACE2 binding.
-The two-step change from `F` to `S` to `P` restores hACE2 binding while maintaining an immune evasive profile, see [Cam Yua, Yunlong Cao and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2).
+The two-step change from `F` to `S` to `P` restores hACE2 binding while maintaining an immune evasive profile, see [Can Yua, Yunlong Cao and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2).
 
 ![Fig1_Yua](../images/2023-01-06_XBB15_evasion.png)<br>
-*Neutralization titers and hACE2 binding affinities of XBB and XBB.1.5 variants. (Fig 1 from [Cam Yua and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2))*
+*Neutralization titers and hACE2 binding affinities of XBB and XBB.1.5 variants. (Fig 1 from [Can Yua and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2))*
 
 XBB and descendants (22F in Nextstrain nomenclature) were dominant in South Asia earlier this fall and also contributed significantly to circulation in South- and Central America.
 XBB.1.5 rose rapidly in frequency in the North East of the USA and has been dominating there since mid-December.
