@@ -1,39 +1,3 @@
-# Variant report 2023-01-06
-
-## China
-
-Sequences submitted from Chinese labs and labeled as `local cases` continue to fall almost exclusively into lineages BA.5.2 and BF.7.
-No sequences with concerning mutation patterns have been submitted.
-
-## XBB.1.5
-
-XBB.1.5 is continuing to increase in frequency globally.
-XBB.1.5 emerged from XBB, a recombinant of two BA.2 lineages (see [illustration](../images/XBB_recomb.jpg) by Emma Hodcroft), and is characterized by two additional mutations in Spike (G252V leading XBB.1, and the additional S486P in XBB.1.5).
-Position 486 is already mutated in XBB from the ancestral `F` to `S`.
-Similarly, position 486 is mutated to `V` in BA.5.
-Mutations at this position contribute to immune evasion of antibody responses against BA.2 like variants, but most residues at this position reduce hACE2 binding.
-The two-step change from `F` to `S` to `P` restores hACE2 binding while maintaining an immune evasive profile, see [Cam Yua, Yunlong Cao and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2).
-
-![Fig1_Yua](../images/2023-01-06_XBB15_evasion.png)<br>
-*Neutralization titers and hACE2 binding affinities of XBB and XBB.1.5 variants. (Fig 1 from [Cam Yua and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2))*
-
-XBB and descendants (22F in Nextstrain nomenclature) were dominant in South Asia earlier this fall and also contributed significantly to circulation in South- and Central America.
-XBB.1.5 rose rapidly in frequency in the North East of the USA and has been dominating there since mid-December.
-Outside of the North East of the US the variant is still sub-dominant, but increasing.
-
-![XBB15_NY](../images/2023-01-06_XBB15_NY.png)<br>
-*XBB.1.5 is dominating in New York and the logistic extrapolation puts its current frequency between 80% and 90%. See [Cov-Spectrum](https://cov-spectrum.org/explore/United%20States/AllSamples/Past6M/variants?nextcladePangoLineage=XBB.1.5) for up-to-date statistics based on data ub GISAID.*
-
-In Europe, XBB.1.5 is still rare.
-[CoV-Spectrum](https://cov-spectrum.org/explore/Europe/AllSamples/Past2M/variants?nextcladePangoLineage=xbb.1.5*&) currently lists 267 XBB.1.5 from Europe, corresponding to about 1% of all data submitted in the second half of December.
-The frequency has been doubling roughly every week and if these trends continued we would thus expect around 3-6\% in the first half of January.
-XBB.1.5 is observed across the continent with slightly higher proportions in the UK and the Netherlands.
-As expected, phylogenetic analyses indicate many introductions of XBB.1.5.
-
-There is little conclusive information on severity of XBB.1.5 compared to other circulating variants, but cases and hospitalizations have risen across the USA and not only in regions where XBB.1.5 is dominant.
-This is an early tentative sign that the severity of XBB.1.5 infections is not substantially different from other current variants.
-
-
 # Variant report 2023-01-02
 
 ## The surge in China is dominated by BA.5.2 and BF.7
