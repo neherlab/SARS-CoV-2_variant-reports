@@ -1,37 +1,3 @@
-# Variant report 2023-01-06
-
-## China
-
-Sequences submitted from Chinese labs and labeled as `local cases` continue to fall almost exclusively into lineages BA.5.2 and BF.7.
-No sequences with concerning mutation patterns have been submitted.
-
-## XBB.1.5
-
-XBB.1.5 is continuing to increase in frequency globally.
-XBB.1.5 emerged from XBB, a recombinant of two BA.2 lineages, and is characterized by two additional mutation in Spike (G252V leading XBB.1, and the additional S486P in XBB.1.5).
-Position 486 is already mutated in XBB from the ancestral `F` to `S`.
-Similarly, position 486 is mutated to `V` in BA.5.
-Mutations at this position contributes to immune evasion of antibody responses against BA.2 like variants, but most residues at this position reduce hACE2 binding.
-The two-step change from `F` to `S` to `P` restores hACE2 binding while maintaining an immune evasive profile, see [Cam Yua, Yunlong Cao and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2).
-
-![Fig1_Yua](images/2023-01-06_XBB15_evasion.png)
-*Neutralization titers and hACE2 binding affinities of XBB and XBB.1.5 variants.*
-
-XBB and descendants (22F in Nextstrain nomenclature) were dominant in South Asia earlier this fall and also contributed significantly to circulation in South- and Central America.
-XBB.1.5 rose rapidly in frequency in the North East of the USA and has been dominating there since mid-December.
-Outside of the North East of the US the variant is still sub-dominant, but increasing.
-
-![XBB15_NY](images/2023-01-06_XBB15_NY.png)
-*XBB.1.5 is predicted to be between 80% and 90% in New York state.*
-
-In Europe, XBB.1.5 is still rare.
-CoV-Spectrum currently lists 267 XBB.1.5 from Europe, corresponding to about 1% of all data submitted in the second half of December.
-The frequency is doubling roughly every week and via an informal "now-cast" we would thus expect around 3-6\% in the first half of January.
-XBB.1.5 is observed across the continent with slightly higher proportions in the UK and the Netherlands.
-
-
-
-
 # Variant report 2023-01-02
 
 ## The surge in China is dominated by BA.5.2 and BF.7
