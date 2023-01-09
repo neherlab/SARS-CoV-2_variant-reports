@@ -1,31 +1,3 @@
-# Variant report 2023-01-09
-
-## 3 Chinese clusters given Pango lineage names
-
-The 3 major Chinese lineages have now been given Pango names:
-
-- **BA.5.2.48** is a BA.5.2 (on ORF1b:T1050N branch) with 4 additional silent nucleotide mutations: C2710T, C8626T, C16887T, T17208C; see designation issue [#1471](https://github.com/cov-lineages/pango-designation/issues/1471)
-- **BA.5.2.49** is a BA.5.2 (on ORF1b:T1050N branch) with ORF1b:S997P, S:T883I and silent nucleotide mutation A14673G; see designation issue [#1480](https://github.com/cov-lineages/pango-designation/issues/1480)
-- **BF.7.14** is a BF.7 (BA.5.2.1 with S:R346T) with extra S:C1243F, ORF1a:V274L, ORF1b:L238F, ORF7a:H47Y and silent nucleotide mutation C29632T; see designation issue [#1470](https://github.com/cov-lineages/pango-designation/issues/1470)
-
-Pangolin and Nextclade dataset updates are underway to include these lineages.
-
-All 3 lineages in their current form are unlikely to cause sustained community circulation outside of China because of pre-existing immunity.
-
-BA.5.2.48 and BA.5.2.49 are "level 3" lineages which have been halving every 3 weeks in Europe and North America. In Europe, Level 3 (plain BA.4/5) peaked in Europe in July with 80% relative share. By the end of 2022, it was down to 4%, outcompeted by more antigenically advanced lineages (see [covSpectrum](https://cov-spectrum.org/explore/Europe/AllSamples/Y2022/variants?variantQuery=%5Bexactly-3-of%3A+S%3A346%2C+S%3A356%2C+S%3A444%2C+S%3A445%2C+S%3A450%2C+S%3A446%2C+S%3A452%2C+S%3A460%2C+S%3A486%2C+S%3A490%2C+S%3A494%2C+S%3A493Q%5D%26+%21+%28S%3A346-+%7C+S%3A356-+%7C+S%3A444-+%7C+S%3A445-+%7C+S%3A450-+%7C+S%3A446-+%7C+S%3A452-+%7C+S%3A486-+%7C+S%3A490-+%7C+S%3A494-%29+%26+%21nextstrainClade%3A21K) for details).
-
-While BF.7.14 is expected to be more viable outside of China due to carrying the beneficial S:R346T, BF.7\* lineages have also been on a decreasing trend outside of China for more than 2 months. In Europe, BF.7\* peaked in October 2022 at ~15% and has since gone down to 3% by the end of 2022. It is currently halving in share every 4-5 weeks (see [covSpectrum](https://cov-spectrum.org/explore/Europe/AllSamples/Past2M/variants?nextcladePangoLineage=BF.7*&) for details).
-
-The additional Spike mutations (S:T883I in BA.5.2.49 and S:C1243F in BF.7.14) are not expected to have a significant impact on the antigenic profile of the variants. As a result, the lineages circulating in China do not appear to be of concern outside of China. 
-
-## New sequences from travellers from China
-
-Japan's National Institute of Infectious Diseases has shared 35 new sequences from travellers from China with collection date in the last 2 weeks of 2022.  
-Of the 35 sequences, 19 are BA.5.2.48, 16 are BF.7.14, 1 is BA.5.2.49 and 1 is a BA.5.2.1.
-
-South Korea's CDC has shared 46 new sequences from travellers from China with collection date in the last 2 weeks of 2022.
-Of the 46 sequences, 33 are BA.5.2.48, 8 are BF.7.14, 7 are BA.5.2.49, and 1 is BN.1.3
-
 # Variant report 2023-01-06
 
 ## China
