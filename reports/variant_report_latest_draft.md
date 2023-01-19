@@ -14,7 +14,15 @@ As expected due to the non-immune-evasive nature of the lineages circulating in 
 
 # XBB.1.5
 
-XBB.1.5 continues to be the apparently fittest circulating lineage. It is already dominant on the US east coast and is projected to become so in the rest of the United States by February. In Europe, XBB.1.5 is currently responsible for around 5-15% of sequences, with the highest share in the UK at around 20%. With a doubling time of around 10 days, XBB.1.5 is expected to be dominant in Europe by the end of February.
+XBB.1.5 continues to be the apparently fittest circulating lineage. It is already dominant on the US east coast and is projected to become so in the rest of the United States by mid February. In Europe, in samples collected in the first week of the new year, XBB.1.5 was responsible for around 1-5% of sequences, in the UK slightly above 5%. If the trend of a doubling time of around 10 days continues, XBB.1.5 is expected to be dominant in Europe by the end of February. Given competition from other lineages, it is however possible that XBB.1.5 will not perform a clean sweep.
+
+# Other fit lineages
+
+While XBB.1.5 appears to be the most competitive lineage at the moment, there are a number of lineages that are not at a big disadvantage:
+
+- XBF (focal point Australia)
+- CH.1.1 (focal points in New Zealand, UK)
+- BQ.1* + S:346T + S:144- (very common in Denmark, France, UK)
 
 # Variant report 2023-01-09
 
