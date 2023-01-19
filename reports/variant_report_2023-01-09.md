@@ -1,21 +1,3 @@
-# Variant report 2023-01-19
-
-## China
-
-For the past month, China has been releasing around 200 sequences every week which is comparatively low. Using the number of recent sequences submitted per million inhabitants per month as a metric, China submits more than a 100 time less than large countries with high sequencing activity like US, UK, Japan, and 10x less than large countries with medium activity like Thailand, Indonesia, Brazil.
-
-A fourth China specific lineage has been given a Pango designation: BA.5.1.32. As the other 3 China-specific lineages, it is a BA.5 derivative, and like BA.5.2.48 and BA.5.2.49, it does not carry a single additional Spike mutation known to cause immune escape beyond those already found in BA.5.
-
-Sequences uploaded from China in the past two weeks are mostly BF.7.14 and BA.5.2.48, with BA.5.2.49 and BA.5.1.32 in the single digit percentage range.
-
-Sequences from travellers arriving in Japan, South Korea, Taiwan, Singapore, France and Italy show a similar picture. BF.7.14 and BA.5.2.48 make up the bulk of the sequences.
-
-As expected due to the non-immune-evasive nature of the lineages circulating in China, no large non-Chinese clusters of China-originating lineages have been detected so far. Any imports appear to cause only short transmission chains.
-
-# XBB.1.5
-
-XBB.1.5 continues to be the apparently fittest circulating lineage. It is already dominant on the US east coast and is projected to become so in the rest of the United States by February. In Europe, XBB.1.5 is currently responsible for around 5-15% of sequences, with the highest share in the UK at around 20%. With a doubling time of around 10 days, XBB.1.5 is expected to be dominant in Europe by the end of February.
-
 # Variant report 2023-01-09
 
 ## 3 Chinese clusters given Pango lineage names
