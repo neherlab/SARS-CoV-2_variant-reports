@@ -4,15 +4,17 @@
 
 ### Data from China
 
-China has significantly increased the number of recent sequences (defined as after 1st of November 2022) submitted in the past two weeks. Submissions in 1 week windows ending on and including Wednesday have been as follows starting with the most recent week:
+China has significantly increased the number of recent sequences (defined as after 1st of November 2022) submitted in the past two weeks. Submissions to GISAID in 1 week windows have been as follows:
 
-2022-01-26 - 2022-02-01: 2.3k
-2022-01-19 - 2022-01-25: 5.0k
-2023-01-12 - 2023-01-18: 0.27k
-2023-01-05 - 2023-01-11: 0.16k
-2023-12-29 - 2023-01-04: 0.57k
+| Submission Date Range    | Value |
+| ------------------------ | ----- |
+| 2023-12-29 to 2023-01-04 | 0.57k |
+| 2023-01-05 to 2023-01-11 | 0.16k |
+| 2023-01-12 to 2023-01-18 | 0.27k |
+| 2022-01-19 to 2022-01-25 | 5.0k  |
+| 2022-01-26 to 2022-02-01 | 2.3k  |
 
-This represents an approximately 10-fold increase. The recent drop may be due to the Chinese New Year holiday. Given its large population, China is still submitting about 10 times fewer sequences relative to population than high intensity sequencing countries like the US, UK, Japan. Submissions have now come from almost all provinces, though major cities like Beijing and Shanghai are significantly overrepresented.
+Recent increases represent an approximately 10-fold increase. Given its large population, China is still submitting about 10 times fewer sequences relative to population than high intensity sequencing countries like the US, UK, Japan. Submissions have now come from almost all provinces, though major cities like Beijing and Shanghai are significantly overrepresented.
 
 The major lineages in the 6.4k samples collected since 1st of December 2022 are:
 
@@ -27,7 +29,7 @@ The major lineages in the 6.4k samples collected since 1st of December 2022 are:
 
 A large part of the rest is made up of import clusters without apparent community circulation, often reported by quarantine facilities. None of the lineages dominating in the rest of the world like BA.2.75* or XBB* have been found in distinctly Chinese clusters yet - though given the limited number of sequences, this is not possible to rule out.
 
-As is normal for this virus, additional Spike mutations have arisen in the lineages circulating in China, but the mutations observed are not unknown to occur in a BA.5 back. There is no evidence of large evolutionary jumps so far with multiple Spike mutations acquired in one lineage.
+As is normal for this virus, additional Spike mutations have arisen in the lineages circulating in China, but the mutations observed are not unknown to occur in a BA.5 backbone. There is no evidence of large evolutionary jumps so far, where numerous Spike mutations are appear together in one lineage.
 
 ### Sequences from travelers from China
 
