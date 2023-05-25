@@ -1,4 +1,4 @@
-# Variant report 2023-05-23
+# Variant report 2023-05-24
 
 ## Macro variant trends
 
@@ -37,102 +37,78 @@ While the timing of XBB* dominance differs by continent and country, in all coun
 ### BA.2.3.20*
 
 - Used to be common in Philippines but no recent data from there
-- Most interesting sublineage: FV.1 (S:G446S, S:F486S and most recently S:R346T) potentially growing in Japan, HK, South Korea but still at very low level
+- Most interesting sublineage: FV.1 (S:K147N,  S:R346T, S:G446S, S:F486S) potentially growing in Japan, Hong Kong, South Korea but still at very low level
 
 ![BA.2.3.20*](../images/a3599cc5ce93861238bce5983d504578c80214581c51ccfc19e4dcce6a6273a8.png)  
 
 
-### XBC.1.6*
+### XBC*
 
 - Delta-Omicron recombinant
-- Almost exclusively Australian lineage, albeit surprisingly common there (~10-20%)
-- Does not seem to grow outside of Australia
+- Common in Philippines and Australia
+- Most interesting sublineage: XBC.1.6 (extra S:R346S, S:L452R) almost exclusively in Australia
+- So far no evidence of sustained XBC.1.6* growth outside of Australia
 
-### XAY.1.1*
-
-- Delta-Omicron recombinant. XAY was first identified in South Africa. Established itself in Germany/Denmark.
-- XAY.1.1 added S:R346T and has been at around 1% in Germany for months. Spotted occasionally around the world, but doesn't seem to grow much.
-
-### BA.5*/BQ.1*
-
-- No interesting sublineages have developed in a while, prevalence decreasing continuously.
+![XBC*](../images/01235811e8ee378cc02fe595e49c8e384e5bfa9075cb9c898e9a34d93e5e00db.png)  
 
 
-Continued trend towards XBB, non-XBB keep decreasing.
-
-XBB trends:
-- S:486P: Homoplasic, but certain lineages seem to fare better than XBB.1.5:
-  - XBB.2.3 (S:521S and S:253G instead of XBB.1's S:252V)
-  - XBB.1.9.1
-  - XBB.1.9.2
-  - 
-- S:478R + S:486P very homoplasic, major lineages, seems to do particularly well in China
-  - XBB.1.16 (also has S:180V)
-  - XBB.2.3.8 (has S:521S and S:253G instead of XBB.1's S:252V), 
-  - XBB.2.3.11 (like XBB.2.3.8, has S:T470N sublineage)
-  - EG.2 (XBB.1.9.2.2)
-  - XBB.1.5.28 (sublineage with S:L176F)
-  - 
-
-- S:456L + S:486P, homoplasic:
-  - EG.5.1 (also S:Q52H, China, Taiwan, Singapore)
-  - XBB.1.5.59
-
-- S:456L + S:G446S + S:486P:
-  - XBB.1.5.42 (also S:281D)
-
-- S:Y200C + S:486P:
-  - XBB.1.22.1 (China)
-  - Sublineage with S:478R (undesignated)
-  - 
-
-XBB.1.31 (S:456L, S:478R)
-
-
-XBB.1.16:
-  - S:732I (Singapore, undesignated)
-  - S:456L (undesignated)
-
-
-
-
-S:613H slowly rising across the board
-
-New interesting lineages:
-- XBB.1.5.70: S:L455F, S:F456L (GT->TC)
-
-## Non-XBB* diversity
-
-### BN.1* (=BA.2.75.5.1*)
-
-- Only country it's going up is China: to ~4% most recently, but slower than XBB*
-- Used to be common in East Asia (South Korea/Japan), but XBB* has taken over
-- Most interesting sublineage: FR.1 (S:187E) in Taiwan/China
-
-### CH.1.1* (=BA.2.75.3.1...*)
-
-- Used to be common in Europe/Oceania
-- Most interesting sublineage: FK.1* (S:D215G, S:Q613H) in New Zealand, Australia, Denmark
-
-### BA.2.3.20*
-
-- Used to be common in Philippines
-- Most interesting sublineage: FV.1 (S:G446S, S:F486S and most recently S:R346T) potentially growing in Japan, HK, South Korea
-
-### XBC.1.6*
+### XAY*
 
 - Delta-Omicron recombinant
-- Almost exclusively Australian lineage, albeit surprisingly common there (~10-20%)
-- Does not seem to grow outside of Australia
+- First identified in South Africa. Established itself in Germany/Denmark. Has disappeared in South Africa.
+- Most interesting sublineage: XAY.1.1* added S:R346T and has been stable at around 1% in Germany. Spotted occasionally around the world, but doesn't seem to grow much.
 
-### XAY.1.1*
+![XAY*](../images/064398950f3c40f82adaf1e0457d3f3403323d0bb2ae2861ee371ade2511b432.png)  
 
-- Delta-Omicron recombinant. XAY was first identified in South Africa. Established itself in Germany/Denmark.
-- XAY.1.1 added S:R346T and has been at around 1% in Germany for months. Spotted occasionally around the world, but doesn't seem to grow much.
+### BA.5*
 
-### BA.5*/BQ.1*
+- BA.5* and its sublineage BQ.1* have continued trending downwards
 
-- No interesting sublineages have developed in a while, prevalence decreasing continuously.
+![BA.5*](../images/235d7e0ecbe6ab8df46c12f906f35ffb9c9fadf6104c864cef562e10de3376d9.png)  
+
+## Within-XBB* trends
+
+### S:486P has essentially fixed
+
+S:486P has essentially fixed within XBB*, there is almost no S:486S left by now:
+![486P](../images/709e86c0ce87969c9442b64d575cd301887292a23b4cd49edbcdd68af658e0b8.png)  
+
+
+S:486P has been acquired independently in many XBB* sublineages. Some of the lineages seem to have a growth advantage over others:
+- XBB.1.5* was the first known lineage with S:486P but its share is receding
+- XBB.1.9.1* and XBB.1.9.2* seem to have a growth advantage over XBB.1.5, despite not Spike difference
+- XBB.2.3* is also outgrowing XBB.1.5, it differs from the above by having S:253G instead of S:252V and an additional S:521S
+
+### S:478R keeps growing within XBB*
+
+The addition of S:478R appears to confer a growth advantage to XBB* + S:486P lineages. About a fifth of recent global XBB* + 486P have also got 478R, up from less than 1% in February:
+![478R](../images/c7fbb19e379b7ea4bfd2273bb13ceaa4aeaf5c3057bffa3d380cc37f1f015b7d.png)  
+
+A selection of XBB* + 486P lineages with 478R are:
+- XBB.1.16 (also has S:180V)
+- XBB.2.3.8 and XBB.2.3.11 (also has S:521S and S:253G instead S:252V)
+- EG.2 (XBB.1.9.2.2)
+- XBB.1.5.28
+
+### S:456L is also potentially beneficial
+
+As predicted by deep mutational scanning experiments, S:456L is another beneficial immune escape mutation in XBB*, albeit with a somewhat smaller growth advantage than S:478R. At the beginning of May, around 5% of global XBB* sequences with 486P also had S:456L
+![456L](../images/84b4fc2045b34234f2631b680349ce05061d972b61ce787b1b3f8efc19ced753.png)  
+
+Lineages with S:456L include:
+- FD.1.1 (XBB.1.5.15.1.1, Canada)
+- XBB.1.5.10
+- XBB.1.5.59
+- FE.1* (XBB.1.18.1.1*, dominant in Brazil)
+- EG.5 (XBB.1.9.2.5*, Indonesia/China)
+
+It's not yet clear whether co-occurrence of 456L and 478R is beneficial beyond having either of them alone. There are only 3 sequences with both mutations so far. At the time of writing, the combination XBB* + S:486P + S:456L + S:478R has only been observed in 38 sequences, mostly in the XBB.1.16 sublineage XBB.1.16.6.
+
+### Other slightly beneficial mutations
+
+- S:613H (already in 5% of XBB* sequences with 486P)
+- S:521S (defining of XBB.2.3*, in ~5% of XBB* sequences with 486P)
+- The combination S:L455F + S:F456L in addition to 486P is potentially beneficial beyond 456L. Lineage XBB.1.5.70 appears to grow in Brazil.
 
 ## Sequencing volume over time and regions
 
