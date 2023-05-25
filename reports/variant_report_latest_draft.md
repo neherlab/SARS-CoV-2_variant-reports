@@ -126,7 +126,7 @@ Number of sequences (in thousands) with collection date within X months of cutof
 
 On 2023-05-24, number of sequences with collection date within X months:
 
-| Region        | Within last 1 month | Within last 3 months | Within last 3 months | Within last 4 months |
+| Region        | Within last 1 month | Within last 2 months | Within last 3 months | Within last 4 months |
 | ------------- | ------------------- | -------------------- | -------------------- | -------------------- |
 | Africa        | 91                  | 608                  | 1899                 | 3791                 |
 | Asia          | 4964                | 30652                | 54541                | 85533                |
