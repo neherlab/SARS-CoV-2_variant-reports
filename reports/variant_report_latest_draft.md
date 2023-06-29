@@ -1,4 +1,4 @@
-# Variant report 2023-05-24
+# Variant report 2023-06-29
 
 ## Macro variant trends
 
