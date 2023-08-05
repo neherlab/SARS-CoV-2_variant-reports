@@ -163,7 +163,7 @@ BA.2 descendant with M153T, N164K, H245N, G257D, K444R, N450D, L452M, N460K, A48
 
 ### XAY
 
-XAY is a Delta-Omicron recombinant. The Spike NTD is from Delta (breakpoint between 159 and 212), the rest of the Spike is BA.4/5-like. XAY has important extra mutations in the Spike beyond what's derived from the donors: in particular S:F486P (known as XBB.1.5-defining), and S:G446D (XBB has similar S:G446S). XAY was first sequenced in South Africa in June 2022 where it made up around 1% of sequences in the second half of 2022, peaking at 2% around September 2022. At the end of 2023, XAY appeared in Europe, in particular Denmark, where XAY.2 reached a peak of 4% in January/February 2023. XAY.1.1 with extra S:D253G and S:R346T, established itself in Germany in February/March/April 2023 at around 1%, Most of it being XAY.1.1.1 with extra S:D1153Y. XAY* was only sporadically observed on other continents.
+XAY is a Delta-Omicron recombinant. The Spike NTD is from Delta (breakpoint between 159 and 212), the rest of the Spike is BA.4/5-like. XAY has important extra mutations in the Spike beyond what's derived from the donors: in particular S:F486P (known as XBB.1.5-defining), and S:G446D (XBB has similar S:G446S). XAY was first sequenced in South Africa in June 2022 where it made up around 1% of sequences in the second half of 2022, peaking at 2% around September 2022. At the end of 2022, XAY appeared in Europe, in particular Denmark, where XAY.2 reached a peak of 4% in January/February 2023. XAY.1.1 with extra S:D253G and S:R346T, established itself in Germany in February/March/April 2023 at around 1%, Most of it being XAY.1.1.1 with extra S:D1153Y. XAY* was only sporadically observed on other continents.
 
 GL.1 (XAY.1.1.1.1) with extra S:D420N and S:Y144- was first sequenced in Spain in Alicante in March 2023. It has grown to around 0.3% in Europe by end of March and appears particularly common in South Europe (Portugal, Spain and Italy). It has been sporadically observed in North America and Australia.
 
@@ -259,7 +259,7 @@ Mutations from BA.4/5-like donor (donor is not exactly BA.4/5 as XAY has F486P n
 
 XAY was first sequenced in South Africa in June 2022 where it made up around 1% of sequences in the second half of 2022, peaking at 2% around September 2022.
 
-At the end of 2023, XAY appeared in Europe, in particular Denmark, where XAY.2 reached a peak of 4% in January/February 2023.
+At the end of 2022, XAY appeared in Europe, in particular Denmark, where XAY.2 reached a peak of 4% in January/February 2023.
 
 XAY.1.1 with extra S:D253G and S:R346T, established itself in Germany in February/March/April 2023 at around 1%, Most of it being XAY.1.1.1 with extra S:D1153Y.
 
