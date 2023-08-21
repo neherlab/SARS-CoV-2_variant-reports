@@ -1,31 +1,3 @@
-# BA.2.86 report 2023-08-21
-
-For a general assessment of BA.2.86, see [UKHSA's risk assessment from Friday, 2023-08-18](https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments/risk-assessment-for-sars-cov-2-variant-v-23aug-01-or-ba286).
-
-Below is a table summarizing BA.2.86 count data compared to all sequences shared via GISAID per calendar week of collection and continent.
-
-Date of analysis: 2023-08-21, 10:20am UTC, GISAID data queried via the GISAID web interface
-
-| week starting | global    | europe    | north america | south america | asia      | africa  | oceania  |
-| ------------- | --------- | --------- | ------------- | ------------- | --------- | ------- | -------- |
-| 2023-07-17    | 0 of 8400 | 0 of 1462 | 0 of 3260     | 0 of 54       | 0 of 3312 | 0 of 15 | 0 of 297 |
-| 2023-07-24    | 1 of 7242 | 1 of 1384 | 0 of 3286     | 0 of 25       | 0 of 2480 | 0 of 3  | 0 of 246 |
-| 2023-07-31    | 3 of 3790 | 1 of 984  | 1 of 1748     | 0 of 6        | 1 of 874  | 0 of 8  | 0 of 170 |
-| 2023-08-07    | 2 of 888  | 2 of 293  | 0 of 276      | 0 of 5        | 0 of 285  | 0 of 11 | 0 of 18  |
-| 2023-08-14    | 0 of 17   | 0 of 8    | 0 of 0        | 0 of 0        | 0 of 9    | 0 of 0  | 0 of 0   |
-
-You can find a Nextstrain tree of all 6 currently available sequences shared via GISAID at <https://nextstrain.org/groups/neherlab/ncov/BA.2.86>. A screenshot is shown below:
-
-![BA.2.86 tree](../images/98779adfee528be893dccb83614bd7fe8aaa25f179c847c3e7c52dc84d122848.png)
-
-Divergence from the common ancestor of 2-4 mutations suggests the common ancestor likely originated somewhere between late May and early July.
-
-A reconstructed common ancestor sequence of all available BA.2.86 without unknown nucleotides in coding regions can be found here:
-- [nucleotide sequence](https://github.com/cov-lineages/pango-designation/files/12373146/BA.2.86.fasta.txt)
-- [spike protein sequence](https://github.com/cov-lineages/pango-designation/files/12373188/BA.2.86_spike.fasta.txt)
-
-These could be useful for generating pseudoviruses. In spike, there is one polymorphism: the US and Israeli sequences have acquired extra `S:I670V`. The spike of the Danish/English sequences is identical the common ancestor (assuming any unsequenced regions are identical to the common ancestor).
-
 # Variant report 2023-07-26
 
 This month's report provides an overview of the main XBB and non-XBB branches currently circulating, covering: XBB.1.5, XBB.1.9.1, XBB.1.9.2, XBB.1.16, XBB.1.22.1, XBB.2.3, XBB.1.18.1, XBB.1.17.1, XBB.1.42, XBB.1.19; as well as non-XBB lineages CH.1.1, BN.1, BA.2.3.20, XAY and XBC.
