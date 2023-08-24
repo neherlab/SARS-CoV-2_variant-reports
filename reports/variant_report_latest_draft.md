@@ -1,4 +1,32 @@
-# BA.2.86 report 2023-08-21
+# BA.2.86 update 2023-08-23
+
+## Sequencing count data
+
+Below is a table summarizing BA.2.86 count data compared to all sequences shared via GISAID per calendar week of collection by geography region.
+
+Date of analysis: 2023-08-23, 18:00 UTC, GISAID data was queried via the GISAID web interface
+
+| Week Starting | Global    | Europe    | North America | South America | Asia      | Africa  | Oceania  | Denmark | South Africa |
+| ------------- | --------- | --------- | ------------- | ------------- | --------- | ------- | -------- | ------- | ------------ |
+| 2023-07-10    | 0 of 9671 | 0 of 1565 | 0 of 3523     | 0 of 141      | 0 of 3942 | 0 of 21 | 0 of 479 | 0 of 44 | 0 of 13      |
+| 2023-07-17    | 0 of 8727 | 0 of 1543 | 0 of 3435     | 0 of 58       | 0 of 3373 | 0 of 21 | 0 of 297 | 0 of 23 | 0 of 16      |
+| 2023-07-24    | 3 of 8232 | 1 of 1606 | 0 of 3633     | 0 of 29       | 0 of 2691 | 2 of 12 | 0 of 261 | 1 of 49 | 2 of 11      |
+| 2023-07-31    | 3 of 5942 | 1 of 1411 | 1 of 2879     | 0 of 14       | 1 of 1386 | 0 of 8  | 0 of 170 | 1 of 45 | 0 of 5       |
+| 2023-08-07    | 3 of 2756 | 2 of 480  | 1 of 1607     | 0 of 22       | 0 of 553  | 0 of 11 | 0 of 83  | 1 of 16 | 0 of 6       |
+| 2023-08-14    | 0 of 305  | 0 of 65   | 0 of 184      | 0 of 2        | 0 of 50   | 0 of 0  | 0 of 4   | 0 of 0  | 0 of 0       |
+
+## Phylogenetic analysis
+
+You can find a Nextstrain tree of all 9 currently available consensus sequences shared via GISAID at <https://nextstrain.org/groups/neherlab/ncov/BA.2.86>. A screenshot is shown below:
+![BA.2.86 mutation and time tree](../images/399f9ec7801737710f2a6f94e6e3c3e0045fa7fd4691c6aabfd9207e5472ca84.png)  
+
+The time of most recent common ancestor can be estimated from the number of mutations between the ancestor and the tips with known dates. All but one sequence are within 2-4 mutations from the common ancestor. Within variants, mutations can be modelled as arising through a Poisson process with a rate of about 17 mutations per year (see [Neher, Contributions of adaptation and purifying selection to SARS-CoV-2 evolution](https://academic.oup.com/ve/article/8/2/veac113/6887176)). The common ancestor can hence be dated to early May to mid June.
+
+## Analysis
+
+The count data show that at the beginning of August, BA.2.86 was likely to account for between 1 in 10,000 and 1 in 1000 SARS-CoV-2 cases on the continents that have the densest genomic surveillance: North America and Europe (Asia sequences similar numbers of samples but has higher heterogeneity: the majority comes from only a few countries). When excluding the US-airport surveillance sequence, two countries have had more than 1 detection to date: Denmark and South Africa. Given the small numbers of sequences, it is currently not possible to draw firm conclusions about the potential transmission advantage of BA.2.86 over other variants in these countries.
+
+# BA.2.86 update 2023-08-21
 
 For a general assessment of BA.2.86, see [UKHSA's risk assessment from Friday, 2023-08-18](https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments/risk-assessment-for-sars-cov-2-variant-v-23aug-01-or-ba286).
 
@@ -21,6 +49,7 @@ You can find a Nextstrain tree of all 6 currently available sequences shared via
 Divergence from the common ancestor of 2-4 mutations suggests the common ancestor likely originated somewhere between late May and early July.
 
 A reconstructed common ancestor sequence of all available BA.2.86 without unknown nucleotides in coding regions can be found here:
+
 - [nucleotide sequence](https://github.com/cov-lineages/pango-designation/files/12373146/BA.2.86.fasta.txt)
 - [spike protein sequence](https://github.com/cov-lineages/pango-designation/files/12373188/BA.2.86_spike.fasta.txt)
 
