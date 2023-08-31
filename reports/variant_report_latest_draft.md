@@ -1,3 +1,64 @@
+# Variant report 2023-08-31
+
+XBB descendants continue to dominate with >90% anywhere except Australia and New Zealand
+
+Within XBB, S:F456L is now present in >50% of recently collected sequences. As was the case with S:486P, this substitution has independently arisen dozens of times. The proportion of XBB with S:F456L grows approximately logistically with a doubling time of around 3 weeks (~25% per week). The most prominent lineage with S:F456L is EG.5.
+
+Growth of the share of XBB with S:478R, another homoplasic mutation known from XBB.1.16, has slowed and is at around 35 in sequences collected in August. While S:478R is likely beneficial, it appears to be less so than S:F456L. S:478R is present in around 20% of XBB + S:F456L sequences collected in August, with a logistic growth rate of around 15% per week. The combination S:F456L and S:478R is thus present in around 10% of XBB sequences collected in August, most prominently in XBB.1.16.6 and FL.1.5.1.
+
+The fastest growing mutation besides S:F456L and S:478R appears to be S:L455F, but only when paired with S:F456L, suggesting epistasis between the two mutations (the substitution pair is sometimes nicknamed FLip due to the flipping of F<->L at neighboring positions). The most prominent lineage with S:L455F and S:F456L is XBB.1.5.70 (sublineages alias to GK). In sequences collected in August, S:L455F is present in around 10% of XBB sequences with S:F456L. The combination S:L455F and S:F456L thus present in around 5% of XBB sequences collected in August, most prominently in XBB.1.5.70 (alias GK) and HK.3 (EG.5.1.1.3).
+
+It is plausible that the triplet 455F, 456L, 478R will outcompete both of the two doublets 455F, 456L and 456L, 478R. In fact, the triplet has already arisen multiple times independently. At the time of writing, two lineages with this haplotype have been Pango designated: JF.1 (XBB.1.16.6.1) and GK.1.4 (XBB.1.5.70.1.4, also has S:S704L).
+
+Further mutations that appear homoplasically within XBB lineages and are likely beneficial include:
+
+- S:F157L (1% of XBB sequences collected in August, known from BA.2.75, mutated to S in BA.2.86)
+- S:K356T (0.8% of XBB sequences collected in August, known from BN.1, also in BA.2.86)
+- S:R403K (1% of XBB sequences collected in August, known from BA.2.75, also in BA.2.86)
+- S:L452R (0.6% of XBB sequences collected in August, known from BA.4/5, CH.1.1, mutated to W in BA.2.86)
+- S:S494P (1.2% of XBB sequences collected in August, also in BA.2.86)
+- S:P521T (2% of XBB sequences collected in August)
+- S:E554K (2% of XBB sequences collected in August, also in BA.2.86)
+- S:T572I (1% of XBB sequences collected in August)
+- S:A701V (5% of XBB sequences collected in August)
+- S:S704L (2.5% of XBB sequences collected in August)
+- S:T732I (0.9% of XBB sequences collected in August)
+
+Each of these have apparent logistic growth rates of around 5-15% per week.
+
+## Non-XBB diversity
+
+The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype F455L, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
+
+The most successful XAY sublineage GL.1 (with 346T, 420N) appears to no longer grow in Europe where it makes up around 0.5% of sequences. It has, however, spread to the US and Australia. Given the declining growth rate, it is unlikely to become important in the future.
+
+The same applies to HW.1.1 (XBC.1.6 with N460H): it is circulating at low levels globally, but not growing fast enough to become dominant.
+
+While BA.4/5 and descendant BQ.1* are only sporadically sequenced globally, there appears to be continuing circulation of the BQ.1.2.2 lineage as evidenced by it recombining with FL.1.5.1 to give rise to [XCK](https://github.com/cov-lineages/pango-designation/issues/2215). Furthermore, two BQ.1.2.2 sublineages, JH.1 and JH.2 have been recently observed in multiple countries. [JH.1](https://github.com/cov-lineages/pango-designation/issues/2068) has 7 extra Spike mutations on top of BQ.1: S:K147E, S:R346T, S:V445A, S:K182E, S:486A, S:S494P, S:E554K.
+
+## BA.2.86
+
+Below is a table summarizing BA.2.86 count data compared to all sequences shared via GISAID per calendar week of collection by geographic region.
+
+Date of analysis: 2023-08-31, 16:00 UTC, GISAID data was queried via the GISAID web interface
+
+| Week Starting | Global     | Europe    | North America | South America | Asia      | Africa  | Oceania  | Denmark  | South Africa |
+| ------------- | ---------- | --------- | ------------- | ------------- | --------- | ------- | -------- | -------- | ------------ |
+| 2023-07-10    | 0 of 10057 | 0 of 1624 | 0 of 3658     | 0 of 185      | 0 of 4072 | 0 of 21 | 0 of 497 | 0 of 49  | 0 of 13      |
+| 2023-07-17    | 0 of 9233  | 0 of 1611 | 0 of 3740     | 0 of 77       | 0 of 3483 | 0 of 21 | 0 of 301 | 0 of 31  | 0 of 16      |
+| 2023-07-24    | 4 of 10021 | 1 of 1807 | 1 of 4495     | 0 of 37       | 0 of 3400 | 2 of 14 | 0 of 268 | 1 of 54  | 2 of 13      |
+| 2023-07-31    | 4 of 9994  | 1 of 2297 | 2 of 4399     | 0 of 27       | 1 of 3006 | 0 of 8  | 0 of 257 | 1 of 88  | 0 of 5       |
+| 2023-08-07    | 7 of 8484  | 6 of 2553 | 1 of 3944     | 0 of 35       | 0 of 1781 | 0 of 13 | 0 of 168 | 4 of 115 | 0 of 6       |
+| 2023-08-14    | 10 of 4224 | 9 of 915  | 0 of 2404     | 0 of 12       | 0 of 759  | 1 of 6  | 0 of 128 | 4 of 144 | 1 of 4       |
+| 2023-08-21    | 3 of 1097  | 2 of 218  | 1 of 737      | 0 of 0        | 0 of 129  | 0 of 0  | 0 of 13  | 0 of 20  | 0 of 0       |
+| 2023-08-28    | 0 of 10    | 0 of   6  | 0 of   0      | 0 of 0        | 0 of 4    | 0 of 0  | 0 of 0   | 0 of 0   | 0 of 0       |
+
+An regularly updated phylogenetic tree of all shared BA.2.86 sequences can be found at <https://nextstrain.org/groups/neherlab/ncov/BA.2.86>. A screenshot is shown below:
+
+![picture 22](../images/dca994fa1516f00bbcd766e8a4d7b5191b9f833ab127c85bc71c255b0e419251.png)
+
+While the number and overall share of BA.2.86 sequences is growing, it is not yet possible to draw firm conclusions about the relative growth advantage of BA.2.86 compared to the fittest XBB lineages.
+
 # BA.2.86 update 2023-08-23
 
 ## Sequencing count data
