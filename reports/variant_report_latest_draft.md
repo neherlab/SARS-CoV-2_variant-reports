@@ -16,7 +16,7 @@ With some 200 new BA.2.86 sequences having been shared over the past month, it i
 
 The fittest lineages with >100 sequences available are currently (by lower CI of [covSpectrum collection 42](https://cov-spectrum.org/collections/42)):
 
-| Lineage | Alias | Number of sequences on covSpectrum | Growth rate (lower CI) | Note |
+| Lineage | Alias | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Note |
 | ------- | ----- | ---------------------------------- | ---------------------- | ---  |
 | JG.3    | EG.5.1.3.3| 140 | 78% | FLip and S:S704L|
 | BA.2.86 |  | 189 | 53% | |
