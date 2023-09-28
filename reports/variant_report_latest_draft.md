@@ -14,6 +14,10 @@ Very little original XBB.1.5 genotype is left, almost all XBB have acquired at l
 
 With some 200 new BA.2.86 sequences having been shared over the past month, it is now possible to conclude that while BA.2.86 is among the fittest known lineage it does not appear to be unambiguously the very fastest growing lineage either. That means that while BA.2.86 may well become important or even dominant in the mid-term (3-12 months) it is unlikely to have an immediate impact on the epidemic compared to the counterfactual of not existing. That is, BA.2.86 is interesting for its potential to become important in the future, but it is unlikely to cause a major change in the trajectory of the pandemic in the next few months.
 
+It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences from countries), the other fit lineages also continue to evolve.
+
+## Summary of fittest lineages
+
 The fittest lineages with >100 sequences available are currently (by lower CI of [covSpectrum collection 42](https://cov-spectrum.org/collections/42)):
 
 | Lineage | Alias | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Note |
@@ -26,8 +30,6 @@ The fittest lineages with >100 sequences available are currently (by lower CI of
 | JD.1.1| XBB.1.5.102.1.1 | 294 | 46% | FLip and S:A475V|
 | XCH.1 | GK.1.1/XBB.1.9.1 | 196 | 45% | FLip and S:704L and S:573I |
 | EG.5.1.8 | | 138 | 44% | FLip|
-
-It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences from countries), the other fit lineages also continue to evolve.
 
 # Variant report 2023-08-31
 
