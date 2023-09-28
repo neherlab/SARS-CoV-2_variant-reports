@@ -1,36 +1,3 @@
-# Variant report 2023-09-28
-
-XBB descendants continue to dominate with >90% global share, however, the proportion of non-XBB lineages has started to stabilize with some non-XBB lineages growing compared to the bulk of XBB (se this [covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=%21nextcladePangoLineage%3AXBB*+%26+%21405G&)). While BA.2.86 is a fit lineage and it is possible that it becomes dominant over the next year, there being other similarly fit XBB sublineages means that it is unlikely to have a major impact over the next few months.
-
-## XBB trends
-
-Within XBB, FLip (S:L455F & S:F456L) continues to grow in share, being present in around 20% of global XBB in samples collected at the beginning of September 2023, doubling roughly every 3 weeks ([covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+%28S%3A455.+%7C+S%3A456.%29&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L&analysisMode=CompareToBaseline&)). In China, FLip has increased particularly quickly, mostly as HK.3 (EG.5.1.1.3), crossing 50% in early September with a relative doubling time of 10 days. In XBB FLip lineages, extra spike mutations appears to be beneficial - it has appeared at least 4 times already: in JD.1.1 (XBB.1.5.102.1.1), GK.3.1 (XBB.1.5.70.3.1), GK.4 (XBB.1.5.70.4), GW.5.1.1 (XBB.1.19.1.5.1.1), and FL.15.1.1 (XBB.1.9.1.15.1.1) (see [Nextclade's Pango lineage tree filtered for 475V](https://next.nextstrain.org/staging/nextclade/sars-cov-2/21L?gt=S.475V)]). Differential growth advantage on top of FLip appears to be around 20% per week at a global prevalence of around 1% beginning of September (see [covSpectrum query for extra 475V in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475.&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475V&analysisMode=CompareToBaseline&)). It is possible that 475V is more beneficial than 478R/I on top of XBB + FLip (see [covSpectrum query for extra 478R/I in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A478K&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+%28S%3A478R+%7C+S%3A478I%29&analysisMode=CompareToBaseline&)).
-
-A number of within-XBB recombinants (i.e. both parents are XBB) have been identified recently. For example XCH (GK.1.1 (alias of XBB.1.5.70.1.1) spike with FLip and S:704L and ORF9b:5T from XBB.1.9.1) appears to be among the fittest lineages at the moment, clearly outcompeting both parents, with sublineage XCH.1 having acquired extra T573I.
-
-Very little original XBB.1.5 genotype is left, almost all XBB have acquired at least one RBD mutation out of S:F456L, S:R478K, S:S494P, S:P521S (see this [covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=nextcladePangoLineage%3AXBB*+%26+%28+S%3A456L+%7C+S%3A478K+%7C+S%3A478I+%26+S%3AP521S+%26+S%3AS494P%29&variantQuery1=nextcladePangoLineage%3AXBB*+%26+S%3A456F+%26+S%3A478K+%26+S%3AP521P+%26+S%3AS494S&analysisMode=CompareToBaseline&) showing share of "pure" XBB without any of these mutations dropping from 90% in April 2023 to 5% beginning of September 2023.
-
-## BA.2.86
-
-With some 200 new BA.2.86 sequences having been shared over the past month, it is now possible to conclude that while BA.2.86 is among the fittest known lineage it does not appear to be unambiguously the very fastest growing lineage either. That means that while BA.2.86 may well become important or even dominant in the mid-term (3-12 months) it is unlikely to have an immediate impact on the epidemic compared to the counterfactual of not existing. That is, BA.2.86 is interesting for its potential to become important in the future, but it is unlikely to cause a major change in the trajectory of the pandemic in the next few months.
-
-It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences from countries), the other fit lineages also continue to evolve.
-
-## Summary of fittest lineages
-
-The fittest lineages with >100 sequences available are currently (by lower CI of [covSpectrum collection 42](https://cov-spectrum.org/collections/42)):
-
-| Lineage | Alias | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Note |
-| ------- | ----- | ---------------------------------- | ---------------------- | ---  |
-| JG.3    | EG.5.1.3.3| 140 | 78% | FLip and S:S704L|
-| BA.2.86 |  | 189 | 53% | |
-| HK.3  | EG.5.1.1.3 | 1677| 53% | FLip |
-| HV.1  | EG.5.1.6.1 | 1085| 47% | S:157L and S:452R |
-| JF.1  | XBB.1.16.6.1 | 239 | 47% | FLip and S:478R |
-| JD.1.1| XBB.1.5.102.1.1 | 294 | 46% | FLip and S:A475V|
-| XCH.1 | GK.1.1/XBB.1.9.1 | 196 | 45% | FLip and S:704L and S:573I |
-| EG.5.1.8 | | 138 | 44% | FLip|
-
 # Variant report 2023-08-31
 
 XBB descendants continue to dominate with >90% anywhere except Australia and New Zealand
