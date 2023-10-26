@@ -1,69 +1,10 @@
-# Variant report 2023-10-26
-
-## BA.2.86
-
-While BA.2.86 itself does not appear to be growing faster than the fastest XBB sublineages, the BA.2.86 sublineage with extra S:L455S (JN.1) appears to be the fastest growing lineage at the moment.
-
-In sequences collected in September, BA.2.86 was most common in South Africa at around 15-20%, followed by Europe where it made up 2-4% and North America/Japan where it made up 0.5-1%.
-
-Consistent with the modest growth advantage of BA.2.86 observed in Europe and North America, BA.2.86 does not appear to be becoming dominant quickly in South Africa.
-
-However, this is not the case for the JN.1 sublineage which was first observed in Luxembourg and is currently particularly common in France, Iceland and Luxembourg but also observed globally.
-
-At the time of writing last month's report, there were 4 JN.1 shared via GISAID. Now there are already 126. This is consistent with a relative doubling time of around a week.
-
-The relatively fast growth of JN.1 makes it more likely than a month ago that BA.2.86 will outcompete XBB lineages in the mid term.
-
-Another potentially beneficial RBD mutation that has been observed in two clusters in BA.2.86 is S:A475V. This mutation has already been observed to be beneficial in XBB FLip lineages. The small size of the BA.2.86 + S:A475V clusters means it is not possible to draw conclusions about their growth rates.
-
-A Nextstrain tree with around 1200 BA.2.86 sequences that has artefacts masked an problematic sequences excluded can be found here: https://nextstrain.org/groups/neherlab/ncov/BA.2.86
-
-## XBB
-
-Within XBB, there have not been significant changes since last month's report. FLip lineages continue to grow, S:A475V continues to be beneficial on top of FLip.
-
-Two XBB sublineages with interesting spike mutations that might be common in regions with relatively little sequencing and have been increasingly observed in high-sequencing countries as well include:
-
-- GW.5 (XBB.1 without ORF8:8\*, with 486P, FLip, K478I, E554K) with sublineages particular GW.5.1.1 (extra A475V, F79S) and GW.5.3.1 (extra G184A, A475V). Most common in Pakistan where it might be dominant for a few months already
-- GA.4.1 (XBB.1 with 486P, D215H, H245Y, K356T, K478R, E554K, S704L) possibly dominant in Nigeria
-
-In the past month, more recombinants have been identified, in particular within-XBB recombinants with FLip as well as some CH.1.1/XBB recombinants. However, none of these recombinants have particularly novel spike haplotypes, making them unlikely to have a major impact over the next few months.
-
-## Other variants
-
-Revisiting some non-XBB lineages that have been discussed previously:
-
-- DV.7.1 (CH.1.1 with FLip) continues growing steadily in Europe, particularly Spain, but does not appear faster than XBB FLip lineages
-- XAY, including GL.1, has only been sporadically observed in the past month and appears to be declining
-- XBC is still at around 10-30% in Australia and New Zealand but seems to be steady or declining
-- BA.2.3.20 has not been observed at all in the past month
-
-## Summary of some of the fittest lineages
-
-Below is a table summarizing a selection of the fittest lineages sorted by growth rate [covSpectrum collection 42](https://cov-spectrum.org/collections/42):
-
-| Lineage   | Alias                      | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Notable spike mutations              | Focus countries               |
-| --------- | -------------------------- | ---------------------------------- | -------------------------------------- | ------------------------------------ | ----------------------------- |
-| JN.1      | BA.2.86.1.1                | 70                                 | 93%                                    | L455S                                | France, Iceland, Luxembourg   |
-| HK.2.1    | EG.5.1.1.2.1               | 138                                | 62%                                    | FLip, Q14H                           | China, Singapore              |
-| FL.15.1.1 | XBB.1.9.1.15.1.1           | 118                                | 58%                                    | FLip, A475V                          | Romania, Bulgaria             |
-| JG.3      | EG.5.1.3.3                 | 911                                | 53%                                    | FLip, S704L, Q52H                    | Denmark, Finland, Italy       |
-| HV.1.1    | EG.5.1.6.1.1               | 47                                 | 49%                                    | 157L, K444T, L452R, F456L, Q52H      | USA, Canada                   |
-| GW.5.1.1  | XBB.1.19.1.5.1.1           | 100                                | 46%                                    | FLip, K478I, E554K, A475V, F79S      | Pakistan                      |
-| BA.2.86   |                            | 947                                | 40%                                    | Many                                 | South Africa, Denmark, Sweden |
-| HV.1      | EG.5.1.6.1                 | 5523                               | 39%                                    | S:157L, S:452R, F456L, Q52H          | USA, Canada                   |
-| HK.3      | EG.5.1.1.3                 | 6574                               | 38%                                    | FLip, Q52H                           | China                         |
-| JD.1.1    | XBB.1.5.102.1.1            | 1415                               | 37%                                    | FLip and S:A475V                     | Brazil, Belgium, Spain        |
-| XCM       | XBB.2.3/DV.7.1 recombinant | 89                                 | 37%                                    | V83A, 144- from XBB.2.3, rest DV.7.1 | Netherlands, Germany          |
-| FL.1.5.2  | XBB.1.9.1.5.2              | 226                                | 34%                                    | F456L, N481K, H681R, A701V           | UK, Spain, Canada             |
-
 # Variant report 2023-09-28
 
 XBB descendants continue to dominate with >90% global share, however, the proportion of non-XBB lineages has started to stabilize with some non-XBB lineages growing compared to the bulk of XBB (se this [covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=%21nextcladePangoLineage%3AXBB*+%26+%21405G&)). While BA.2.86 is a fit lineage and it is possible that it becomes dominant over the next year, there being other similarly fit XBB sublineages means that it is unlikely to have a major impact over the next few months.
 
 ## XBB trends
 
-Within XBB, FLip (S:L455F & S:F456L) continues to grow in share, being present in around 20% of global XBB in samples collected at the beginning of September 2023, doubling roughly every 3 weeks ([covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+%28S%3A455.+%7C+S%3A456.%29&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L&analysisMode=CompareToBaseline&)). In China, FLip has increased particularly quickly, mostly as HK.3 (EG.5.1.1.3), crossing 50% in early September with a relative doubling time of 10 days. In XBB FLip lineages, extra spike mutation S:A475V appears to be beneficial - it has appeared at least 4 times already: in JD.1.1 (XBB.1.5.102.1.1), GK.3.1 (XBB.1.5.70.3.1), GK.4 (XBB.1.5.70.4), GW.5.1.1 (XBB.1.19.1.5.1.1), and FL.15.1.1 (XBB.1.9.1.15.1.1) (see [Nextclade's Pango lineage tree filtered for 475V](https://next.nextstrain.org/staging/nextclade/sars-cov-2/21L?gt=S.475V)]). Differential growth advantage on top of FLip appears to be around 20% per week at a global prevalence of around 1% beginning of September (see [covSpectrum query for extra 475V in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475.&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475V&analysisMode=CompareToBaseline&)). It is possible that 475V is more beneficial than 478R/I on top of XBB + FLip (see [covSpectrum query for extra 478R/I in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A478K&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+%28S%3A478R+%7C+S%3A478I%29&analysisMode=CompareToBaseline&)).
+Within XBB, FLip (S:L455F & S:F456L) continues to grow in share, being present in around 20% of global XBB in samples collected at the beginning of September 2023, doubling roughly every 3 weeks ([covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+%28S%3A455.+%7C+S%3A456.%29&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L&analysisMode=CompareToBaseline&)). In China, FLip has increased particularly quickly, mostly as HK.3 (EG.5.1.1.3), crossing 50% in early September with a relative doubling time of 10 days. In XBB FLip lineages, extra spike mutations appears to be beneficial - it has appeared at least 4 times already: in JD.1.1 (XBB.1.5.102.1.1), GK.3.1 (XBB.1.5.70.3.1), GK.4 (XBB.1.5.70.4), GW.5.1.1 (XBB.1.19.1.5.1.1), and FL.15.1.1 (XBB.1.9.1.15.1.1) (see [Nextclade's Pango lineage tree filtered for 475V](https://next.nextstrain.org/staging/nextclade/sars-cov-2/21L?gt=S.475V)]). Differential growth advantage on top of FLip appears to be around 20% per week at a global prevalence of around 1% beginning of September (see [covSpectrum query for extra 475V in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475.&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475V&analysisMode=CompareToBaseline&)). It is possible that 475V is more beneficial than 478R/I on top of XBB + FLip (see [covSpectrum query for extra 478R/I in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A478K&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+%28S%3A478R+%7C+S%3A478I%29&analysisMode=CompareToBaseline&)).
 
 A number of within-XBB recombinants (i.e. both parents are XBB) have been identified recently. For example XCH (GK.1.1 (alias of XBB.1.5.70.1.1) spike with FLip and S:704L and ORF9b:5T from XBB.1.9.1) appears to be among the fittest lineages at the moment, clearly outcompeting both parents, with sublineage XCH.1 having acquired extra T573I.
 
@@ -73,22 +14,22 @@ Very little original XBB.1.5 genotype is left, almost all XBB have acquired at l
 
 With some 200 new BA.2.86 sequences having been shared over the past month, it is now possible to conclude that while BA.2.86 is among the fittest known lineage it does not appear to be unambiguously the very fastest growing lineage either. That means that while BA.2.86 may well become important or even dominant in the mid-term (3-12 months) it is unlikely to have an immediate impact on the epidemic compared to the counterfactual of not existing. That is, BA.2.86 is interesting for its potential to become important in the future, but it is unlikely to cause a major change in the trajectory of the pandemic in the next few months.
 
-It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences), the other fit lineages also continue to evolve.
+It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences from countries), the other fit lineages also continue to evolve.
 
 ## Summary of fittest lineages
 
 The fittest lineages with >100 sequences available are currently (by lower CI of [covSpectrum collection 42](https://cov-spectrum.org/collections/42)):
 
-| Lineage  | Alias            | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Note                       |
-| -------- | ---------------- | ---------------------------------- | -------------------------------------- | -------------------------- |
-| JG.3     | EG.5.1.3.3       | 140                                | 78%                                    | FLip and S:S704L           |
-| BA.2.86  |                  | 189                                | 53%                                    |                            |
-| HK.3     | EG.5.1.1.3       | 1677                               | 53%                                    | FLip                       |
-| HV.1     | EG.5.1.6.1       | 1085                               | 47%                                    | S:157L and S:452R          |
-| JF.1     | XBB.1.16.6.1     | 239                                | 47%                                    | FLip and S:478R            |
-| JD.1.1   | XBB.1.5.102.1.1  | 294                                | 46%                                    | FLip and S:A475V           |
-| XCH.1    | GK.1.1/XBB.1.9.1 | 196                                | 45%                                    | FLip and S:704L and S:573I |
-| EG.5.1.8 |                  | 138                                | 44%                                    | FLip                       |
+| Lineage | Alias | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Note |
+| ------- | ----- | ---------------------------------- | ---------------------- | ---  |
+| JG.3    | EG.5.1.3.3| 140 | 78% | FLip and S:S704L|
+| BA.2.86 |  | 189 | 53% | |
+| HK.3  | EG.5.1.1.3 | 1677| 53% | FLip |
+| HV.1  | EG.5.1.6.1 | 1085| 47% | S:157L and S:452R |
+| JF.1  | XBB.1.16.6.1 | 239 | 47% | FLip and S:478R |
+| JD.1.1| XBB.1.5.102.1.1 | 294 | 46% | FLip and S:A475V|
+| XCH.1 | GK.1.1/XBB.1.9.1 | 196 | 45% | FLip and S:704L and S:573I |
+| EG.5.1.8 | | 138 | 44% | FLip|
 
 # Variant report 2023-08-31
 
@@ -126,7 +67,7 @@ The most successful XAY sublineage GL.1 (with 346T, 420N) appears to no longer g
 
 The same applies to HW.1.1 (XBC.1.6 with N460H): it is circulating at low levels globally, but not growing fast enough to become dominant.
 
-While BA.4/5 and descendant BQ.1\* are only sporadically sequenced globally, there appears to be continuing circulation of the BQ.1.2.2 lineage as evidenced by it recombining with FL.1.5.1 to give rise to [XCK](https://github.com/cov-lineages/pango-designation/issues/2215). Furthermore, two BQ.1.2.2 sublineages, JH.1 and JH.2 have been recently observed in multiple countries. [JH.1](https://github.com/cov-lineages/pango-designation/issues/2068) has 7 extra Spike mutations on top of BQ.1: S:K147E, S:R346T, S:V445A, S:K182E, S:486A, S:S494P, S:E554K.
+While BA.4/5 and descendant BQ.1* are only sporadically sequenced globally, there appears to be continuing circulation of the BQ.1.2.2 lineage as evidenced by it recombining with FL.1.5.1 to give rise to [XCK](https://github.com/cov-lineages/pango-designation/issues/2215). Furthermore, two BQ.1.2.2 sublineages, JH.1 and JH.2 have been recently observed in multiple countries. [JH.1](https://github.com/cov-lineages/pango-designation/issues/2068) has 7 extra Spike mutations on top of BQ.1: S:K147E, S:R346T, S:V445A, S:K182E, S:486A, S:S494P, S:E554K.
 
 ## BA.2.86
 
@@ -143,7 +84,7 @@ Date of analysis: 2023-08-31, 16:00 UTC, GISAID data was queried via the GISAID 
 | 2023-08-07    | 7 of 8484  | 6 of 2553 | 1 of 3944     | 0 of 35       | 0 of 1781 | 0 of 13 | 0 of 168 | 4 of 115 | 0 of 6       |
 | 2023-08-14    | 10 of 4224 | 9 of 915  | 0 of 2404     | 0 of 12       | 0 of 759  | 1 of 6  | 0 of 128 | 4 of 144 | 1 of 4       |
 | 2023-08-21    | 3 of 1097  | 2 of 218  | 1 of 737      | 0 of 0        | 0 of 129  | 0 of 0  | 0 of 13  | 0 of 20  | 0 of 0       |
-| 2023-08-28    | 0 of 10    | 0 of 6    | 0 of 0        | 0 of 0        | 0 of 4    | 0 of 0  | 0 of 0   | 0 of 0   | 0 of 0       |
+| 2023-08-28    | 0 of 10    | 0 of   6  | 0 of   0      | 0 of 0        | 0 of 4    | 0 of 0  | 0 of 0   | 0 of 0   | 0 of 0       |
 
 An regularly updated phylogenetic tree of all shared BA.2.86 sequences can be found at <https://nextstrain.org/groups/neherlab/ncov/BA.2.86>. A screenshot is shown below:
 
@@ -171,7 +112,7 @@ Date of analysis: 2023-08-23, 18:00 UTC, GISAID data was queried via the GISAID 
 ## Phylogenetic analysis
 
 You can find a Nextstrain tree of all 9 currently available consensus sequences shared via GISAID at <https://nextstrain.org/groups/neherlab/ncov/BA.2.86>. A screenshot is shown below:
-![BA.2.86 mutation and time tree](../images/399f9ec7801737710f2a6f94e6e3c3e0045fa7fd4691c6aabfd9207e5472ca84.png)
+![BA.2.86 mutation and time tree](../images/399f9ec7801737710f2a6f94e6e3c3e0045fa7fd4691c6aabfd9207e5472ca84.png)  
 
 The time of most recent common ancestor can be estimated from the number of mutations between the ancestor and the tips with known dates. All but one sequence are within 2-4 mutations from the common ancestor. Within variants, mutations can be modelled as arising through a Poisson process with a rate of about 17 mutations per year (see [Neher, Contributions of adaptation and purifying selection to SARS-CoV-2 evolution](https://academic.oup.com/ve/article/8/2/veac113/6887176)). The common ancestor can hence be dated to early May to mid June.
 
@@ -221,15 +162,13 @@ In addition to the branches themselves, this report also examines beneficial spi
 XBB.1.5 was the first XBB sublineage to acquire S:F486P and spread widely. It was most common in USA/Canada, where it peaked at around 80% in March 2023. The global unweighted average has decreased from a peak of ~55% in March to ~20% at the end of June.
 
 Interesting sublineages:
-
 - XBB.1.5.70 (Pango alias GK) with S:L455F, S:F456L, most common in Brazil, where it has grown to around 30%.
 
 ### XBB.1.9.1 (Pango alias FL, 486P 252V)
 
-Shares ORF9b:I5T with XBB.1.9.2 and XBB.1.16, and ORF1a:G1819S + ORF1a:T4175I with XBB.1.9.2. Peaked globally at around ~15-20% in May/June. Historically most common in South East Asia (Indonesia/Malaysia).
+Shares ORF9b:I5T with XBB.1.9.2 and XBB.1.16, and ORF1a:G1819S + ORF1a:T4175I with XBB.1.9.2. Peaked globally at around ~15-20% in May/June. Historically most common in South East Asia (Indonesia/Malaysia). 
 
 Interesting sublineages:
-
 - FL.1.5.1 (Pango alias HN) with S:F456L, S:478R, S:A701V, most common in Dominican Republic where it appears to have become dominant. On the rise in US/Canada.
 
 ### XBB.1.9.2 (Pango alias EG, 486P 252V)
@@ -237,7 +176,6 @@ Interesting sublineages:
 Shares ORF9b:I5T with XBB.1.9.2 and XBB.1.16, and ORF1a:G1819S + ORF1a:T4175I with XBB.1.9.2 (acquired 486P independently, but differs from XBB.1.9.1 otherwise only by synonymous mutations). Globally on the rise with 15-20% share at the end of June. Historically most common in Indonesia, currently most common in China (in particular sublineage EG.5.1).
 
 Interesting sublineages:
-
 - EG.5.1 with S:F456L, S:Q52H, ~30% share in China, ~10% globally at end of June
 
 ### XBB.1.16 (Nextstrain clade 23B, 478R 486P 180V 252V)
@@ -245,7 +183,6 @@ Interesting sublineages:
 Shares ORF9b:I5T with XBB.1.9.1/XBB.1.9.2. Historically most common in India where it reached ~80% in April. First XBB lineage with both 486P and 478R to spread widely. Globally stable at around 20-25% at the end of June.
 
 Interesting sublineages:
-
 - XBB.1.16.6 with additional S:F456L (via T22930A), in the US already ~4% at end of June
 - XBB.1.16.9 with additional S:F456L (via T22930G), most common in Singapore, at around 2% at end of June
 
@@ -254,7 +191,6 @@ Interesting sublineages:
 Shares ORF9b:I5T with XBB.1.9.1/XBB.1.9.2/XBB.1.16. Most common in Asia, particularly China, where it has grown to above 10% at the end of June.
 
 Interesting sublineages:
-
 - FY.4.1 (S:Y451H, S:494P), dominant in Kenya in March/April
 
 ### XBB.2.3 (486P 521S 253G)
@@ -262,7 +198,6 @@ Interesting sublineages:
 Only common XBB sublineage that has 252V instead of 253G. Only main XBB lineage to have ORF1b:P959S reverted to Wuhan (mutation inherited from the BJ.1 parent, where it was the defining mutation of BA.2.10). Most common in India where it has been at around 20% since January. Globally on the rise with around 10% share at the end of June.
 
 Interesting sublineages:
-
 - XBB.2.3.8 with S:478R
 - XBB.2.3.11 with S:478R
 - GE.1 (XBB.2.3.10.1) with S:478R and S:185-, S:F186I due to 3nt cross-codon deletion
@@ -272,7 +207,6 @@ Interesting sublineages:
 Independently acquired 486P after ORF1a:D2579G. Most common in Brazil where it reached >50% share in May. Globally just below 2% at the end of June, though likely higher if weighted by population rather than raw sequencing volume due to Brazil sequencing less than the global average (7 seqs from past 3 months per million inhabitants vs 18 globally).
 
 Interesting sublineages:
-
 - FE.1 with S:F456L, dominant in Brazil, having effectively replaced all other XBB.1.18.1, ~2% globally
 
 ### Other XBB sublineages
@@ -284,7 +218,6 @@ Shares ORF9b:I5T, ORF1a:T4175I with XBB.1.9.1/2 but lacks ORF1a:G1819S. Has know
 Most common in China at nearly 3% at end of June, but also present in Japan, US and others at >1%. Globally at around 1% at end of June.
 
 Interesting sublineages:
-
 - XBB.1.42.1 (S:478R)
 
 #### XBB.1.19 (S:486P 252V)
@@ -292,7 +225,6 @@ Interesting sublineages:
 Only pre-ORF8-stop XBB.1 lineage on this list. Most common in Pakistan where it appeared to be at 40-50% in April. Majority is sublineage XBB.1.19.1 (GW) with additional S:E554K (mutation known to be slightly beneficial mutation). Globally at ~0.5% (unweighted average) but this is certainly an underestimate given Pakistan represents more than 2% of global population.
 
 Interesting sublineages:
-
 - GW.5 (XBB.1.19.1.5) with S:478I, S:L455F, S:F456L
 
 #### XBB.1.17.1 (Pango alias GA, S:486P 215H)
@@ -300,7 +232,6 @@ Interesting sublineages:
 Appears to be dominant in Central/West Africa (Mali, Togo, Nigeria, Ghana, Burkina Faso, Cote d'Ivoire) at least between January and April 2023 (lack of data precludes more recent analysis). Globally at around 0.5% at end of June but due to low sequencing volume where the lineage is most common the real population weighted share is more likely to be between 1-5%.
 
 Interesting sublineages:
-
 - GA.4 (S:K356T)
 
 ## Beneficial Spike mutations in XBB
@@ -313,7 +244,7 @@ Present in a third of XBB-derived sequences. Most common in XBB.1.16, but presen
 
 ### S:456L
 
-Present in just below 30% of XBB-derived sequences but growing faster than 478R at around 25% per week (doubling every 3 weeks compared to XBB lacking 456L). Most common in Brazil where it is at >80% in XBB.1.5.70 (GK) and FE.1. Globally most common lineage with 456L is EG.5\*, in particular EG.5.1 with extra S:Q52H which is above 30% in China, 10% globally and doubling every 2 weeks.
+Present in just below 30% of XBB-derived sequences but growing faster than 478R at around 25% per week (doubling every 3 weeks compared to XBB lacking 456L). Most common in Brazil where it is at >80% in XBB.1.5.70 (GK) and FE.1. Globally most common lineage with 456L is EG.5*, in particular EG.5.1 with extra S:Q52H which is above 30% in China, 10% globally and doubling every 2 weeks.
 
 ### S:E554K
 
@@ -348,7 +279,6 @@ With XBB having had sufficient time to acquire multiple Spike mutations since it
 The two most beneficial RBD mutations S:F456L and S:478R have by now appeared multiple times together.
 
 XBB.1.16 has acquired 456L multiple times, the most common XBB.1.16 sublineages with 456L are currently:
-
 - XBB.1.16.6 (via T22930A), in the US already ~4% at end of June
 - XBB.1.16.9 (via T22930G), most common in Singapore, at around 2% at end of June
 - FL.1.5.1 (Pango alias HN) with S:F456L, S:478R, S:A701V, most common in Dominican Republic where it appears to have become dominant. On the rise in US/Canada.
@@ -367,10 +297,9 @@ While XBB has been dominating global circulation for the past 6 months, there ar
 
 ### CH.1.1 (BA.2.75 with 346T, 444T, 452R, 486S)
 
-CH.1.1 reached its global peak in February 2023 at 8% when it was most common in the UK at around 30%. It declined from there to around 3% in April, a level it has been stable at since then. The actual population weighted global average is however likely lower as CH.1.1 is most common in New Zealand and Australia, two countries that sequence much more than the global average. The globally most common sublineage is currently FK.1.1 which is defined by extra Spike mutations S:D215G and S:Q613H. In New Zealand, in the most recent data from mid June, CH.1.1* was at around 35%. In Australia, CH.1.1* at around 15%.
+CH.1.1 reached its global peak in February 2023 at 8% when it was most common in the UK at around 30%. It declined from there to around 3% in April, a level it has been stable at since then. The actual population weighted global average is however likely lower as CH.1.1 is most common in New Zealand and Australia, two countries that sequence much more than the global average. The globally most common sublineage is currently FK.1.1 which is defined by extra Spike mutations S:D215G and S:Q613H. In New Zealand, in the most recent data from mid June, CH.1.1* was at around 35%. In Australia, CH.1.1* at around 15%. 
 
 Interesting sublineages:
-
 - FK.1.1 (S:D215G, S:Q613H), at stable level in New Zealand, Australia, competitive with XBB lineages.
 - DV.7.1 (S:N185D, S:L858I, S:F455L, S:F456L), growing in Spain, albeit at low level
 - GQ.1 (S:S255P, S:486P)
@@ -381,11 +310,11 @@ BN.1* reached its global peak in January 2023 at 6%, it reached 60% in South Kor
 
 ### BA.2.3.20
 
-BA.2 descendant with M153T, N164K, H245N, G257D, K444R, N450D, L452M, N460K, A484R, R493Q. BA.2.3.20 was the dominant lineage in the Philippines until February 2023 when it was outcompeted by XBB. It has since declined to around 0.1-0.2% globally. While BA.2.3.20\* overall has declined, some sublineages have evolved that appear to be competitive in the current variant landscape, at least at low levels. The most competitive sublineage is FV.1 (with extra S:K147N, S:R346T, S:G446S, S:F486S) which was first observed in the Philippines but has since established itself at low levels in the Dominican Republic (situated on the Caribbean island Hispaniola which it shares with Haiti) as well as Japan, South Korea and Hong Kong and appears to be growing.
+BA.2 descendant with M153T, N164K, H245N, G257D, K444R, N450D, L452M, N460K, A484R, R493Q. BA.2.3.20 was the dominant lineage in the Philippines until February 2023 when it was outcompeted by XBB. It has since declined to around 0.1-0.2% globally. While BA.2.3.20* overall has declined, some sublineages have evolved that appear to be competitive in the current variant landscape, at least at low levels. The most competitive sublineage is FV.1 (with extra S:K147N, S:R346T, S:G446S, S:F486S) which was first observed in the Philippines but has since established itself at low levels in the Dominican Republic (situated on the Caribbean island Hispaniola which it shares with Haiti) as well as Japan, South Korea and Hong Kong and appears to be growing.
 
 ### XAY
 
-XAY is a Delta-Omicron recombinant. The Spike NTD is from Delta (breakpoint between 159 and 212), the rest of the Spike is BA.4/5-like. XAY has important extra mutations in the Spike beyond what's derived from the donors: in particular S:F486P (known as XBB.1.5-defining), and S:G446D (XBB has similar S:G446S). XAY was first sequenced in South Africa in June 2022 where it made up around 1% of sequences in the second half of 2022, peaking at 2% around September 2022. At the end of 2023, XAY appeared in Europe, in particular Denmark, where XAY.2 reached a peak of 4% in January/February 2023. XAY.1.1 with extra S:D253G and S:R346T, established itself in Germany in February/March/April 2023 at around 1%, Most of it being XAY.1.1.1 with extra S:D1153Y. XAY\* was only sporadically observed on other continents.
+XAY is a Delta-Omicron recombinant. The Spike NTD is from Delta (breakpoint between 159 and 212), the rest of the Spike is BA.4/5-like. XAY has important extra mutations in the Spike beyond what's derived from the donors: in particular S:F486P (known as XBB.1.5-defining), and S:G446D (XBB has similar S:G446S). XAY was first sequenced in South Africa in June 2022 where it made up around 1% of sequences in the second half of 2022, peaking at 2% around September 2022. At the end of 2023, XAY appeared in Europe, in particular Denmark, where XAY.2 reached a peak of 4% in January/February 2023. XAY.1.1 with extra S:D253G and S:R346T, established itself in Germany in February/March/April 2023 at around 1%, Most of it being XAY.1.1.1 with extra S:D1153Y. XAY* was only sporadically observed on other continents.
 
 GL.1 (XAY.1.1.1.1) with extra S:D420N and S:Y144- was first sequenced in Spain in Alicante in March 2023. It has grown to around 0.3% in Europe by end of March and appears particularly common in South Europe (Portugal, Spain and Italy). It has been sporadically observed in North America and Australia.
 
@@ -393,7 +322,7 @@ GL.1 (XAY.1.1.1.1) with extra S:D420N and S:Y144- was first sequenced in Spain i
 
 XBC is a Delta(21I)-Omicron(BA.2) recombinant with 3 breakpoints. The Spike NTD is from 21I-Delta, while the rest of Spike starting between S:340 and S:370 is BA.2-like with extra Spike mutations S:G446S, S:486P, S:R493Q (reversion). It was first observed in the Philippines in samples collected in August 2022. In the Philippines, it was at around 10-20% in the Philippines in September to November 2022, stayed between 5-10% between December and March and further decreased to around 1% since. In contrast to the slow decrease in the Philippines, XBC has steadily grown in Australia: from around 1% in October 2022 to 10% in March 2023, growing further to above 30% by the end of June. The most competitive sublineage of XBC is XBC.1.6 with extra S:R346S and S:L452R (via XBC.1's S:L452M). While XBC.1.6 has grown steadily in Australia from 1% in February 2023 to 30% at the beginning of July 2023, it has only had limited success outside of Australia. XBC.1.6 only represents 0.1% of sequences with collection date since June 1 2023 in Europe, 0.2% in North America and 0.1% in Asia.
 
-![Breakpoints of XBC (here called issue #1100) (figure by Thomas Peacock)](../images/7efcdcdfbb206fc492f7de4894cdd5d363d3b7211da2cdacbdc1fcf5d3342564.png)
+![Breakpoints of XBC (here called issue #1100) (figure by Thomas Peacock)](../images/7efcdcdfbb206fc492f7de4894cdd5d363d3b7211da2cdacbdc1fcf5d3342564.png)  
 
 # Variant report 2023-06-29
 
@@ -405,7 +334,7 @@ In Australia, XBC (particularly XBC.1.6) has grown to 15-20% at the beginning of
 
 For New Zealand, the most recent data from mid May showed FK.1 (a CH.1.1 sublineage) growing to 35% despite XBB + F486P being in the majority. However, XBB.1.16 appeared to be growing faster than FK.1.
 
-BA.2.3.20\*, mostly as FV.1 (with S:R346T now), is slowly disappearing. In the Philippines, BA.2.3.20 was dominant until February 2023 when XBB outcompeted it. FV.1 appears now most commonly in Japan though only at around 1%.
+BA.2.3.20*, mostly as FV.1 (with S:R346T now), is slowly disappearing. In the Philippines, BA.2.3.20 was dominant until February 2023 when XBB outcompeted it. FV.1 appears now most commonly in Japan though only at around 1%.
 
 CH.1.1*, mostly as FK.1*, is still present in Oceania and at low levels in Europe, but does not appear to be growing.
 
@@ -429,7 +358,6 @@ XAY is a Delta-Omicron recombinant. The NTD is from Delta (breakpoint between 15
 <summary>Expand for full list of Spike mutations of XAY by donor</summary>
 
 Extra mutations in addition to the donors:
-
 - L18F
 - R21G
 - Y144- (starting with GL.1=XAY.1.1.1.1)
@@ -446,7 +374,6 @@ Extra mutations in addition to the donors:
 - D1153Y (starting with XAY.1.1.1)
 
 Mutations from Delta donor:
-
 - T19R
 - T95I
 - G142D
@@ -454,7 +381,6 @@ Mutations from Delta donor:
 - del157/158
 
 Mutations from BA.4/5-like donor (donor is not exactly BA.4/5 as XAY has F486P not F486V):
-
 - V213G
 - G339D
 - S371F
@@ -488,18 +414,17 @@ At the end of 2023, XAY appeared in Europe, in particular Denmark, where XAY.2 r
 
 XAY.1.1 with extra S:D253G and S:R346T, established itself in Germany in February/March/April 2023 at around 1%, Most of it being XAY.1.1.1 with extra S:D1153Y.
 
-XAY\* was only sporadically observed on other continents.
+XAY* was only sporadically observed on other continents.
 
 End of March 2023, GL.1 (XAY.1.1.1.1) with extra S:D420N and S:Y144- was first sequenced in Spain in Alicante. In April, GL.1 was also observed in Luxembourg, Italy and Spanish Galicia. In May, GL.1 was newly found in Portugal, Ireland, England, Wales, Austria, Italy and in Spain on the Canary Islands and in Murcia. In the limited samples available from June, it was sequenced in Australia, Wales, Ireland, Austria and the Spanish Canary Islands.
 
-With only 27 sequences to date, it's too early to tell how fast GL.1. With 2/3 of XAY\* collected since May having S:D420N, this extra mutation does appear to confer a growth advantage to XAY.1.1.1. Whether it's enough to compete with XBB sublineages. Before acquiring S:D420N, XAY appears to have only been competitive in particular niches, particularly in Germany and Denmark.
+With only 27 sequences to date, it's too early to tell how fast GL.1. With 2/3 of XAY* collected since May having S:D420N, this extra mutation does appear to confer a growth advantage to XAY.1.1.1. Whether it's enough to compete with XBB sublineages. Before acquiring S:D420N, XAY appears to have only been competitive in particular niches, particularly  in Germany and Denmark.
 
 ## Major XBB branches
 
 Due to convergence of RBD mutations, it is worthwhile to split XBB evolution into two parts: non-RBD and RBD evolution.
 
 A few lineages make up the bulk of XBB with S:F486P (almost no XBB is still around without this mutation), with shares given as proportion of global XBB sequences with S:F486P:
-
 - XBB.1.5 (~25% share, decreasing by ~20% per week)
 - XBB.1.16 (~25% share, growing ~15% per week)
 - XBB.1.9.1 (~20% share, stable)
@@ -511,7 +436,7 @@ A few lineages make up the bulk of XBB with S:F486P (almost no XBB is still arou
 
 Growth needs to be taken with a big grain of salt as it is heavily influenced by which countries sequence most and how that sequencing volume changes over time.
 
-XBB.1.9\*, XBB.1.16, and XBB.1.22 all share mutation ORF9b:I5T.
+XBB.1.9*, XBB.1.16, and XBB.1.22 all share mutation ORF9b:I5T.
 
 XBB.1.9.1 and XBB.1.9.2 share extra ORF1a:G1819S, ORF1a:T4175I.
 
@@ -524,12 +449,11 @@ XBB.2.3 differs from the others in Spike by having S:D253G instead of S:G252V an
 478R is also homoplasic, present in ~25% of XBB + 486P at the end of May but a slightly lower growth advantage of ~20% per week (compared to XBB + 486P).
 
 456L and 478R appear to be able to combine their growth advantages, with potentially up to 50% per week over XBB + 486P. However, this combination was observed in only ~0.4% of XBB + 486P at the end of May (though slightly higher if focusing on US alone at ~1%). Most common lineages with this haplotype are:
-
 - FL.1.5.1 (XBB.1.9.1 sublineage with extra S:A701V)
 - EG.2.1 (XBB.1.9.2 sublineage with extra S:V327I)
 - XBB.1.16.9
 - XBB.1.16.6
-  though there are more arising, as expectable from the growth advantage.
+though there are more arising, as expectable from the growth advantage.
 
 ### Slightly beneficial mutations
 
@@ -544,11 +468,11 @@ S:E554K is most prominent in XBB.1.19.1 but has also appeared in other XBB linea
 Number of sequences (in thousands) with collection date within X months of cutoff date:
 | Submission cutoff | within last 1 month | within last 2 months | within last 3 months | within last 4 months |
 | ----------------- | ------------------- | -------------------- | -------------------- | -------------------- |
-| 2023-06-21 | 21 | 95 | 225 | 384 |
-| 2023-05-24 | 25 | 134 | 287 | 484 |
-| 2023-04-24 | 49 | 190 | 383 | 638 |
-| 2023-03-24 | 65 | 244 | 491 | 837 |
-| 2023-02-24 | 89 | 323 | 660 | 963 |
+| 2023-06-21        | 21                  | 95                   | 225                  | 384                  |
+| 2023-05-24        | 25                  | 134                  | 287                  | 484                  |
+| 2023-04-24        | 49                  | 190                  | 383                  | 638                  |
+| 2023-03-24        | 65                  | 244                  | 491                  | 837                  |
+| 2023-02-24        | 89                  | 323                  | 660                  | 963                  |
 
 ### Submission volume by region and cutoff
 
@@ -573,7 +497,7 @@ The general trend towards XBB* domination continues. In sequences collected at t
 
 XBB* is now clearly dominating in China, South Korea and Japan, countries that had relatively large proportions of non-XBB* at the time of writing of the previous report from a month ago.
 
-The following figures show non-XBB\* proportions in select countries, grouped by continent.
+The following figures show non-XBB* proportions in select countries, grouped by continent.
 
 ![Non-XBB in Oceania](../images/565c5b20890156f44f40bd76aabca083acb366fd3e1529d30e1fb6250860836e.png)
 ![Non-XBB in Asia](../images/d769c02bef9209cf9e2421624054f1e8a360c6ddfc996094d100776d0a575739.png)  
@@ -584,73 +508,74 @@ The following figures show non-XBB\* proportions in select countries, grouped by
 
 While the timing of XBB* dominance differs by continent and country, in all countries with data on all continents, XBB makes up at least 80% of sequences, the only exception being Oceania where New Zealand had 40% non-XBB* at the beginning of April.
 
-### Significant remaining non-XBB\* diversity
+### Significant remaining non-XBB* diversity
 
 ### BN.1* (=BA.2.75.5.1*)
 
-- The only country that shows some BN.1* growth is China, where it represented around 4% most recently. However, XBB* seems to clearly outcompete BN.1\* there
-- Used to be common in East Asia (South Korea/Japan), but XBB\* has now taken over
+- The only country that shows some BN.1* growth is China, where it represented around 4% most recently. However, XBB* seems to clearly outcompete BN.1* there
+- Used to be common in East Asia (South Korea/Japan), but XBB* has now taken over
 - Most interesting sublineage: FR.1 (S:187E) in Taiwan/China
 
-![BN.1*](../images/4bee5d30e56ffa67002bc38b83cfcbc1d4ac32163a68bff82d808f2c96ba59b7.png)
+![BN.1*](../images/4bee5d30e56ffa67002bc38b83cfcbc1d4ac32163a68bff82d808f2c96ba59b7.png)  
 
 ### CH.1.1* (=BA.2.75.3.4.1.1.1.1*)
 
 - Used to be common in Europe/Oceania, still relevant in New Zealand and Denmark
-- Most interesting sublineage: FK.1\* (S:D215G, S:Q613H) in New Zealand, Australia, Denmark
+- Most interesting sublineage: FK.1* (S:D215G, S:Q613H) in New Zealand, Australia, Denmark
 
-![CH.1.1*](../images/34ad1de6e286fe186fbfc82169a8e5c085bf6d8e8693694052e868dc385e25ca.png)
+![CH.1.1*](../images/34ad1de6e286fe186fbfc82169a8e5c085bf6d8e8693694052e868dc385e25ca.png)  
 
-### BA.2.3.20\*
+### BA.2.3.20*
 
 - Used to be common in Philippines but no recent data from there
-- Most interesting sublineage: FV.1 (S:K147N, S:R346T, S:G446S, S:F486S) potentially growing in Japan, Hong Kong, South Korea but still at very low level
+- Most interesting sublineage: FV.1 (S:K147N,  S:R346T, S:G446S, S:F486S) potentially growing in Japan, Hong Kong, South Korea but still at very low level
 
-![BA.2.3.20*](../images/a3599cc5ce93861238bce5983d504578c80214581c51ccfc19e4dcce6a6273a8.png)
+![BA.2.3.20*](../images/a3599cc5ce93861238bce5983d504578c80214581c51ccfc19e4dcce6a6273a8.png)  
 
-### XBC\*
+
+### XBC*
 
 - Delta-Omicron recombinant
 - Common in Philippines and Australia
 - Most interesting sublineage: XBC.1.6 (extra S:R346S, S:L452R) almost exclusively in Australia
-- So far no evidence of sustained XBC.1.6\* growth outside of Australia
+- So far no evidence of sustained XBC.1.6* growth outside of Australia
 
-![XBC*](../images/01235811e8ee378cc02fe595e49c8e384e5bfa9075cb9c898e9a34d93e5e00db.png)
+![XBC*](../images/01235811e8ee378cc02fe595e49c8e384e5bfa9075cb9c898e9a34d93e5e00db.png)  
 
-### XAY\*
+
+### XAY*
 
 - Delta-Omicron recombinant
 - First identified in South Africa. Established itself in Germany/Denmark. Has disappeared in South Africa.
-- Most interesting sublineage: XAY.1.1\* added S:R346T and has been stable at around 1% in Germany. Spotted occasionally around the world, but doesn't seem to grow much.
+- Most interesting sublineage: XAY.1.1* added S:R346T and has been stable at around 1% in Germany. Spotted occasionally around the world, but doesn't seem to grow much.
 
-![XAY*](../images/064398950f3c40f82adaf1e0457d3f3403323d0bb2ae2861ee371ade2511b432.png)
+![XAY*](../images/064398950f3c40f82adaf1e0457d3f3403323d0bb2ae2861ee371ade2511b432.png)  
 
-### BA.5\*
+### BA.5*
 
 - BA.5* and its sublineage BQ.1* have continued trending downwards
 
-![BA.5*](../images/235d7e0ecbe6ab8df46c12f906f35ffb9c9fadf6104c864cef562e10de3376d9.png)
+![BA.5*](../images/235d7e0ecbe6ab8df46c12f906f35ffb9c9fadf6104c864cef562e10de3376d9.png)  
 
-## Within-XBB\* trends
+## Within-XBB* trends
 
 ### S:486P has essentially fixed
 
-S:486P has essentially fixed within XBB\*, there is almost no S:486S left by now:
-![486P](../images/709e86c0ce87969c9442b64d575cd301887292a23b4cd49edbcdd68af658e0b8.png)
+S:486P has essentially fixed within XBB*, there is almost no S:486S left by now:
+![486P](../images/709e86c0ce87969c9442b64d575cd301887292a23b4cd49edbcdd68af658e0b8.png)  
 
-S:486P has been acquired independently in many XBB\* sublineages. Some of the lineages seem to have a growth advantage over others:
 
-- XBB.1.5\* was the first known lineage with S:486P but its share is receding
+S:486P has been acquired independently in many XBB* sublineages. Some of the lineages seem to have a growth advantage over others:
+- XBB.1.5* was the first known lineage with S:486P but its share is receding
 - XBB.1.9.1* and XBB.1.9.2* seem to have a growth advantage over XBB.1.5, despite not Spike difference
-- XBB.2.3\* is also outgrowing XBB.1.5, it differs from the above by having S:253G instead of S:252V and an additional S:521S
+- XBB.2.3* is also outgrowing XBB.1.5, it differs from the above by having S:253G instead of S:252V and an additional S:521S
 
-### S:478R keeps growing within XBB\*
+### S:478R keeps growing within XBB*
 
 The addition of S:478R appears to confer a growth advantage to XBB* + S:486P lineages. About a fifth of recent global XBB* + 486P have also got 478R, up from less than 1% in February:
-![478R](../images/c7fbb19e379b7ea4bfd2273bb13ceaa4aeaf5c3057bffa3d380cc37f1f015b7d.png)
+![478R](../images/c7fbb19e379b7ea4bfd2273bb13ceaa4aeaf5c3057bffa3d380cc37f1f015b7d.png)  
 
-A selection of XBB\* + 486P lineages with 478R are:
-
+A selection of XBB* + 486P lineages with 478R are:
 - XBB.1.16 (also has S:180V)
 - XBB.2.3.8 and XBB.2.3.11 (also has S:521S and S:253G instead S:252V)
 - EG.2 (XBB.1.9.2.2)
@@ -659,21 +584,20 @@ A selection of XBB\* + 486P lineages with 478R are:
 ### S:456L is also potentially beneficial
 
 As predicted by deep mutational scanning experiments, S:456L is another beneficial immune escape mutation in XBB*, albeit with a somewhat smaller growth advantage than S:478R. At the beginning of May, around 5% of global XBB* sequences with 486P also had S:456L
-![456L](../images/84b4fc2045b34234f2631b680349ce05061d972b61ce787b1b3f8efc19ced753.png)
+![456L](../images/84b4fc2045b34234f2631b680349ce05061d972b61ce787b1b3f8efc19ced753.png)  
 
 Lineages with S:456L include:
-
 - FD.1.1 (XBB.1.5.15.1.1, Canada)
 - XBB.1.5.10
 - XBB.1.5.59
 - FE.1* (XBB.1.18.1.1*, dominant in Brazil)
-- EG.5 (XBB.1.9.2.5\*, Indonesia/China)
+- EG.5 (XBB.1.9.2.5*, Indonesia/China)
 
-It's not yet clear whether co-occurrence of 456L and 478R is beneficial beyond having either of them alone. There are only 3 sequences with both mutations so far. At the time of writing, the combination XBB\* + S:486P + S:456L + S:478R has only been observed in 38 sequences, mostly in the XBB.1.16 sublineage XBB.1.16.6.
+It's not yet clear whether co-occurrence of 456L and 478R is beneficial beyond having either of them alone. There are only 3 sequences with both mutations so far. At the time of writing, the combination XBB* + S:486P + S:456L + S:478R has only been observed in 38 sequences, mostly in the XBB.1.16 sublineage XBB.1.16.6.
 
 ### Other slightly beneficial mutations
 
-- S:613H (already in 5% of XBB\* sequences with 486P)
+- S:613H (already in 5% of XBB* sequences with 486P)
 - S:521S (defining of XBB.2.3*, in ~5% of XBB* sequences with 486P)
 - The combination S:L455F + S:F456L in addition to 486P is potentially beneficial beyond 456L. Lineage XBB.1.5.70 appears to grow in Brazil.
 
@@ -684,10 +608,10 @@ It's not yet clear whether co-occurrence of 456L and 478R is beneficial beyond h
 Number of sequences (in thousands) with collection date within X months of cutoff date:
 | Submission cutoff | within last 1 month | within last 2 months | within last 3 months | within last 4 months |
 | ----------------- | ------------------- | -------------------- | -------------------- | -------------------- |
-| 2023-05-24 | 25 | 134 | 287 | 484 |
-| 2023-04-24 | 49 | 190 | 383 | 638 |
-| 2023-03-24 | 65 | 244 | 491 | 837 |
-| 2023-02-24 | 89 | 323 | 660 | 963 |
+| 2023-05-24        | 25                  | 134                  | 287                  | 484                  |
+| 2023-04-24        | 49                  | 190                  | 383                  | 638                  |
+| 2023-03-24        | 65                  | 244                  | 491                  | 837                  |
+| 2023-02-24        | 89                  | 323                  | 660                  | 963                  |
 
 ### Submission volume by region and cutoff
 
@@ -708,7 +632,7 @@ All data from GISAID via covSpectrum.
 
 ## XBB
 
-XBB descendants continue growing across the globe. In sequences collected at the beginning of April, less than 15% were non-XBB\*, about half the proportion a month earlier (30% beginning of March).
+XBB descendants continue growing across the globe. In sequences collected at the beginning of April, less than 15% were non-XBB*, about half the proportion a month earlier (30% beginning of March).
 
 At the start of April, there was particularly little non-XBB* left in the USA (<5%). China had the highest proportion of non-XBB* (~75%) though XBB* is quickly making inroads there as well. Japan and South Korea also still have sizeable non-XBB* proportions.
 
@@ -720,7 +644,7 @@ The major XBB* sublineages are currently: XBB.1.5*, XBB.1.9.1*, XBB.1.9.2*, XBB.
 
 XBB.1.16* has grown to dominance in India and is increasing globally. The extra advantage over XBB.1.5*-like lineages appears to be mutation S:478R (in addition to 486P). As seen with 486P, 478R has arisen multiple times within XBB and appears to predictably confer a growth advantage in the lineages that acquire it (the more beneficial a mutation, the more often it arises independently, recall 346T in BA.5).
 
-While XBB.1.16\* is currently the most prominent XBB lineage with both 486P and 478R, other such lineages could in the mid-term replace it.
+While XBB.1.16* is currently the most prominent XBB lineage with both 486P and 478R, other such lineages could in the mid-term replace it.
 
 India, where XBB.1.16* has been dominant since end of February, has seen a steep rise in confirmed cases which have grown by a factor of 100 since the start of February. It is difficult to say to which extent this wave is driven by XBB.1.16* and to which extent it is a seasonal effect: a strikingly similar pattern (40-fold growth from beginning of February to end of April) was seen at exactly the same time of year in 2021. Back then, the wave coincided with the emergence of Delta. So the answer is possibly both effects matter: emergence of new variant and seasonal effects.
 
@@ -730,7 +654,7 @@ Further links: [case graph (OWID)](https://ourworldindata.org/explorers/coronavi
 
 ### Mutations to watch for in XBB
 
-In addition to 486P and 478R, a number of other Spike mutations have been observed repeatedly in XBB\*. While some, like 456L, did not initially appear to confer a significant growth advantage, growth (dis)advantages conferred by mutations can change over time, as population immunity builds against a variant. Recently, 456L has started to appear independently and grow in frequency. What is currently only a slight growth advantage (~20% per week) could grow in the future.
+In addition to 486P and 478R, a number of other Spike mutations have been observed repeatedly in XBB*. While some, like 456L, did not initially appear to confer a significant growth advantage, growth (dis)advantages conferred by mutations can change over time, as population immunity builds against a variant. Recently, 456L has started to appear independently and grow in frequency. What is currently only a slight growth advantage (~20% per week) could grow in the future.
 
 Besides 456L, mutations 403K and 521S have been observed to increase in share and are part of a number of lineages. This list is not exhaustive.
 
@@ -745,8 +669,8 @@ The non-XBB diversity can be broken down roughly into (share is always with coll
 - BA.5* excluding BQ.1* (Nextstrain clade 22B, mostly BA.5.2.48* and BF.7*): ~3%, decreasing at 10-20% per week, most common in China (BA.5.2.48, BF.7.14*, 70%) and Japan (BF*, 25%)
 - BA.2* excluding BA.2.75* (Nextstrain clade 21L, mostly BA.2.3.20): 0.2%, decreasing slowly at 5-15% per week, most common in Philippines (no recent data, but was 50% in February, particularly CM.8.1), Japan (1%) and India (0.5%)
 - recombinants similar to BA.2.75* and/or XBB*: 1%, decreasing at 10-20% per week, most common in Australia (XBF, 5%)
-- XBC\* (Delta-Omicron recombinant): 0.3%, potentially increasing at 10-20% per week, most common in Australia (XBC.1.6, 10%) and Philippines (no recent data, but known to be common in February at 10%)
-- XAY\* (Delta-Omicron recombinant): 0.1%, ~steady, most common in Denmark (1%, XAY.2) and Germany (1%, XAY.1.1)
+- XBC* (Delta-Omicron recombinant): 0.3%, potentially increasing at 10-20% per week, most common in Australia (XBC.1.6, 10%) and Philippines (no recent data, but known to be common in February at 10%)
+- XAY* (Delta-Omicron recombinant): 0.1%, ~steady, most common in Denmark (1%, XAY.2) and Germany (1%, XAY.1.1)
 
 While the future is most likely to look like XBB*, it is possible that BA.2.75* may play a role (potentially through recombination with XBB, like recently designated XCC). There is a small but non-zero chance, that a more divergent lineage may emerge from XBC, XAY or BA.2.3.20
 
@@ -801,24 +725,20 @@ There are a number of Spike mutations that appear to be rising in frequency in X
 Even though XBB\* lineages are increasingly dominating the global picture, it is important to watch non-XBB\* diversity as there is potential for such lineages to have a large antigenic distance to the currently circulating XBB\* lineages.
 
 ### Delta-Omicron recombinants
-
 - The Delta-Omicron recombinant XBC\* recently made up around 5% of sequences in Australia. There is a new sublineage XBC.1.6 with two interesting Spike mutations: R346S and M452R. This lineage has grown quickly to 1-2% in Australia but has not been sequenced anywhere else.
 - XAY\* is still at around 2% in Denmark and may potentially still be growing in Germany (as XAY.1.1) where it is at ~1%.
 
 ### BA.2.75 sublineages and recombinants
-
 - CH.1.1\* proportions are still fairly constant in Europe at 10-20%, though it is expected that XBB\* will eventually outgrow CH.1.1\* unless CH.1.1\* acquires new beneficial mutations
 - BN.1\* is still prevalent in some countries, especially in South Korea
 - BR.2.1 has dropped from a peak of 20% to below 5% in Australia.
 - XBF\* has dropped to ~10% from a peak of 30% in Australia in January. It is observed at roughly constant ~1% in Europe.
 
 ### BA.5 sublineages
-
 - BA.5\* (non-BQ\*) have gone below 2% with the exception of Japan (~25%) and China (~90%).
-- BQ.1\* has decreased below 10% in Europe and the Americas (from a peak of 50-80% in December 2022)
+- BQ.1* has decreased below 10% in Europe and the Americas (from a peak of 50-80% in December 2022)
 
 ### BA.2 sublineages
-
 - BA.2.3.20 is still observed sporadically around the world, and roughly constant in South Korea and Japan at ~1% (it is expected to be most common in the Philippines, but the most recent data is 6 weeks old)
 
 ## China
@@ -857,8 +777,8 @@ Breakdown of the major lineages of the 3.5k samples collected since January 23rd
 | BA.5.2.48                                                                | 60%        |
 | BF.7.14                                                                  | 30%        |
 | BA.5.2.49                                                                | 6.2%       |
-| XBB\*                                                                    | 0.77%      |
-| BN.1\*                                                                   | 0.63%      |
+| XBB*                                                                     | 0.77%      |
+| BN.1*                                                                    | 0.63%      |
 | BA.5.2.50                                                                | 0.57%      |
 | BA.5.1.32                                                                | 0.54%      |
 | rest (mostly low quality sequences actually belonging to above lineages) | 1.7%       |
@@ -897,7 +817,7 @@ Sequence submissions from China seem to have peaked in mid January and have decr
 
 #### Lineage prevalence within China
 
-The vast majority of sequences still belongs to the China-characteristic 5 lineages mentioned in previous reports: BA.5.2.48, BF.7.14, BA.5.2.49, BA.5.2.50, BA.5.1.32.
+The vast majority of sequences still belongs to the China-characteristic 5 lineages mentioned in previous reports: BA.5.2.48, BF.7.14, BA.5.2.49, BA.5.2.50, BA.5.1.32. 
 
 Breakdown of the major lineages of the 5.2k samples collected since 1st of January 2023:
 
@@ -910,17 +830,17 @@ Breakdown of the major lineages of the 5.2k samples collected since 1st of Janua
 | BA.5.1.32                                                                | 0.4%       |
 | rest (mostly low quality sequences actually belonging to above lineages) | 2.3%       |
 
-None of the circulating lineages seem to have any clear growth advantage over the others.
+None of the circulating lineages seem to have any clear growth advantage over the others. 
 
-There is so far no sign that other lineages have started circulating in the community - though the small number of sequences makes this impossible to rule out. Recently, the first XBB.1.5-like sequence was submitted. None of the lineages dominating in the rest of the world like BQ.1*, BA.2.75* or XBB\* seem to have been found in more than singlets to date.
+There is so far no sign that other lineages have started circulating in the community - though the small number of sequences makes this impossible to rule out. Recently, the first XBB.1.5-like sequence was submitted. None of the lineages dominating in the rest of the world like BQ.1*, BA.2.75* or XBB* seem to have been found in more than singlets to date.
 
-None of the Spike mutations that have arisen within lineages seem to show a large growth advantage.
+None of the Spike mutations that have arisen within lineages seem to show a large growth advantage. 
 
 ### Sequences from travelers from China
 
 Around 150 sequences have been submitted in February annotated as coming from travelers from China (~100 from South Korea, ~40 from Taiwan, ~30 from Japan).
 
-The lineage breakdown in these sequences is consistent with the distribution from Chinese sequences. The few non-China-characteristic lineages are feasibly explained by being acquired outside of China.
+The lineage breakdown in these sequences is consistent with the distribution from Chinese sequences. The few non-China-characteristic lineages are feasibly explained by being acquired outside of China. 
 
 ## XBB.1.5-like lineages
 
@@ -982,7 +902,6 @@ The sequences are consistent with the data released from China itself. The occas
 Though the small number of sequences annotated as coming from travelers means low level circulation at a level of up to 1% especially in regions not often visited by travelers could evade detection for a while.
 
 Unfortunately, only few labs annotate their sequences with travel history (usually searchable with keyword `travel`), notably the following:
-
 - Japan's National Institute of Infectious Diseases in collaboration with Airport Quarantine Stations (inclusion of `IC` in sequence names makes it particularly easy to query and analyze sequences from travellers, this is a practice that would be helpful if adopted by other labs)
 - Korea Disease Control and Prevention Agency
 - National Public Health Laboratory, Singapore
@@ -1010,7 +929,6 @@ In the US, XBB.1.5 continues rising even in New England where the proportion is 
 While XBB.1.5 may be the most prominent fast growing XBB lineage, it is not the only one: There are multiple convergent XBB.1.5-like lineages within the XBB tree, which independently acquired the S:486P genotype. This is not surprising given the large fitness advantage conferred by the single amino acid substitution S:S486P that results from a common `T->C` nucleotide mutation. With other differences, these lineages are expected to be similarly fit to XBB.1.5.
 
 For reference, the currently Pango designated XBB.1.5-like lineages are (with rough share of all sequences collected in mid January):
-
 - XBB.1.5 (most common in the USA, particularly New England)
 - XBB.1.9.1 (most common in South and South East Asia)
 - XBB.1.9.2 (most common in South East Asia)
@@ -1039,8 +957,7 @@ It is not unreasonable to use the calculator to look for the next beneficial Spi
 
 Bearing these limitations in mind, there are currently three mutations that are predicted to be beneficial and are also commonly observed in practice:
 
-Predicted to be beneficial for immune escape or ACE2 binding by Bloom lab (limitations: mutations right on BA.2 backbone, effects not necessarily additive with other RBD mutations already acquired, but at least sometimes still right, see 486P, counter example 460K much more beneficial than data suggests, also some mutations predicted to be beneficial but still don't happen or not until now):
-
+Predicted to be beneficial for immune escape or ACE2 binding by Bloom lab (limitations: mutations right on BA.2 backbone, effects not necessarily additive with other RBD mutations already acquired, but at least sometimes still right, see 486P, counter example 460K much more beneficial than data suggests, also some mutations predicted to be beneficial but still don't happen or not until now): 
 - S:A348S is predicted to significantly increase immune escape if added to BA.2, however given its close proximity to S:346T, it is possible that it does not provide any escape beyond that already effected by S:346T. S:A348SS is the defining mutation of DM.1, and has been observed in a number of other lineages. It does not appear to provide a big growth advantage at this point in time.
 - S:Y453F is predicted to significantly boost ACE2 binding, however, whether that is the case in conjunction with other mutations like 493 reversion is unclear. S:Y453F has not been seen widely since the end of 2020. It is known to be a mutation that arose repeatedly in populations of minks. It is the defining mutation of the recently designated Pango lineage DN.1.1.1 (BQ.1.1.5.1.1.1).
 - S:R403K is another mutation with predicted positive effect on ACE2 binding. It is one of the 2 defining mutations of DS.1 (BN.1.3.1.1), besides S:F490S which is predicted to decrease ACE2 binding. The combination could thus potentially be a successful combination.
@@ -1071,7 +988,7 @@ While XBB.1.5 appears to be the most competitive lineage at the moment, there ar
 
 - XBF (focal point Australia)
 - CH.1.1 (focal points in New Zealand, UK)
-- BQ.1\* + S:346T + S:144- (very common in Denmark, France, UK)
+- BQ.1* + S:346T + S:144- (very common in Denmark, France, UK)
 
 # Variant report 2023-01-09
 
@@ -1091,7 +1008,7 @@ BA.5.2.48 and BA.5.2.49 are "level 3" lineages which have been halving every 3 w
 
 While BF.7.14 is expected to be more viable outside of China due to carrying the beneficial S:R346T, BF.7\* lineages have also been on a decreasing trend outside of China for more than 2 months. In Europe, BF.7\* peaked in October 2022 at ~15% and has since gone down to 3% by the end of 2022. It is currently halving in share every 4-5 weeks (see [covSpectrum](https://cov-spectrum.org/explore/Europe/AllSamples/Past2M/variants?nextcladePangoLineage=BF.7*&) for details).
 
-The additional Spike mutations (S:T883I in BA.5.2.49 and S:C1243F in BF.7.14) are not expected to have a significant impact on the antigenic profile of the variants. As a result, the lineages circulating in China do not appear to be of concern outside of China.
+The additional Spike mutations (S:T883I in BA.5.2.49 and S:C1243F in BF.7.14) are not expected to have a significant impact on the antigenic profile of the variants. As a result, the lineages circulating in China do not appear to be of concern outside of China. 
 
 ## New sequences from travellers from China
 
@@ -1118,14 +1035,14 @@ Mutations at this position contribute to immune evasion of antibody responses ag
 The two-step change from `F` to `S` to `P` restores hACE2 binding while maintaining an immune evasive profile, see [Can Yua, Yunlong Cao and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2).
 
 ![Fig1_Yua](../images/2023-01-06_XBB15_evasion.png)<br>
-_Neutralization titers and hACE2 binding affinities of XBB and XBB.1.5 variants. (Fig 1 from [Can Yua and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2))_
+*Neutralization titers and hACE2 binding affinities of XBB and XBB.1.5 variants. (Fig 1 from [Can Yua and colleagues](https://www.biorxiv.org/content/10.1101/2023.01.03.522427v2))*
 
 XBB and descendants (22F in Nextstrain nomenclature) were dominant in South Asia earlier this fall and also contributed significantly to circulation in South- and Central America.
 XBB.1.5 rose rapidly in frequency in the North East of the USA and has been dominating there since mid-December.
 Outside of the North East of the US the variant is still sub-dominant, but increasing.
 
 ![XBB15_NY](../images/2023-01-06_XBB15_NY.png)<br>
-_XBB.1.5 is dominating in New York and the logistic extrapolation puts its current frequency between 80% and 90%. See [Cov-Spectrum](https://cov-spectrum.org/explore/United%20States/AllSamples/Past6M/variants?nextcladePangoLineage=XBB.1.5) for up-to-date statistics based on data ub GISAID._
+*XBB.1.5 is dominating in New York and the logistic extrapolation puts its current frequency between 80% and 90%. See [Cov-Spectrum](https://cov-spectrum.org/explore/United%20States/AllSamples/Past6M/variants?nextcladePangoLineage=XBB.1.5) for up-to-date statistics based on data ub GISAID.*
 
 In Europe, XBB.1.5 is still rare.
 [CoV-Spectrum](https://cov-spectrum.org/explore/Europe/AllSamples/Past2M/variants?nextcladePangoLineage=xbb.1.5*&) currently lists 267 XBB.1.5 from Europe, corresponding to about 1% of all data submitted in the second half of December.
@@ -1136,15 +1053,16 @@ As expected, phylogenetic analyses indicate many introductions of XBB.1.5.
 There is little conclusive information on severity of XBB.1.5 compared to other circulating variants, but cases and hospitalizations have risen across the USA and not only in regions where XBB.1.5 is dominant.
 This is an early tentative sign that the severity of XBB.1.5 infections is not substantially different from other current variants.
 
+
 # Variant report 2023-01-02
 
 ## The surge in China is dominated by BA.5.2 and BF.7
 
-- **Circulation in China is dominated by BA.5.2 and BF.7**
-- **Sequences obtained from travellers from China support BA.5.2 and BF.7 as main variants**
-- **The BA.5.2 and BF.7 clusters from China have considerable diversity consistent with several months of circulation.**
-- **Isolated observation of other lineages might reflect global diversity sampled in Chinese quarantine facilities**
-- **No highly mutated sequences have been submitted**
+ * **Circulation in China is dominated by BA.5.2 and BF.7**
+ * **Sequences obtained from travellers from China support BA.5.2 and BF.7 as main variants**
+ * **The BA.5.2 and BF.7 clusters from China have considerable diversity consistent with several months of circulation.**
+ * **Isolated observation of other lineages might reflect global diversity sampled in Chinese quarantine facilities**
+ * **No highly mutated sequences have been submitted**
 
 Over the last two weeks, about 600 sequences with collection dates after Nov 1st 2022 from mainland China have been deposited in GISAID.
 Some, in particular those from Shanghai are labeled as imported cases and are ignored here for the purpose of investigating diversity in China.
@@ -1153,7 +1071,7 @@ Taken together, these samples allow a rough assessment of the diversity of SARS-
 Most of these samples are from Nextstrain clade 22B and more specifically Pango-lineages BA.5.2 and BF.7.
 
 ![samples_from_china](../images/2023-01-01_china_overview.png)
-_Overview of samples from China. The two dense clusters are BA.5.2 (top) and BF.7 (middle)._
+*Overview of samples from China. The two dense clusters are BA.5.2 (top) and BF.7 (middle).*
 
 The top cluster in the above tree is Pango lineage BA.5.2.
 The recent sequences suggest that at least two distinct clusters of BA.5.2 are circulating in China.
@@ -1163,83 +1081,87 @@ But they remain very similar to global diversity and don't contain highly mutate
 It is unclear whether their common ancestor was in China or whether these two cluster stem from separate introductions.
 
 ![samples_from_china](../images/2023-01-01_BA52.png)
-_BA.5.2 fall into two sublineages, one of which carried the mutation T883I in Spike (Green). The other lineages as branch with Spike mutation A570S (Orange)._
+*BA.5.2 fall into two sublineages, one of which carried the mutation T883I in Spike (Green). The other lineages as branch with Spike mutation A570S (Orange).*
+
 
 The other big group is lineage BF.7. Again, this lineage seems to have acquired substantial diversity in China in the last few months.
 The most common mutation is Spike:C1243F.
 
 ![samples_from_china](../images/2023-01-01_BF7.png)
-_BA.7 samples mostly come from a group with a mutation at spike position 1243._
+*BA.7 samples mostly come from a group with a mutation at spike position 1243.*
+
 
 Both of these major BA.5.2 and BF.7 clusters are distributed across China.
 
 ![samples_from_china](../images/2023-01-01_across_china.png)
-_Both groups (BF.7 yellow, BA.5.2 green) are distributed across mainland China._
+*Both groups (BF.7 yellow, BA.5.2 green) are distributed across mainland China.*
+
 
 The remaining sequences tend to be isolated in the tree surrounded by global diversity.
 They mostly come from Shanghai and Jiangsu.
 The lineages they belong to are common globally (BQ.1.1, XBB, BN).
-Many of those from Jiangsu originate from the _Nanjing Customs Port Outpatient Department_, which might imply these are samples from incoming travelers.
+Many of those from Jiangsu originate from the *Nanjing Customs Port Outpatient Department*, which might imply these are samples from incoming travelers.
 Similarly, not all samples from Shanghai incoming quarantine facilities might have been identified as such.
 
 ### Acknowledgements
 
 The sequence data from China and the traveler data was generously shared via GISAID orginate the following laboratories
 
-- Shanghai Public Health Clinical Center, Fudan University
-- Fujian Provincial Center for Disease Control and Prevention
-- Beijing Changping Laboratory
-- National Public Health Laboratory, National Centre for Infectious Diseases
-- Sichuan Center of Disease Control and Prevention
-- Beijing Center for Disease Control and Prevention
-- Nanjing Customs Port Outpatient Department
-- Division of Infectious Disease Diagnosis Control, Honam Regional Center for Disease Control and Prevention, Korea Disease Control and Prevention Agency, KDCA
-- Guangdong Provincial Center for Diseases Control and Prevention
-- Laboratory of Microbiology, ASST SetteLaghi, Varese, Italy
-- SARS-CoV-2 testing team, National Institute of Infectious Diseases
-- Jinhua Center of Disease Control and Prevention
-- The Center for Disease Control and Prevention of Inner Mongolia
-- Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency
-- Zhoushan Center of Disease Control and Prevention
-- Center Laboratory of Health Quarantine, Nanjing Customs District P.R. China
-- Hangzhou Center of Disease Control and Prevention
-- Northeastern LSTC
-- Center Laboratory of Health Quarantine, Nanjing Customs
-- The Center for Disease Control and Prevention of Hulunbeier
-- Ordos City Center for Disease Control and Prevention
-- Chifeng Centers for Disease Control and Prevention
-- Baotou City Center for Disease Control and Prevention
-- Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention
-- Division of Laboratory Diagnosis Analysis, Jeju Branch Office, Honam Regional Center for Disease Control and Prevention, Korea Diseases Control and Prevention Agency
+ * Shanghai Public Health Clinical Center, Fudan University
+ * Fujian Provincial Center for Disease Control and Prevention
+ * Beijing Changping Laboratory
+ * National Public Health Laboratory, National Centre for Infectious Diseases
+ * Sichuan Center of Disease Control and Prevention
+ * Beijing Center for Disease Control and Prevention
+ * Nanjing Customs Port Outpatient Department
+ * Division of Infectious Disease Diagnosis Control, Honam Regional Center for Disease Control and Prevention, Korea Disease Control and Prevention Agency, KDCA
+ * Guangdong Provincial Center for Diseases Control and Prevention
+ * Laboratory of Microbiology, ASST SetteLaghi, Varese, Italy
+ * SARS-CoV-2 testing team, National Institute of Infectious Diseases
+ * Jinhua Center of Disease Control and Prevention
+ * The Center for Disease Control and Prevention of Inner Mongolia
+ * Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency
+ * Zhoushan Center of Disease Control and Prevention
+ * Center Laboratory of Health Quarantine, Nanjing Customs District P.R. China
+ * Hangzhou Center of Disease Control and Prevention
+ * Northeastern LSTC
+ * Center Laboratory of Health Quarantine, Nanjing Customs
+ * The Center for Disease Control and Prevention of Hulunbeier
+ * Ordos City Center for Disease Control and Prevention
+ * Chifeng Centers for Disease Control and Prevention
+ * Baotou City Center for Disease Control and Prevention
+ * Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention
+ * Division of Laboratory Diagnosis Analysis, Jeju Branch Office, Honam Regional Center for Disease Control and Prevention, Korea Diseases Control and Prevention Agency
 
 They were submitted by
 
-- Shanghai Institute of Hematology, National Research Center for Translational Medicine, State Key Laboratory of Medical Genomics, Ruijin Hospital Affiliated to Shanghai Jiao Tong University (SJTU) School of Medicine
-- Fujian Provincial Center for Disease Control and Prevention
-- Beijing Changping Laboratory
-- National Public Health Laboratory, National Centre for Infectious Diseases
-- Sichuan Center of Disease Control and Prevention
-- Beijing Center for Disease Control and Prevention
-- Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency
-- National Institute for Viral Disease Control and Prevention, China CDC
-- Jiangsu International Travel Health Care Center, Center Laboratory of Health Quarantine
-- Zhejiang Province Center of Disease Control and Prevention
-- National Institute for Viral Disease Control and Prevention
-- Laboratory of Microbiology, ASST SetteLaghi, Varese, Italy
-- Pathogen Genomics Center, National Institute of Infectious Diseases
-- Center Laboratory of Health Quarantine, Nanjing Customs District P.R. China
-- Center Laboratory of Health Quarantine, Nanjing Customs
-- Ginkgo Bioworks Clinical Laboratory / XpressCheck
-- Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention
+ * Shanghai Institute of Hematology, National Research Center for Translational Medicine, State Key Laboratory of Medical Genomics, Ruijin Hospital Affiliated to Shanghai Jiao Tong University (SJTU) School of Medicine
+ * Fujian Provincial Center for Disease Control and Prevention
+ * Beijing Changping Laboratory
+ * National Public Health Laboratory, National Centre for Infectious Diseases
+ * Sichuan Center of Disease Control and Prevention
+ * Beijing Center for Disease Control and Prevention
+ * Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency
+ * National Institute for Viral Disease Control and Prevention, China CDC
+ * Jiangsu International Travel Health Care Center, Center Laboratory of Health Quarantine
+ * Zhejiang Province Center of Disease Control and Prevention
+ * National Institute for Viral Disease Control and Prevention
+ * Laboratory of Microbiology, ASST SetteLaghi, Varese, Italy
+ * Pathogen Genomics Center, National Institute of Infectious Diseases
+ * Center Laboratory of Health Quarantine, Nanjing Customs District P.R. China
+ * Center Laboratory of Health Quarantine, Nanjing Customs
+ * Ginkgo Bioworks Clinical Laboratory / XpressCheck
+ * Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention
+
 
 # Variant report 2022-12-22
 
-## XBB.1.5 grows fast, in New York state and globally
+## XBB.1.5  grows fast, in New York state and globally
 
 XBB.1.5 (XBB.1 + S:F486P), first mentioned in every report in this series since 2022-11-11 keeps growing fast and is predicted to be already dominant in New York state in samples collected on 2022-12-22. XBB.1.5 seems to grow by a factor of 2.2-2.5 every week (though these factors tend to decrease slightly as more data becomes available). A doubling per week compared to the average of circulating variants is still remarkable and on the order of Delta vs Alpha.
 
 ![Growth of XBB.1.5 in New York state](../images/acbe498b8f9a2e5ff5fbc243ede239329bb981f224509fcf2dcc88af0841389b.png)
-_Figure 1: Growth of XBB.1.5 in New York state_
+*Figure 1: Growth of XBB.1.5 in New York state*
 
 The further one moves away from NY state, the less common XBB.1.5 becomes. In Connecticut, Massachusets & New Jersey, XBB is well above 20% at the time of writing. In California, it is around 5%.
 
@@ -1267,7 +1189,7 @@ With collection dates in November 2022, there are 7 sequences uploaded from Sing
 
 For collection date October, the following lineages were reported in travelers: BA.5.2.20, BF.5, CM.3
 
-These lineages are typical for circulation in Asia. It is interesting, though, that out of 13 sequences, BA.2.3.20\* appears twice. BA.2.3.20 has only been found at above >5% in the Philippines. Yet, 13 sequences from travelers from China are too few to allow for any conclusions.
+These lineages are typical for circulation in Asia. It is interesting, though, that out of 13 sequences, BA.2.3.20* appears twice. BA.2.3.20 has only been found at above >5% in the Philippines. Yet, 13 sequences from travelers from China are too few to allow for any conclusions.
 
 # Variant report 2022-12-15
 
@@ -1321,7 +1243,7 @@ One possible explanation for this unusual behaviour may be that Denmark never ha
 
 ### BA.2.3.20
 
-BA.2.3.20 is of interest as it appears to be rather different from the other major variants like BA.5\*, BA.2.75\* and XBB\*. It makes up around 1% of global sequences. Overall, it doesn't appear to grow, however, it has sublineages like CM.8.1 that _are_ doubling at least every 2 weeks. Interestingly, RBD mutation S:G485D is very homoplasic in BA.2.3.20 while hardly seen in other variants. This may be due to epistasis with S:484R, which is defining for BA.2.3.20.
+BA.2.3.20 is of interest as it appears to be rather different from the other major variants like BA.5\*, BA.2.75\* and XBB\*. It makes up around 1% of global sequences. Overall, it doesn't appear to grow, however, it has sublineages like CM.8.1 that *are* doubling at least every 2 weeks. Interestingly, RBD mutation S:G485D is very homoplasic in BA.2.3.20 while hardly seen in other variants. This may be due to epistasis with S:484R, which is defining for BA.2.3.20.
 
 ## Thoughts on S:F486P
 
@@ -1422,7 +1344,7 @@ Some sublineages with interesting RBD mutations are:
 
 ## BQ.1 + S:144- + S:R346T potentially fitter than XBB but co-circulation possible
 
-It is still unclear BQ.1 + S:R346T + S:144- will fare against XBB\* lineages.
+It is still unclear BQ.1 + S:R346T + S:144- will fare against XBB* lineages.
 
 In Singapore, where XBB has been dominant for a week weeks, XBB\* has stopped growing at around 2/3, the rest is made up of various BA.5 and BA.2.75 lineages. This could be a sign of immunity becoming more heterogeneous in the population which could give rise to co-circulating strains. But it is too early to tell with any degree of confidence. BQ.1\* is growing but still in single digit percentages.
 
@@ -1442,9 +1364,9 @@ There are a number of new sublineages that have a large predicted immune escape 
 
 It continues to be unclear which of BQ.1.1 or XBB will turn out to be fitter. There is still not enough data from countries with co-circulation, yet.
 
-However, some evolutionary trends within BQ.1\* and XBB are worth discussing.
+However, some evolutionary trends within BQ.1* and XBB are worth discussing.
 
-### BQ.1\* keeps acquiring beneficial mutations S:R346T and S:Y144-
+### BQ.1* keeps acquiring beneficial mutations S:R346T and S:Y144-
 
 Mutation S:R346T is not unique to BQ.1.1, it has been acquired independently in at least 2 other BQ.1\* sublineages: BQ.1.9 and BQ.1.18 which together make up less than 10% of all BQ.1\* with S:R346T.
 
@@ -1452,11 +1374,11 @@ Besides S:R346T, the other major mutation that seems to confer a significant gro
 
 Interestingly, relative growth advantage estimates conferred by S:144- seem to be higher when S:R346T is also present. While this could be a statistical artifact, it is also plausible that in the presence of S:R346T the remaining neutralizing antibodies bind particularly to the N-terminal domain which S:144- could disrupt.
 
-In samples collected in early October, in BQ.1\* _without S:R346T_, S:144- was present in ~15% of them, with relative growth advantage of S:144- of at around [3-5%/day](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26%21+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26%21+S%3A346T&analysisMode=CompareToBaseline&).
+In samples collected in early October, in BQ.1* *without S:R346T*, S:144- was present in ~15% of them, with relative growth advantage of S:144- of at around [3-5%/day](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26%21+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26%21+S%3A346T&analysisMode=CompareToBaseline&).
 
-In BQ.1\* _with S:R346T_, S:144- was present in ~10% of them, with relative growth advantage of S:144- of at around [7-12%/day](https://cov-spectrum.org/explore/World/AllSamples/from=2022-09-01&to=2022-10-19/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26+S%3A346T&analysisMode=CompareToBaseline&).
+In BQ.1* *with S:R346T*, S:144- was present in ~10% of them, with relative growth advantage of S:144- of at around [7-12%/day](https://cov-spectrum.org/explore/World/AllSamples/from=2022-09-01&to=2022-10-19/variants?variantQuery=nextcladePangoLineage%3ABQ.1*+%26+S%3A346T&variantQuery1=nextcladePangoLineage%3ABQ.1*+%26+S%3A144-+%26+S%3A346T&analysisMode=CompareToBaseline&).
 
-With only 200 BQ.1\* with S:R346T and S:Y144- in GISAID by 2022-10-26 there are no reliable growth advantages yet. This mutation combination seems to be particularly common in France and makes up a bit more than 1% of total sequences at the beginning of October.
+With only 200 BQ.1* with S:R346T and S:Y144- in GISAID by 2022-10-26 there are no reliable growth advantages yet. This mutation combination seems to be particularly common in France and makes up a bit more than 1% of total sequences at the beginning of October.
 
 Beyond BQ.1\*, the combination of S:144- and S:R346T has appeared in CR.1 (aka BA.5.2.18.1), BA.4.6.3, CQ.1/2 (BE.4.1.1.1/2) - all of which also have mutations at S:K444, as well as BS.1 (BA.2.3.2.1), BJ.1 (BA.2.10.1.1) and XBB.
 
@@ -1464,7 +1386,7 @@ Beyond BQ.1\*, the combination of S:144- and S:R346T has appeared in CR.1 (aka B
 
 XBB.1 defined by S:G252V and ORF8:8\* (stop) makes up more than half of all recent XBB sequences. XBB.2 has independently evolved S:D253G and now makes up around 5% of all XBB sequences. The independent success of two mutations in such proximity is indicative of a growth advantage conferred by mutations at this position.
 
-### Other BQ.1\* and XBB lineages to monitor
+### Other BQ.1* and XBB lineages to monitor
 
 Beyond the mutations and lineages mentioned above, some lineages with mutations of interest but small number of sequences are:
 
@@ -1702,7 +1624,7 @@ The BA.2.75 sublineage BA.2.75.2 (S:346T, S:486S, S:1199N) currently doubles in 
 If this growth trend continues, this variant will dominate in about two months.
 At this point, the growth advantage would manifest in increased overall growth in incidence and a variant wave would start around November - on top of the expected seasonal acceleration of transmission.
 
-The growth advantage over resident BA.2 or BA.5 lineages is of the same order of magnitude as was the case when BA.5 displaced BA.2, which was sufficient to cause a summer wave.
+The growth advantage over resident BA.2 or BA.5 lineages is of the same order of magnitude as was the case when  BA.5 displaced BA.2, which was sufficient to cause a summer wave.
 
 Currently, BA.2.75.2 is the fastest growing lineage with more than 350 sequences available. The rest of this report will focus on other lineages that may end up growing faster than BA.2.75.
 
@@ -1747,11 +1669,11 @@ In particular subsets of the following S1 mutations have been picked up by vario
 
 While the growth advantages of the above mutations on their own are roughly in line with growth advantages conferred in BA.4/5 sublineages, what makes BA.2.75\* different from BA.4/5\* is that BA.2.75\* is picking up multiple beneficial spike together.
 
-The evolution of BA.2.75\* is convergent to BA.4/5 as BA.4/5 itself has S:F486V and has repeatedly picked up S:R346T. By analogy, there is thus some hope that the repertoire of beneficial mutations is more or less exhausted by the above mutations.
+The evolution of BA.2.75* is convergent to BA.4/5 as BA.4/5 itself has S:F486V and has repeatedly picked up S:R346T. By analogy, there is thus some hope that the repertoire of beneficial mutations is more or less exhausted by the above mutations.
 
 ## Sublineages of BA.2.75 to watch
 
-The following sublineages of BA.2.75 deserve attention as they are the most obvious candidates to become dominant in the next few months (BA.2.75 has comparative fitness to BA.5\*):
+The following sublineages of BA.2.75 deserve attention as they are the most obvious candidates to become dominant in the next few months (BA.2.75 has comparative fitness to BA.5*):
 
 - BA.2.75.2 (S:346T, S:F486S, S:D1199N): growth advantage over BA.2.75 (~10-15%/day)
 - BL.1 (S:D574V, S:R346T): growth advantage over BA.2.75 (~5-10%/day)
@@ -1759,7 +1681,7 @@ The following sublineages of BA.2.75 deserve attention as they are the most obvi
 
 A growth advantage of 10%/day means it takes ~6 weeks from 1% share to 50%, (5%/day -> ~3 months, 3% -> ~5 months), if the growth advantage of the above lineages hold up, BA.2.75\* could become dominant globally (including Europe) by the end of October.
 
-The figure below shows how BA.2.75\*with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75\*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75\*:
+The figure below shows how BA.2.75\*with at least two out of the 4 mutations mentioned in the first section is growing fast in comparison to all BA.2.75\*, within 1 month from first observation, these lineages have grown to >10% of BA.2.75*:
 
 ![Fit sublineages of BA.2.75*](../images/16583f442fb9aa6a9fc13380d61bc30322b74da6691fec377e04e9b242d75154.png)
 
@@ -1774,7 +1696,7 @@ By default, the growth advantage is relative to all sequences - but the baseline
 
 The region can be chosen as desired, for example Europe, to focus on what happens locally.
 
-Here is the table with worldwide data and baseline BA.5\*\
+Here is the table with worldwide data and baseline BA.5*\
 ![Designated lineages sorted by growth advantage](../images/e7b9a806dec363cc137179f02b2dc88a8218c7aa9b38051483ccd5eb24c67138.png)
 
 ## Spike mutations that seem to confer growth advantages to BA.5
@@ -1789,7 +1711,7 @@ Given that the variant surveillance community tries to designate all lineages wi
 - S:450D (BA.5.5.1, BF.14)
 - S:1020S (BF.3.1, BF.5)
 
-Currently, there does not seem to be much space for BA.4/5\* to move beyond picking up S:346T or similar single mutations. This makes it more likely that BA.2.75 or another yet unknown sublineage of BA.2 will become dominant in the next few months.
+Currently, there does not seem to be much space for BA.4/5* to move beyond picking up S:346T or similar single mutations. This makes it more likely that BA.2.75 or another yet unknown sublineage of BA.2 will become dominant in the next few months.
 
 ## Recent Pango proposals of interest
 
@@ -1852,7 +1774,7 @@ With more than 3000 sequences of BA.2.75 available, it is now possible to analys
 
 BA.2.75 with S:D574V, designated as BA.2.75.1, is apparently increasing in share making up ~40% of recently uploaded BA.2.75\*. Based on relatively noisy data, BA.2.75.1 seems to have a growth advantage of ~4-6% - corresponding to a doubling in share every 2-3 weeks. This lineage is not localized in any particular country and has been detected in most places that have sequenced BA.2.75. S:574 substitutions have only rarely been observed in the pandemic thus far - usually as S:D574Y in a handful of Delta sublineages in countries like Portugal, France and Denmark. In more than 12 million sequences, S:D574V has occurred less than 200 times outside of BA.2.75.
 
-Maybe unsurprisingly, BA.2.75\* has already independently acquired S:346T twice, once in BA.2.75, once in BA.2.75.1. With less than 100 BA.2.75 + S:346T sequenced to date, it is too early to estimate the growth advantage (or disadvantage) this mutation might confer - but it is not unlikely to be of similar magnitude as in BA.4/5\*. S:346T is present in around 3% of all BA.2.75\*.
+Maybe unsurprisingly, BA.2.75\* has already independently acquired S:346T twice, once in BA.2.75, once in BA.2.75.1. With less than 100 BA.2.75 + S:346T sequenced to date, it is too early to estimate the growth advantage (or disadvantage) this mutation might confer - but it is not unlikely to be of similar magnitude as in BA.4/5*. S:346T is present in around 3% of all BA.2.75\*.
 
 Other notable spike mutations detected internationally and at least ~15 times (i.e. in >0.5% of BA.2.75\*) are:
 
@@ -1944,7 +1866,7 @@ BA.1 only appears occasionally, in sequences that often show signs of persistent
 
 ## Variants to watch out for
 
-India has never had significant BA.1 circulation. Many fit BA.2\* lineages are present there.
+India has never had significant BA.1 circulation. Many fit BA.2* lineages are present there.
 
 ### BA.2.75 (S:K147E,S:W152R,S:F157L,S:I210V,S:G257S,S:G339H,S:N460K,S:G446S)
 
@@ -2015,7 +1937,7 @@ First sequence beginning of June.
 
 Spike shows the following changes compared to BA.2:
 
-- Missing: T19I, 24-26del, 27S not there because that part is from BA.1\* parent
+- Missing: T19I, 24-26del, 27S not there because that part is from BA.1* parent
 - Donated: 69-70del convergent with many VOCs
 - Additional S:R346K, convergent with BA.1.1
 - Additional S:K147E, S:N460K and reverted S:493 convergent with BA.2.75
