@@ -1,23 +1,3 @@
-# Variant report 2023-11-21
-
-## BA.2.86
-
-JN.1 (BA.2.86.1 with S:L455S) remains the fastest growing lineage, with an overall relative growth advantage of almost 100% per week (i.e. the share doubles almost every week assuming logistic growth). The extra Spike mutation S:L455S appears to confer an additional relative growth advantage of around 40% per week to BA.2.86. JN.1 made up more than a third of all BA.2.86 in samples collected at the start of November though its share varies across countries. Overall sequence numbers deposited in GISAID have grown from 4 JN.1 queried on the 28th of September, via 126 on the 26th of October to 1069 on the 21st of November.
-
-JN.1 appears most widespread in Iceland where it became dominant around the start of November, followed by Spain, France and Denmark with around 10% of samples collected around beginning of November. Switzerland, Ireland, Belgium, Italy had above 5%. For reference, JN.1 had a share of around 2% in the UK and 1% in the US at the start of November. With a relative doubling of slightly longer than a week, this means that JN.1 could have an impact on case numbers in the next few weeks in most European countries, and early next year in non-European countries.
-
-Besides JN.1, there are at least three BA.2.86 sublineages with substitutions at S:475, a site at which mutations are known to be beneficial in XBB lineages:
-
-- JN.4 (S:A475V, lacking C12815T that is shared by all other BA.2.86.1, most common in Belgium, around 30 sequences)
-- JN.10 (S:A475V, on T3565C branch with JN.1, most common in Spain, around 25 sequences)
-- JN.5.1 (S:A475S, most common in England, around 15 sequences)
-
-All of these lineages are still too small to allow firm conclusions about their growth rates.
-
-Recently, a sandwich recombinant with JN.1 spike and 5' and 3' ends from EG.5.1.1 (start-7000 and 26000-end) has been designated as XDD. It has been observed 7 times in samples submitted by November 21st: 3x US [2xNY, 1xIL], 2x Spain, 1x France with the earliest sample collected 2023-10-16 in France. Given the observed fitness of the EG.5.1.1 backbone, it is plausible that XDD might outcompete JN.1 in the mid term. Given the roughly 100 times smaller share, this will, however, take at least a few months assuming a growth advantage on the order of 40% per week.
-
-## XBB
-
 # Variant report 2023-10-26
 
 ## BA.2.86
