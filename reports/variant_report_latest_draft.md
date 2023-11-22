@@ -14,7 +14,7 @@ Besides JN.1, there are at least three BA.2.86 sublineages with substitutions at
 
 All of these lineages are still too small to allow firm conclusions about their growth rates.
 
-Recently, a sandwich recombinant with JN.1 spike and 5' and 3' ends from EG.5.1.1 (start-7000 and 26000-end) has been designated as XDD. It has been observed 7 times in samples submitted by November 21st: 3x US [2xNY, 1xIL], 2x Spain, 1x France with the earliest sample collected 2023-10-16 in France. Given the observed fitness of the EG.5.1.1 backbone, it is plausible that XDD might outcompete JN.1 in the mid term. Given the roughly 100 times smaller share, this will, however, take at least a few months assuming a growth advantage on the order of 40% per week.
+Recently, a sandwich recombinant with JN.1 spike and 5' and 3' ends from EG.5.1.1 (start-7000 and 26000-end) has been designated as XDD. It has been observed 7 times in samples submitted by November 21st: 3x US [2xNY, 1xIL], 2x Spain, 1x France with the earliest sample collected 2023-10-16 in France. Given the observed fitness of the EG.5.1.1 backbone, it is plausible that XDD might outcompete JN.1 in the medium term. Given the roughly 100 times smaller share, this will, however, take at least a few months assuming a growth advantage on the order of 40% per week.
 
 A similar sandwich recombinant, XCT, with DV.7.1 spike instead of JN.1 but also 5' and 3' ends from EG.5.1, appears to have benefitted from the EG.5.1 backbone.
 
@@ -22,7 +22,7 @@ A similar sandwich recombinant, XCT, with DV.7.1 spike instead of JN.1 but also 
 
 Within XBB, S:F456L is now present in around 80% of sequences. FLip (i.e. an additional L455F) is present in around a third of XBB. Less than 10% of XBB have neither S:F456L nor S:K478R.
 
-Besides these 3 mutations, S:A475V is the substitution showing the fastest growth, though it seems to confer only a relatively modest additional growth advantage of around 20-30% to lineages that have acquired it. As with other beneficial mutations in XBB in the past, such as 486P, 456L, 478R and 455F, this mutation has been picked up in numerous lineages independently. XBB with 475V appears to be most common in Brazil, where it appears to have been dominant since the end of October, with the main 475V lineage being to JD.1.1 (XBB.1.102.1.1) and a smaller fraction due to various XBB.1.5.70 sublineages (particularly GK.1.8 and GK.1.2.1). On other continents, notable lineages with S:A475V include GW.5.1.1 and FL.15.1.1. In Europe and North America, S:A475V is present in around 5-10% of samples collected at the beginning of November.
+Besides these 3 mutations, S:A475V is the substitution showing the fastest growth, though it seems to confer only a relatively modest additional growth advantage of around 20-30% to lineages that have acquired it. As with other beneficial mutations in XBB in the past, such as 486P, 456L, 478R and 455F, this mutation has been picked up in numerous lineages independently. XBB with 475V appears to be most common in Brazil, where it appears to have been dominant since the end of October, with the main 475V lineage being to JD.1.1 (XBB.1.5.102.1.1) and a smaller fraction due to various XBB.1.5.70 sublineages (particularly GK.1.8 and GK.1.2.1). On other continents, notable lineages with S:A475V include GW.5.1.1 and FL.15.1.1. In Europe and North America, S:A475V is present in around 5-10% of samples collected at the beginning of November.
 
 Besides S:A475V, S:F455L and S:478R, S:L452R appears to be beneficial as well as shown by HV.1 (EG.5.1.3.1) which has grown to around 20% in North America.
 
@@ -622,8 +622,8 @@ XBB* is now clearly dominating in China, South Korea and Japan, countries that h
 The following figures show non-XBB\* proportions in select countries, grouped by continent.
 
 ![Non-XBB in Oceania](../images/565c5b20890156f44f40bd76aabca083acb366fd3e1529d30e1fb6250860836e.png)
-![Non-XBB in Asia](../images/d769c02bef9209cf9e2421624054f1e8a360c6ddfc996094d100776d0a575739.png)  
-![Non-XBB in Europe](../images/4e7b45391d1ceef95732c44fd5fe76cf1e1a8b50583187da69c7d00da98c77e0.png)  
+![Non-XBB in Asia](../images/d769c02bef9209cf9e2421624054f1e8a360c6ddfc996094d100776d0a575739.png)
+![Non-XBB in Europe](../images/4e7b45391d1ceef95732c44fd5fe76cf1e1a8b50583187da69c7d00da98c77e0.png)
 ![Non-XBB in Americas](../images/d4897adb9f27a8ad33d003d69f93947759806c4db6c263b59d4be2fcfe16c910.png)
 ![Non-XBB in Africa](../images/5ca615d36664a434889f54ff0c3c96f7e61508e6647196ef2b842346e01f70d7.png)
 (all plots generated with cov-spectrum.org via data from GISAID)
@@ -1141,7 +1141,7 @@ The additional Spike mutations (S:T883I in BA.5.2.49 and S:C1243F in BF.7.14) ar
 
 ## New sequences from travellers from China
 
-Japan's National Institute of Infectious Diseases has shared 35 new sequences from travellers from China with collection date in the last 2 weeks of 2022.  
+Japan's National Institute of Infectious Diseases has shared 35 new sequences from travellers from China with collection date in the last 2 weeks of 2022.
 Of the 35 sequences, 19 are BA.5.2.48, 16 are BF.7.14, 1 is BA.5.2.49 and 1 is a BA.5.2.1.
 
 South Korea's CDC has shared 46 new sequences from travellers from China with collection date in the last 2 weeks of 2022.
