@@ -24,7 +24,7 @@ Within XBB, S:F456L is now present in around 80% of sequences. FLip (i.e. an add
 
 Besides these 3 mutations, S:A475V is the substitution showing the fastest growth, though it seems to confer only a relatively modest additional growth advantage of around 20-30% to lineages that have acquired it. As with other beneficial mutations in XBB in the past, such as 486P, 456L, 478R and 455F, this mutation has been picked up in numerous lineages independently. XBB with 475V appears to be most common in Brazil, where it appears to have been dominant since the end of October, with the main 475V lineage being to JD.1.1 (XBB.1.5.102.1.1) and a smaller fraction due to various XBB.1.5.70 sublineages (particularly GK.1.8 and GK.1.2.1). On other continents, notable lineages with S:A475V include GW.5.1.1 and FL.15.1.1. In Europe and North America, S:A475V is present in around 5-10% of samples collected at the beginning of November.
 
-Besides S:A475V, S:F455L and S:478R, S:L452R appears to be beneficial as well as shown by HV.1 (EG.5.1.3.1) which has grown to around 20% in North America.
+Besides S:A475V, S:L455F and S:478R, S:L452R appears to be beneficial as well as shown by HV.1 (EG.5.1.3.1) which has grown to around 20% in North America.
 
 Overall, however, all known XBB sublineages appear to be substantially slower than JN.1.
 
@@ -166,7 +166,7 @@ Each of these have apparent logistic growth rates of around 5-15% per week.
 
 ## Non-XBB diversity
 
-The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype F455L, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
+The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype L455F, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
 
 The most successful XAY sublineage GL.1 (with 346T, 420N) appears to no longer grow in Europe where it makes up around 0.5% of sequences. It has, however, spread to the US and Australia. Given the declining growth rate, it is unlikely to become important in the future.
 
@@ -418,7 +418,7 @@ CH.1.1 reached its global peak in February 2023 at 8% when it was most common in
 Interesting sublineages:
 
 - FK.1.1 (S:D215G, S:Q613H), at stable level in New Zealand, Australia, competitive with XBB lineages.
-- DV.7.1 (S:N185D, S:L858I, S:F455L, S:F456L), growing in Spain, albeit at low level
+- DV.7.1 (S:N185D, S:L858I, S:L455F, S:F456L), growing in Spain, albeit at low level
 - GQ.1 (S:S255P, S:486P)
 
 ### BN.1 (BA.2.75 with 346T, 356T, 490S)

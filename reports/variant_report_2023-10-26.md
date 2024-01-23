@@ -120,7 +120,7 @@ Each of these have apparent logistic growth rates of around 5-15% per week.
 
 ## Non-XBB diversity
 
-The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype F455L, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
+The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype L455F, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
 
 The most successful XAY sublineage GL.1 (with 346T, 420N) appears to no longer grow in Europe where it makes up around 0.5% of sequences. It has, however, spread to the US and Australia. Given the declining growth rate, it is unlikely to become important in the future.
 
@@ -372,7 +372,7 @@ CH.1.1 reached its global peak in February 2023 at 8% when it was most common in
 Interesting sublineages:
 
 - FK.1.1 (S:D215G, S:Q613H), at stable level in New Zealand, Australia, competitive with XBB lineages.
-- DV.7.1 (S:N185D, S:L858I, S:F455L, S:F456L), growing in Spain, albeit at low level
+- DV.7.1 (S:N185D, S:L858I, S:L455F, S:F456L), growing in Spain, albeit at low level
 - GQ.1 (S:S255P, S:486P)
 
 ### BN.1 (BA.2.75 with 346T, 356T, 490S)

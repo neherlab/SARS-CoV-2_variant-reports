@@ -69,43 +69,38 @@ Kenyan sequences are particularly valuable to compare GE.1.2.1 and JN.1, as it i
 | Jun 2023       | 35    | 0      | 6        | 0                              | 29        | 0                          |
 | May 2023       | 156   | 0      | 32       | 0                              | 123       | 1 (BQ.1)                   |
 
-### JD.1.1
+### Other fit XBB lineages
 
-- Was dominant in Brazil
-- FLip + 475V
-- Declining overall
+### HV.1\*
 
-### HV.1
-
-- Reached almost 50% in US and Canada
-- 157L, 452R
-- Has sublineages that are among the fittest XBB descendants, most prominently HV.1.6.1 (extra S:K444N and S:S704L) which has been at 1-2% in Canada in Nov-Dec.
+HV.1 is an EG.5.1 sublineage that peaked at around 50% in the US and Canada before being outcompeted by JN.1. It has extra substitutions S:F157L and S:L452R compared to EG.5.1. It has multiple sublineages that are among the fittest XBB lineages, for instance KL.1 (HV.1.6.1, with extra S:K444N and S:S704L) and HV.1.1 (extra S:K444T).
 
 ### JG.3.2
 
-- FLip + 704L + 450D
-- Most common in Canada
-- Among fittest XBB but still steady or slowly declining
+JG.3.2 is an EG.5.1 sublineage with extra S:L455F, S:S704L (both defining for JG.3) and S:N450D (defining JG.3.2). JG.3.2 is particularly common in Canada where it plateaued at 5% in December sequences.
+
+JG.3.2 has a sublineage with Spike insertion S:212:ERY that appears to confer a slight growth advantage compared to JG.3.2 without the insertion. Around 15% of JG.3.2 have the insertion - however, because many sequencing pipelines struggle with insertion, this might be an underestimate. The lack of SNP distinguishing JG.3.2 with and without the insertion further complicates the analysis as both widely used Pango lineage callers pangolin (UShER) and Nextclade currently require at least one SNP to distinguish a lineage.
 
 ### XDA
 
-- FLip + 475V + 180V + 182Q + 554K + 701V
-- Reached 30% in Indonesia, but declining
+XDA is notable as a within-XBB recombinant, with ORF1ab to mid-S1 derived from XBB.1.16 and mid-S1 to N from HN.5 (=FL.1.5.1.5=XBB.1.9.1.5.1.5).
+
+It has 6 extra Spike mutations compared to XBB.1.5, many known to be beneficial: E180V, K182Q, F456L, K478R, E554K, A701V
+
+XDA reached the highest known share of around 30% in Indonesia and Qatar, though it is now declining in most countries.
+
+### JD.1.1
+
+JD.1.1 is an XBB.1.5 sublineage with extra FLip (S:L455F & S:F456L) and S:A475V that has been particularly frequently observed in Brazil where it reached dominance in November 2023, outcompeting the previously dominant XBB.1.5.70 (also with FLip but lacking S:A475V). Recent sequences from Brazil are conflicting about how fast JD.1.1 is declining in the presence of JN.1. A notable sublineage is JD.1.1.3 with additional S:T470N.
 
 ## Non-XBB, non-BA.2.86 diversity
 
-- DV.7.1
+The proportion of sequences not belonging to either BA.2.86 and XBB (and their recombinants) continues dropping, from 2-3% in September 2023 to 0.5-1% in October 2023. The following is a selection of some of the lineages still circulating at low levels:
 
-- JP.1: South Africa
-
-- XCU: Philippines
-- XBC: Australia, New Zealand
-- XAY: South Korea
-
-Still around in very low numbers, possibly chronic infections:
-
-- BQ.1: JH.2
-- BA.2.3.20: CM.7.1.1
+- DV.7.1 (BA.2.75 sublineage): most common of the non-BA.2.86/XBB, particularly in Europe
+- JP.1 (BA.2.75 sublineage): fluctuating at around 3% in the second half of 2023 in South Africa
+- XBC (BA.2/Delta recombinant): Down to 2% or less in Australia and New Zealand from peak of around 30% in July 2023
+- XCU (XBB/XBC recombinant): Circulating at 5-30% in the Philippines in the second half of 2023, but too few sequences to draw conclusions
 
 # Variant report 2023-11-21
 
