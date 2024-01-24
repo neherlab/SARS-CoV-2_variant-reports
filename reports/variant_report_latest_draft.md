@@ -1,3 +1,107 @@
+# Variant report 2024-01-22
+
+For daily updated, automatic analyses of lineage prevalence and fitness, have a look at the dashboard at <https://nextstrain.org/sars-cov-2/forecasts>. It offers country by country overviews of Nextstrain clade and Pango lineage prevalence over the past few months including short-term forecasts based on multilinear logistic regression with pooling across countries. The main limitation is that only the 2 dozen countries with the most recently collected sequences are included for robustness reasons. At the time of writing, no African country is included, neither are populous countries China, Pakistan, Brazil, Bangladesh, Russia and Mexico.
+
+![Clade frequencies over time](./images/clade_forecast_202401.png)
+
+## BA.2.86
+
+### JN.1\* is dominant in most countries with recent sequences
+
+During the past 2 months, JN.1 (BA.2.86.1 with extra S:L455S) has continued to grow in share, becoming dominant in most countries with active surveillance across all continents.
+
+### Potentially beneficial spike mutations in JN.1\*
+
+A number of potentially beneficial spike mutations have been observed in JN.1\* but it is too early to draw conclusions about the growth advantage they might confer if any:
+
+- S:T572I has independently arisen dozens of times in BA.2.86\* and appears to be slightly beneficial at around +2% per day. It was present in around 3% of JN.1\* sequences collected at the turn of the year. Defining for sublineages: JN.1.1.1, JN.1.7, JN.1.8.1, and JN.1-recombinant XDK
+- S:R346T has arisen independently numerous times but initial clusters have not grown consistently. It could potentially become increasingly beneficial over time as immunity against JN.1\* develops. It was present in around 1% of JN.1\* sequences collected at the turn of the year. Defining for sublineages: JN.1.1.3, JN.1.6.1
+- S:F456L has been observed in around 0.3% of JN.1\* at the turn of the year, e.g. as part of JN.1.11.1 (growing in India, UK, US)
+- S:F456V has been observed in 3 BA.2.86\* clusters of around 10-30 sequences each, one within JN.1\* (recently designated as JN.1.12) and two within BA.2.86.1 (i.e. without 455S): JN.3.2.1 and JN.12
+
+Many more spike mutations have been observed but the above is a selection of the most interesting ones based on their location in the S1 protein.
+
+### BA.2.86 + S:L455S outside of JN.1\*
+
+As expectable for a highly beneficial single mutation, S:L455S has arisen in BA.2.86.1 more than once. The largest known lineage with S:L455S after JN.1 is JN.2.5 which is currently most common in Canada where it makes up around 2% of sequences.
+
+### JN.1-XBB recombinants
+
+A number of JN.1-XBB recombinants have been observed with all having the RBD inherited from JN.1\*. Most notably:
+
+- XDD: Makes up ~3% of sequences in Italy/Spain but does not appear to have a growth advantage over JN.1\*
+- XDK: Has extra S:T572I inherited from JN.1.1.1 and swapped out JN.1.1's deleterious ORF1a:F499L, growing in France where it was at around 5% end of 2023
+
+The other recombinants still have too few shared sequences to draw conclusions about their growth rates.
+
+## XBB has the potential for co-circulation
+
+While JN.1 has rapidly become dominant around the world, it is possible that XBB lineages could persist at significant levels over the next year in a scenario of co-circulation. Without the extra spike mutation S:F455S, it is likely that XBB would still be dominant: at the beginning of 2024 there were still roughly four times as many XBB\* collected as BA.2.86-without-S:F455S sequences.
+
+As time passes and population immunity against JN.1 increases disproportionately compared to XBB, JN.1 might lose its growth advantage to a point where XBB and JN.1 co-exist. Intrinsic fitness of JN.1 compared to XBB would then determine the relative prevalence of the two lineages. Which of the two is intrinsically fitter is not yet clear.
+
+The potential for co-circulation is a good reason to continue to monitor XBB lineages even if they currently may appear less fit than JN.1.
+
+### GE.1.2.1
+
+GE.1.2.1 (alias of XBB.2.3.10.1.2.1) was first sequenced in Kenya where it and its ancestors were dominant in mid-to-late 2023 [note: Kenya and South Africa are the two African mainland countries with most sequences collected in the second half of 2023]. GE.1.2.1 notably grew to around 1-2% by the end of 2023 in the UK and US while JN.1 was already present in those countries.
+
+GE.1.2.1 has the following extra Spike mutations compared to XBB.1.5:
+
+- S:P521S (defining of XBB.2.3)
+- S:N185-/S:F186I
+- S:N148T
+- S:A376S (rarely observed, nuc sequence: BA.2 A22688G (T->A), GE.1.2.1 G22688T (A->S)
+- S:K478T (reversion to wild type, via 478R, nuc sequence: Omicron C22995A (T->K), GE.1=XBB.2.3.10.1 A22995G (K->R), GE.1.2.1 G22995C (R->T)
+
+The GE.1.2.1 defining mutations S:A376S and S:K478T are interesting as previous substitutions in both residues were defining mutations in BA.2. Furthermore, neither of them were among the mutations known to be beneficial and to frequently occur on an XBB.1.5 background (particularly S:N450D, S:L455F, S:F456L, S:L452R, S:A475V, S:E554K, S:R403K).
+
+Kenyan sequences are particularly valuable to compare GE.1.2.1 and JN.1, as it is the only country that has sequenced GE.1.2(.1) since mid-2023 and has it reach dominance. JN.1\* seems to rapidly increase relative to GE.1.2\*, suggesting that JN.1\* spreads faster in a population that had not yet been exposed to JN.1\*. The following table summarizes lineage counts in sequences collected in Kenya since October 2023 (and available on GISAID as of 2024-01-21):
+
+| Month          | Total | JN.1\* | GE.1.2\* | KH.1 (XBB.2.3.3.1.2.1.1.1.1.1) | Other XBB | Other non-XBB, non-BA.2.86 |
+| -------------- | ----- | ------ | -------- | ------------------------------ | --------- | -------------------------- |
+| since Dec 2023 | 89    | 45     | 31       | 13                             | 0         | 0                          |
+| Nov 2023       | 46    | 2      | 39       | 0                              | 5         | 0                          |
+| Oct 2023       | 5     | 0      | 4        | 0                              | 0         | 1 (BA.4.6)                 |
+| Sep 2023       | 2     | 0      | 2        | 0                              | 0         | 0                          |
+| Aug 2023       | 3     | 0      | 1        | 0                              | 2         | 0                          |
+| Jul 2023       | 1     | 0      | 1        | 0                              | 3         | 0                          |
+| Jun 2023       | 35    | 0      | 6        | 0                              | 29        | 0                          |
+| May 2023       | 156   | 0      | 32       | 0                              | 123       | 1 (BQ.1)                   |
+
+### Other fit XBB lineages
+
+### HV.1\*
+
+HV.1 is an EG.5.1 sublineage that peaked at around 50% in the US and Canada before being outcompeted by JN.1. It has extra substitutions S:F157L and S:L452R compared to EG.5.1. It has multiple sublineages that are among the fittest XBB lineages, for instance KL.1 (HV.1.6.1, with extra S:K444N and S:S704L) and HV.1.1 (extra S:K444T).
+
+### JG.3.2
+
+JG.3.2 is an EG.5.1 sublineage with extra S:L455F, S:S704L (both defining for JG.3) and S:N450D (defining JG.3.2). JG.3.2 is particularly common in Canada where it plateaued at 5% in December sequences.
+
+JG.3.2 has a sublineage with Spike insertion S:212:ERY that appears to confer a slight growth advantage compared to JG.3.2 without the insertion. Around 15% of JG.3.2 have the insertion - however, because many sequencing pipelines struggle with insertion, this might be an underestimate. The lack of SNP distinguishing JG.3.2 with and without the insertion further complicates the analysis as both widely used Pango lineage callers pangolin (UShER) and Nextclade currently require at least one SNP to distinguish a lineage.
+
+### XDA
+
+XDA is notable as a within-XBB recombinant, with ORF1ab to mid-S1 derived from XBB.1.16 and mid-S1 to N from HN.5 (=FL.1.5.1.5=XBB.1.9.1.5.1.5).
+
+It has 6 extra Spike mutations compared to XBB.1.5, many known to be beneficial: E180V, K182Q, F456L, K478R, E554K, A701V
+
+XDA reached the highest known share of around 30% in Indonesia and Qatar, though it is now declining in most countries.
+
+### JD.1.1
+
+JD.1.1 is an XBB.1.5 sublineage with extra FLip (S:L455F & S:F456L) and S:A475V that has been particularly frequently observed in Brazil where it reached dominance in November 2023, outcompeting the previously dominant XBB.1.5.70 (also with FLip but lacking S:A475V). Recent sequences from Brazil are conflicting about how fast JD.1.1 is declining in the presence of JN.1. A notable sublineage is JD.1.1.3 with additional S:T470N.
+
+## Non-XBB, non-BA.2.86 diversity
+
+The proportion of sequences not belonging to either BA.2.86 and XBB (and their recombinants) continues dropping, from 2-3% in September 2023 to 0.5-1% in October 2023. The following is a selection of some of the lineages still circulating at low levels:
+
+- DV.7.1 (BA.2.75 sublineage): most common of the non-BA.2.86/XBB, particularly in Europe
+- JP.1 (BA.2.75 sublineage): fluctuating at around 3% in the second half of 2023 in South Africa
+- XBC (BA.2/Delta recombinant): Down to 2% or less in Australia and New Zealand from peak of around 30% in July 2023
+- XCU (XBB/XBC recombinant): Circulating at 5-30% in the Philippines in the second half of 2023, but too few sequences to draw conclusions
+
 # Variant report 2023-11-21
 
 ## BA.2.86
@@ -24,7 +128,7 @@ Within XBB, S:F456L is now present in around 80% of sequences. FLip (i.e. an add
 
 Besides these 3 mutations, S:A475V is the substitution showing the fastest growth, though it seems to confer only a relatively modest additional growth advantage of around 20-30% to lineages that have acquired it. As with other beneficial mutations in XBB in the past, such as 486P, 456L, 478R and 455F, this mutation has been picked up in numerous lineages independently. XBB with 475V appears to be most common in Brazil, where it appears to have been dominant since the end of October, with the main 475V lineage being to JD.1.1 (XBB.1.5.102.1.1) and a smaller fraction due to various XBB.1.5.70 sublineages (particularly GK.1.8 and GK.1.2.1). On other continents, notable lineages with S:A475V include GW.5.1.1 and FL.15.1.1. In Europe and North America, S:A475V is present in around 5-10% of samples collected at the beginning of November.
 
-Besides S:A475V, S:F455L and S:478R, S:L452R appears to be beneficial as well as shown by HV.1 (EG.5.1.3.1) which has grown to around 20% in North America.
+Besides S:A475V, S:L455F and S:478R, S:L452R appears to be beneficial as well as shown by HV.1 (EG.5.1.3.1) which has grown to around 20% in North America.
 
 Overall, however, all known XBB sublineages appear to be substantially slower than JN.1.
 
@@ -119,7 +223,7 @@ Very little original XBB.1.5 genotype is left, almost all XBB have acquired at l
 
 With some 200 new BA.2.86 sequences having been shared over the past month, it is now possible to conclude that while BA.2.86 is among the fittest known lineage it does not appear to be unambiguously the very fastest growing lineage either. That means that while BA.2.86 may well become important or even dominant in the mid-term (3-12 months) it is unlikely to have an immediate impact on the epidemic compared to the counterfactual of not existing. That is, BA.2.86 is interesting for its potential to become important in the future, but it is unlikely to cause a major change in the trajectory of the pandemic in the next few months.
 
-It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences), the other fit lineages also continue to evolve.
+It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:L455S in BA.2.86.1 with 4 sequences), the other fit lineages also continue to evolve.
 
 ## Summary of fittest lineages
 
@@ -166,7 +270,7 @@ Each of these have apparent logistic growth rates of around 5-15% per week.
 
 ## Non-XBB diversity
 
-The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype F455L, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
+The most successful non-XBB lineage (potentially besides BA.2.86) appears to currently be DV.7.1, a CH.1.1 (that is BA.2.75) sublineage with the beneficial haplotype L455F, F456L in addition to N185D and L858I. It is particularly common in Spain and Ireland (~10-15% in August). While the growth rate is faster than some XBB, it's smaller than the fittest XBB lineages, meaning it is unlikely to become dominant in the near future.
 
 The most successful XAY sublineage GL.1 (with 346T, 420N) appears to no longer grow in Europe where it makes up around 0.5% of sequences. It has, however, spread to the US and Australia. Given the declining growth rate, it is unlikely to become important in the future.
 
@@ -418,7 +522,7 @@ CH.1.1 reached its global peak in February 2023 at 8% when it was most common in
 Interesting sublineages:
 
 - FK.1.1 (S:D215G, S:Q613H), at stable level in New Zealand, Australia, competitive with XBB lineages.
-- DV.7.1 (S:N185D, S:L858I, S:F455L, S:F456L), growing in Spain, albeit at low level
+- DV.7.1 (S:N185D, S:L858I, S:L455F, S:F456L), growing in Spain, albeit at low level
 - GQ.1 (S:S255P, S:486P)
 
 ### BN.1 (BA.2.75 with 346T, 356T, 490S)

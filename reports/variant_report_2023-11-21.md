@@ -1,10 +1,115 @@
+# Variant report 2023-11-21
+
+## BA.2.86
+
+JN.1 (BA.2.86.1 with S:L455S) remains the fastest growing lineage, with an overall relative growth advantage of almost 100% per week (i.e. the share doubles almost every week assuming logistic growth). The extra Spike mutation S:L455S appears to confer an additional relative growth advantage of around 40% per week to BA.2.86. JN.1 made up more than a third of all BA.2.86 in samples collected at the start of November though its share varies across countries. Overall sequence numbers deposited in GISAID have grown from 4 JN.1 queried on the 28th of September, via 126 on the 26th of October to 1069 on the 21st of November.
+
+JN.1 appears most widespread in Iceland where it became dominant around the start of November, followed by Spain, France and Denmark with around 10% of samples collected around beginning of November. Switzerland, Ireland, Belgium, Italy had above 5%. For reference, JN.1 had a share of around 2% in the UK and 1% in the US at the start of November. With a relative doubling of slightly longer than a week, this means that JN.1 could have an impact on case numbers in the next few weeks in most European countries, and early next year in non-European countries.
+
+Besides JN.1, there are at least three BA.2.86 sublineages with substitutions at S:475, a site at which mutations are known to be beneficial in XBB lineages:
+
+- JN.4 (S:A475V, lacking C12815T that is shared by all other BA.2.86.1, most common in Belgium, around 30 sequences)
+- JN.10 (S:A475V, on T3565C branch with JN.1, most common in Spain, around 25 sequences)
+- JN.5.1 (S:A475S, most common in England, around 15 sequences)
+
+All of these lineages are still too small to allow firm conclusions about their growth rates.
+
+Recently, a sandwich recombinant with JN.1 spike and 5' and 3' ends from EG.5.1.1 (start-7000 and 26000-end) has been designated as XDD. It has been observed 7 times in samples submitted by November 21st: 3x US [2xNY, 1xIL], 2x Spain, 1x France with the earliest sample collected 2023-10-16 in France. Given the observed fitness of the EG.5.1.1 backbone, it is plausible that XDD might outcompete JN.1 in the medium term. Given the roughly 100 times smaller share, this will, however, take at least a few months assuming a growth advantage on the order of 40% per week.
+
+A similar sandwich recombinant, XCT, with DV.7.1 spike instead of JN.1 but also 5' and 3' ends from EG.5.1, appears to have benefitted from the EG.5.1 backbone.
+
+## XBB
+
+Within XBB, S:F456L is now present in around 80% of sequences. FLip (i.e. an additional L455F) is present in around a third of XBB. Less than 10% of XBB have neither S:F456L nor S:K478R.
+
+Besides these 3 mutations, S:A475V is the substitution showing the fastest growth, though it seems to confer only a relatively modest additional growth advantage of around 20-30% to lineages that have acquired it. As with other beneficial mutations in XBB in the past, such as 486P, 456L, 478R and 455F, this mutation has been picked up in numerous lineages independently. XBB with 475V appears to be most common in Brazil, where it appears to have been dominant since the end of October, with the main 475V lineage being to JD.1.1 (XBB.1.5.102.1.1) and a smaller fraction due to various XBB.1.5.70 sublineages (particularly GK.1.8 and GK.1.2.1). On other continents, notable lineages with S:A475V include GW.5.1.1 and FL.15.1.1. In Europe and North America, S:A475V is present in around 5-10% of samples collected at the beginning of November.
+
+Besides S:A475V, S:L455F and S:478R, S:L452R appears to be beneficial as well as shown by HV.1 (EG.5.1.3.1) which has grown to around 20% in North America.
+
+Overall, however, all known XBB sublineages appear to be substantially slower than JN.1.
+
+## Summary of some of the fittest lineages
+
+Selection of some of the fittest lineages sorted by growth rate (lower CI) per [covSpectrum collection 42](https://cov-spectrum.org/collections/42):
+
+| Lineage   | Alias                                  | Number of sequences on covSpectrum (GISAID) | Weekly logistic growth rate (lower CI) | Notable spike mutations                  | Focus countries               |
+| --------- | -------------------------------------- | ------------------------------------------- | -------------------------------------- | ---------------------------------------- | ----------------------------- |
+| JN.1      | BA.2.86.1.1                            | 926 (1069)                                  | 93%                                    | L455S + BA.2.86                          | Iceland, France, Spain        |
+| JN.4      | BA.2.86.1.4                            | 41 (46)                                     | 62%                                    | A475V + BA.2.86                          | Belgium                       |
+| XCT.1     | JG.4/DV.7.1 (Spike)/JG.4               | 55                                          | 62%                                    | DV.7.1 Spike + S704L + XBB.1.16-like 3'  | Belgium                       |
+| XDA       | XBB.1.16/HN.5 (FL.1.5.1.5) recombinant | 217                                         | 62%                                    | E180V, K182Q, F456L, K478R, E554K, A701V | Qatar, Oman, Pakistan         |
+| BA.2.86   |                                        | 947                                         | 48%                                    | Many                                     | South Africa, Denmark, Sweden |
+| JG.3      | EG.5.1.3.3                             | 3046                                        | 42%                                    | S704L + FLip                             | Denmark, Finland, Italy       |
+| HV.1.1    | EG.5.1.6.1.1                           | 190                                         | 40%                                    | 157L, K444T, L452R + EG.5.1              | USA, Canada                   |
+| FL.15.1.1 | XBB.1.9.1.15.2.1.1                     | 424                                         | 39%                                    | FLip, A475V                              | UK, Spain, Canada             |
+| FL.1.5.2  | XBB.1.9.1.5.2                          | 226                                         | 34%                                    | F456L, N481K, H681R, A701V               | UK, Spain, Canada             |
+
+# Variant report 2023-10-26
+
+## BA.2.86
+
+While BA.2.86 itself does not appear to be growing faster than the fastest XBB sublineages, the BA.2.86 sublineage with extra S:L455S (JN.1) appears to be the fastest growing lineage at the moment.
+
+In sequences collected in September, BA.2.86 was most common in South Africa at around 15-20%, followed by Europe where it made up 2-4% and North America/Japan where it made up 0.5-1%.
+
+Consistent with the modest growth advantage of BA.2.86 observed in Europe and North America, BA.2.86 does not appear to be becoming dominant quickly in South Africa.
+
+However, this is not the case for the JN.1 sublineage which was first observed in Luxembourg and is currently particularly common in France, Iceland and Luxembourg but also observed globally.
+
+At the time of writing last month's report, there were 4 JN.1 shared via GISAID. Now there are already 126. This is consistent with a relative doubling time of around a week.
+
+The relatively fast growth of JN.1 makes it more likely than a month ago that BA.2.86 will outcompete XBB lineages in the mid term.
+
+Another potentially beneficial RBD mutation that has been observed in two clusters in BA.2.86 is S:A475V. This mutation has already been observed to be beneficial in XBB FLip lineages. The small size of the BA.2.86 + S:A475V clusters means it is not possible to draw conclusions about their growth rates.
+
+A Nextstrain tree with around 1200 BA.2.86 sequences that has artefacts masked an problematic sequences excluded can be found here: https://nextstrain.org/groups/neherlab/ncov/BA.2.86
+
+## XBB
+
+Within XBB, there have not been significant changes since last month's report. FLip lineages continue to grow, S:A475V continues to be beneficial on top of FLip.
+
+Two XBB sublineages with interesting spike mutations that might be common in regions with relatively little sequencing and have been increasingly observed in high-sequencing countries as well include:
+
+- GW.5 (XBB.1 without ORF8:8\*, with 486P, FLip, K478I, E554K) with sublineages particular GW.5.1.1 (extra A475V, F79S) and GW.5.3.1 (extra G184A, A475V). Most common in Pakistan where it might be dominant for a few months already
+- GA.4.1 (XBB.1 with 486P, D215H, H245Y, K356T, K478R, E554K, S704L) possibly dominant in Nigeria
+
+In the past month, more recombinants have been identified, in particular within-XBB recombinants with FLip as well as some CH.1.1/XBB recombinants. However, none of these recombinants have particularly novel spike haplotypes, making them unlikely to have a major impact over the next few months.
+
+## Other variants
+
+Revisiting some non-XBB lineages that have been discussed previously:
+
+- DV.7.1 (CH.1.1 with FLip) continues growing steadily in Europe, particularly Spain, but does not appear faster than XBB FLip lineages
+- XAY, including GL.1, has only been sporadically observed in the past month and appears to be declining
+- XBC is still at around 10-30% in Australia and New Zealand but seems to be steady or declining
+- BA.2.3.20 has not been observed at all in the past month
+
+## Summary of some of the fittest lineages
+
+Below is a table summarizing a selection of the fittest lineages sorted by growth rate [covSpectrum collection 42](https://cov-spectrum.org/collections/42):
+
+| Lineage   | Alias                      | Number of sequences on covSpectrum | Weekly logistic growth rate (lower CI) | Notable spike mutations              | Focus countries               |
+| --------- | -------------------------- | ---------------------------------- | -------------------------------------- | ------------------------------------ | ----------------------------- |
+| JN.1      | BA.2.86.1.1                | 70                                 | 93%                                    | L455S                                | France, Iceland, Luxembourg   |
+| HK.2.1    | EG.5.1.1.2.1               | 138                                | 62%                                    | FLip, Q14H                           | China, Singapore              |
+| FL.15.1.1 | XBB.1.9.1.15.1.1           | 118                                | 58%                                    | FLip, A475V                          | Romania, Bulgaria             |
+| JG.3      | EG.5.1.3.3                 | 911                                | 53%                                    | FLip, S704L, Q52H                    | Denmark, Finland, Italy       |
+| HV.1.1    | EG.5.1.6.1.1               | 47                                 | 49%                                    | 157L, K444T, L452R, F456L, Q52H      | USA, Canada                   |
+| GW.5.1.1  | XBB.1.19.1.5.1.1           | 100                                | 46%                                    | FLip, K478I, E554K, A475V, F79S      | Pakistan                      |
+| BA.2.86   |                            | 947                                | 40%                                    | Many                                 | South Africa, Denmark, Sweden |
+| HV.1      | EG.5.1.6.1                 | 5523                               | 39%                                    | S:157L, S:452R, F456L, Q52H          | USA, Canada                   |
+| HK.3      | EG.5.1.1.3                 | 6574                               | 38%                                    | FLip, Q52H                           | China                         |
+| JD.1.1    | XBB.1.5.102.1.1            | 1415                               | 37%                                    | FLip and S:A475V                     | Brazil, Belgium, Spain        |
+| XCM       | XBB.2.3/DV.7.1 recombinant | 89                                 | 37%                                    | V83A, 144- from XBB.2.3, rest DV.7.1 | Netherlands, Germany          |
+| FL.1.5.2  | XBB.1.9.1.5.2              | 226                                | 34%                                    | F456L, N481K, H681R, A701V           | UK, Spain, Canada             |
+
 # Variant report 2023-09-28
 
 XBB descendants continue to dominate with >90% global share, however, the proportion of non-XBB lineages has started to stabilize with some non-XBB lineages growing compared to the bulk of XBB (se this [covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past2M/variants?variantQuery=%21nextcladePangoLineage%3AXBB*+%26+%21405G&)). While BA.2.86 is a fit lineage and it is possible that it becomes dominant over the next year, there being other similarly fit XBB sublineages means that it is unlikely to have a major impact over the next few months.
 
 ## XBB trends
 
-Within XBB, FLip (S:L455F & S:F456L) continues to grow in share, being present in around 20% of global XBB in samples collected at the beginning of September 2023, doubling roughly every 3 weeks ([covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+%28S%3A455.+%7C+S%3A456.%29&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L&analysisMode=CompareToBaseline&)). In China, FLip has increased particularly quickly, mostly as HK.3 (EG.5.1.1.3), crossing 50% in early September with a relative doubling time of 10 days. In XBB FLip lineages, extra spike mutations appears to be beneficial - it has appeared at least 4 times already: in JD.1.1 (XBB.1.5.102.1.1), GK.3.1 (XBB.1.5.70.3.1), GK.4 (XBB.1.5.70.4), GW.5.1.1 (XBB.1.19.1.5.1.1), and FL.15.1.1 (XBB.1.9.1.15.1.1) (see [Nextclade's Pango lineage tree filtered for 475V](https://next.nextstrain.org/staging/nextclade/sars-cov-2/21L?gt=S.475V)]). Differential growth advantage on top of FLip appears to be around 20% per week at a global prevalence of around 1% beginning of September (see [covSpectrum query for extra 475V in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475.&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475V&analysisMode=CompareToBaseline&)). It is possible that 475V is more beneficial than 478R/I on top of XBB + FLip (see [covSpectrum query for extra 478R/I in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A478K&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+%28S%3A478R+%7C+S%3A478I%29&analysisMode=CompareToBaseline&)).
+Within XBB, FLip (S:L455F & S:F456L) continues to grow in share, being present in around 20% of global XBB in samples collected at the beginning of September 2023, doubling roughly every 3 weeks ([covSpectrum query](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+%28S%3A455.+%7C+S%3A456.%29&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L&analysisMode=CompareToBaseline&)). In China, FLip has increased particularly quickly, mostly as HK.3 (EG.5.1.1.3), crossing 50% in early September with a relative doubling time of 10 days. In XBB FLip lineages, extra spike mutation S:A475V appears to be beneficial - it has appeared at least 4 times already: in JD.1.1 (XBB.1.5.102.1.1), GK.3.1 (XBB.1.5.70.3.1), GK.4 (XBB.1.5.70.4), GW.5.1.1 (XBB.1.19.1.5.1.1), and FL.15.1.1 (XBB.1.9.1.15.1.1) (see [Nextclade's Pango lineage tree filtered for 475V](https://next.nextstrain.org/staging/nextclade/sars-cov-2/21L?gt=S.475V)]). Differential growth advantage on top of FLip appears to be around 20% per week at a global prevalence of around 1% beginning of September (see [covSpectrum query for extra 475V in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475.&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A475V&analysisMode=CompareToBaseline&)). It is possible that 475V is more beneficial than 478R/I on top of XBB + FLip (see [covSpectrum query for extra 478R/I in FLip](https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?variantQuery=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+S%3A478K&variantQuery1=%28nextcladePangoLineage%3AXBB*+%7C+405G%29+%26+S%3A455F+%26+S%3A456L+%26+%28S%3A478R+%7C+S%3A478I%29&analysisMode=CompareToBaseline&)).
 
 A number of within-XBB recombinants (i.e. both parents are XBB) have been identified recently. For example XCH (GK.1.1 (alias of XBB.1.5.70.1.1) spike with FLip and S:704L and ORF9b:5T from XBB.1.9.1) appears to be among the fittest lineages at the moment, clearly outcompeting both parents, with sublineage XCH.1 having acquired extra T573I.
 
@@ -14,7 +119,7 @@ Very little original XBB.1.5 genotype is left, almost all XBB have acquired at l
 
 With some 200 new BA.2.86 sequences having been shared over the past month, it is now possible to conclude that while BA.2.86 is among the fittest known lineage it does not appear to be unambiguously the very fastest growing lineage either. That means that while BA.2.86 may well become important or even dominant in the mid-term (3-12 months) it is unlikely to have an immediate impact on the epidemic compared to the counterfactual of not existing. That is, BA.2.86 is interesting for its potential to become important in the future, but it is unlikely to cause a major change in the trajectory of the pandemic in the next few months.
 
-It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences from countries), the other fit lineages also continue to evolve.
+It is plausible that BA.2.86's relative growth advantage will increase due to frequency dependent selection while XBB lineages are dominant, but this is not yet apparent in the data and hence speculation. While the first potentially beneficial RBD mutation has been detected in BA.2.86 in low numbers (e.g. S:F455S in BA.2.86.1 with 4 sequences), the other fit lineages also continue to evolve.
 
 ## Summary of fittest lineages
 
@@ -517,8 +622,8 @@ XBB* is now clearly dominating in China, South Korea and Japan, countries that h
 The following figures show non-XBB\* proportions in select countries, grouped by continent.
 
 ![Non-XBB in Oceania](../images/565c5b20890156f44f40bd76aabca083acb366fd3e1529d30e1fb6250860836e.png)
-![Non-XBB in Asia](../images/d769c02bef9209cf9e2421624054f1e8a360c6ddfc996094d100776d0a575739.png)  
-![Non-XBB in Europe](../images/4e7b45391d1ceef95732c44fd5fe76cf1e1a8b50583187da69c7d00da98c77e0.png)  
+![Non-XBB in Asia](../images/d769c02bef9209cf9e2421624054f1e8a360c6ddfc996094d100776d0a575739.png)
+![Non-XBB in Europe](../images/4e7b45391d1ceef95732c44fd5fe76cf1e1a8b50583187da69c7d00da98c77e0.png)
 ![Non-XBB in Americas](../images/d4897adb9f27a8ad33d003d69f93947759806c4db6c263b59d4be2fcfe16c910.png)
 ![Non-XBB in Africa](../images/5ca615d36664a434889f54ff0c3c96f7e61508e6647196ef2b842346e01f70d7.png)
 (all plots generated with cov-spectrum.org via data from GISAID)
@@ -1036,7 +1141,7 @@ The additional Spike mutations (S:T883I in BA.5.2.49 and S:C1243F in BF.7.14) ar
 
 ## New sequences from travellers from China
 
-Japan's National Institute of Infectious Diseases has shared 35 new sequences from travellers from China with collection date in the last 2 weeks of 2022.  
+Japan's National Institute of Infectious Diseases has shared 35 new sequences from travellers from China with collection date in the last 2 weeks of 2022.
 Of the 35 sequences, 19 are BA.5.2.48, 16 are BF.7.14, 1 is BA.5.2.49 and 1 is a BA.5.2.1.
 
 South Korea's CDC has shared 46 new sequences from travellers from China with collection date in the last 2 weeks of 2022.
