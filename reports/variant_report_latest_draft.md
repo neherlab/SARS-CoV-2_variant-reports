@@ -44,7 +44,7 @@ The potential for co-circulation is a good reason to continue to monitor XBB lin
 
 ### GE.1.2.1
 
-GE.1.2.1 (alias of XBB.2.3.10.1.2.1) was first sequenced in Kenya where it and its ancestors were dominant in mid-to-late 2023 [note: Kenya is behind South Africa the African mainland country with the second most sequences with collection date in the second half of 2023]. GE.1.2.1 notably grew to around 1-2% by the end of 2023 in the UK and US while JN.1 was already present in those countries.
+GE.1.2.1 (alias of XBB.2.3.10.1.2.1) was first sequenced in Kenya where it and its ancestors were dominant in mid-to-late 2023 [note: Kenya and South Africa are the two African mainland countries with most sequences collected in the second half of 2023]. GE.1.2.1 notably grew to around 1-2% by the end of 2023 in the UK and US while JN.1 was already present in those countries.
 
 GE.1.2.1 has the following extra Spike mutations compared to XBB.1.5:
 
@@ -54,9 +54,9 @@ GE.1.2.1 has the following extra Spike mutations compared to XBB.1.5:
 - S:A376S (rarely observed, nuc sequence: BA.2 A22688G (T->A), GE.1.2.1 G22688T (A->S)
 - S:K478T (reversion to wild type, via 478R, nuc sequence: Omicron C22995A (T->K), GE.1=XBB.2.3.10.1 A22995G (K->R), GE.1.2.1 G22995C (R->T)
 
-The GE.1.2.1 defining mutations S:A376S and S:K478T are interesting as previous substitutions in both residues were defining mutations in BA.2. Furthermore,neither of them were among the mutations known to be beneficial and to frequently occur on an XBB.1.5 background (particularly S:N450D, S:L455F, S:F456L, S:L452R, S:A475V, S:E554K, S:R403K).
+The GE.1.2.1 defining mutations S:A376S and S:K478T are interesting as previous substitutions in both residues were defining mutations in BA.2. Furthermore, neither of them were among the mutations known to be beneficial and to frequently occur on an XBB.1.5 background (particularly S:N450D, S:L455F, S:F456L, S:L452R, S:A475V, S:E554K, S:R403K).
 
-Kenyan sequences are particularly valuable to compare GE.1.2.1 and JN.1, as it is the only country that has sequenced GE.1.2(.1) since mid-2023 and has it reach dominance. The following table summarizes lineage counts in sequences collected in Kenya since October 2023 (and available on GISAID as of 2024-01-21):
+Kenyan sequences are particularly valuable to compare GE.1.2.1 and JN.1, as it is the only country that has sequenced GE.1.2(.1) since mid-2023 and has it reach dominance. JN.1\* seems to rapidly increase relative to GE.1.2\*, suggesting that JN.1\* spreads faster in a population that had not yet been exposed to JN.1\*. The following table summarizes lineage counts in sequences collected in Kenya since October 2023 (and available on GISAID as of 2024-01-21):
 
 | Month          | Total | JN.1\* | GE.1.2\* | KH.1 (XBB.2.3.3.1.2.1.1.1.1.1) | Other XBB | Other non-XBB, non-BA.2.86 |
 | -------------- | ----- | ------ | -------- | ------------------------------ | --------- | -------------------------- |
