@@ -1,4 +1,4 @@
-# Variant report 2024-03-03
+# Variant report 2024-03-04
 
 JN.1\* lineages (and recombinants with JN.1 spike) make up 95% of more of sequences collected globally in February 2024. Within JN.1, three mutations have been observed to be particularly beneficial if added to the JN.1 background: S:R346T, S:F456L and S:T572I. Over the coming months, these mutations are expected to rise in frequency, with the most successful lineages having two or all three of these beneficial mutations.
 
