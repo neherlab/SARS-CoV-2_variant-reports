@@ -23,11 +23,12 @@ Below is a summary of notable lineages with at least 2 of the 3 mutations:
 
 Around 3-4% of sequences collected globally at the beginning of February are from recombinants that have JN.1 spike with some other part of the genome derived from an XBB donor.
 
-As spike is the major determinant of the virus's antigenic properties and fitness, these recombinants are not fundamentally different from JN.1\* lineages. Nonetheless, it is worth monitoring them, not the least because their names do not readily reveal their JN.1 spike origin:
+As spike is the major determinant of the virus's antigenic properties and fitness, these recombinants are not fundamentally different from JN.1\* lineages. Nonetheless, it is worth monitoring them, not the least because their names do not readily reveal their BA.2.86 spike origin:
 
-- XDD: 3-5% in Italy/Spain, no sign of growth advantage over JN.1
+- XDD: Common across world but no sign of growth advantage over JN.1
 - XDK: S:T572I inherited from JN.1.1.1, but without JN.1.1's deleterious ORF1a:F499L, most common in France at around 10-15% beginning of February 2024, followed by Greece and New Zealand where it is around 5%. No sign it is any different than the JN.1\* lineage with S:T572I.
-- XDP: JN.1.1 with 3' end from FL.15.1.1 (XBB\*), therefore with ORF8:G8\*, ORF9b:I5T. 1% in USA in February 2024, relative growth advantage of around 20%/week vs JN.1 (30% vs JN.1.1, as JN.1.1 has disadvantage vs JN.1).
+- XDP: JN.1.4 with 3' end from FL.15 (XBB\*), therefore with ORF8:G8\*, ORF9b:I5T. 1% in USA in February 2024, relative growth advantage of around 20%/week vs JN.1 (30% vs JN.1.1, as JN.1.1 has disadvantage vs JN.1).
+- XDQ: BA.2.86.1 with 3' from FL.15.1.1, lacks S:L455S as not from JN.1 but sublineage XDQ.1 has S:A475V. Around 5% at end of January 2024 in South Korea and Japan, possibly growing.
 - XDR: ORF1a from JD.1.1.1, rest from JN.1.1. Most common in Brazil at up to 20% at the beginning of February 2024, relative growth advantage unclear, likely not very big as no strong growth outside Brazil.
 - XDS differs from the other recombinants in that it has its spike from JN.3.2.1 (which has S:F456V instead of S:L455S). It also has 3' from XBB with ORF8:G8\*, ORF9b:I5T. Around 1% in the UK.
 
