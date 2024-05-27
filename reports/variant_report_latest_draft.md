@@ -1,6 +1,6 @@
 # Variant report 2024-05-23
 
-JN.1 descendants continue to be the dominant clade globally, with no known non-JN.1 lineage known. XBB descendants accounted for less than 0.5% of sequences collected in April 2024. Around 5% of global circulation are recombinants of BA.2.86 with XBB lineages that have a BA.2.86-like Spike and are thus antigenically most likely highly similar to BA.2.86/JN.1.
+JN.1 descendants continue to be the dominant clade globally. XBB descendants accounted for less than 0.5% of sequences collected in April 2024. Around 5% of global circulation are recombinants of BA.2.86 with XBB lineages that have a BA.2.86-like Spike and are thus antigenically most likely highly similar to BA.2.86/JN.1.
 
 ## S:F456L now in 70% of JN.1 and growing
 
@@ -14,13 +14,13 @@ The curve is fit well by a simple logistic model with a weekly growth coefficien
 
 Importantly, all the fittest currently known lineages have S:F456L. This means it is more likely than not that S:F456L will remain dominant in the foreseeable future. While it is possible that a BA.2.86 descendant without S:F456L could outcompete the currently fittest lineages, this would likely require an evolutionary leap.
 
-As a result, for vaccine purposes, it might be worth considering adding S:F456L to JN.1 to be as close as possible to the viruses likely to be circulating in around 6 months.
+To maximize antigenic similarity between the vaccine and circulating viruses in the coming months, a JN.1 derived vaccine antigen with S:F456L might be preferable to JN.1 without the change at position 456.
 
 ## Notable lineages
 
-The single fastest growing lineage at the point of writing appears to be KP.3, a JN.1.11.1 (S:F456L + S:V1104L, Pango alias KP, Nextstrain clade 24B) descendant with additional Spike substitution S:Q493E. At the beginning of May, this lineage made up around 10% of sequences, doubling almost every week. Another JN.1.11.1 descendants among the fittest lineages is KP.2.3 having additional S:R346T and S:S31-. The JN.1.11.1 clade was first identified in India but has quickly become become widespread globally.
+The single fastest growing lineage at the point of writing appears to be KP.3, a JN.1.11.1 (S:F456L + S:V1104L, Pango alias KP, Nextstrain clade 24B) descendant with additional Spike substitution S:Q493E. At the beginning of May, this lineage made up around 10% of sequences, doubling almost every week. Another JN.1.11.1 descendants among the fittest lineages is KP.2.3 having additional S:R346T and S:S31-. The JN.1.11.1 clade was first identified in India but has quickly become widespread globally.
 
-Lineage LB.1 (JN.1.9.2.1) might be as fit as KP.3 but it is too early to tell. It has a Spike that is very similar to KP.2.3, just with S:Q183H instead of S:V1104L.
+Lineage LB.1 (JN.1.9.2.1) might be as fit as KP.3, but it is too early to tell. It has a Spike that is very similar to KP.2.3 (it has the additional S:Q183H substitution but lacks S:V1104L).
 
 An interesting lineage that was only recently identified is JN.1.50, with Spike mutations A67V, H445P, L249F in addition to F456L. Small numbers mean it is not yet clear how fit this lineage is.
 
