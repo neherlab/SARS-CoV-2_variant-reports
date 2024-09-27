@@ -1323,7 +1323,7 @@ Predicted to be beneficial for immune escape or ACE2 binding by Bloom lab (limit
 
 - S:A348S is predicted to significantly increase immune escape if added to BA.2, however given its close proximity to S:346T, it is possible that it does not provide any escape beyond that already effected by S:346T. S:A348SS is the defining mutation of DM.1, and has been observed in a number of other lineages. It does not appear to provide a big growth advantage at this point in time.
 - S:Y453F is predicted to significantly boost ACE2 binding, however, whether that is the case in conjunction with other mutations like 493 reversion is unclear. S:Y453F has not been seen widely since the end of 2020. It is known to be a mutation that arose repeatedly in populations of minks. It is the defining mutation of the recently designated Pango lineage DN.1.1.1 (BQ.1.1.5.1.1.1).
-- S:R403K is another mutation with predicted positive effect on ACE2 binding. It is one of the 2 defining mutations of DS.1 (BN.1.3.1.1), besides S:F490S which is predicted to decrease ACE2 binding. The combination could thus potentially be a successful combination.
+- S:R403K is another mutation with predicted positive effect on ACE2 binding. It is one of the 2 defining mutations of DS.1 (BN.1.3.1.1), besides S:F486S which is predicted to decrease ACE2 binding. The combination could thus potentially be a successful combination.
 
 If there was a single mutation that would provide large beneficial effects in BA.5 or BA.2.75, it would have likely become common by now, as can be seen with XBB which quickly acquired the beneficial 486P numerous times independently. Beneficial combinations, however, take a much longer time to evolve and are also harder to predict.
 
