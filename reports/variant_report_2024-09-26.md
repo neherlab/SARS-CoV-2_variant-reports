@@ -1,55 +1,3 @@
-# Variant report 2024-11-04
-
-XEC is becoming dominant in Europe and North America, replacing KP.3.1.1.
-As a reminder, XEC is essentially KP.3.3 (whose spike is identical to KP.3) with extra S:T22N and S:F59S which contrasts to KP.3.1.1 whose spike is KP.3 plus deletion S:S31-.
-The relative advantage of KP.3.1.1 over KP.3 was around 3% per day (doubling every 3 weeks). The relative advantage of XEC over KP.3.1.1 is currently around 4% per day (doubling every 2-3 weeks).
-It's interesting that the two most recent successive replacements were hence driven by N-terminal domain mutations. This is in contrast to the previous replacements which were usually driven by mutations in the receptor binding domain.
-
-Beyond KP.3/XEC, some FLirt lineages (JN.1 + F456L/V having R346T instead of KP.3's Q493E) have developed in Africa and Asia and are also growing in Europe and North America as well.
-It is currently unclear whether the medium-term future will be dominated by a KP.3 descendant (e.g. XEC) or a FLirt lineage.
-It is of course also always possible that a non-JN.1 saltation could change the landscape entirely.
-
-In terms of individual mutations, S:T22N is the most noteworthy, being part of all the currently fittest lineages.
-In particular in China, but also in the rest of the world, position 478 is becoming increasingly polymorphic, with a return of wild type T (mutated since Delta/Omicron) and also the appearance of I, E, and Q.
-
-The rest of the report will describe recently rising lineages.
-
-## LF.7 (R346T, F456L + T22N, S31P, K182R, R190S, K444R)
-
-First sequenced in Cote d'Ivoire, Egypt and Senegal at the end of June 2024, despite low overall sequencing rates in Africa. This strongly suggests it first became common in Africa.
-
-Due to lack of recent samples from Africa, the current prevalence there is unclear. The country with the highest reported proportion in recent sequences is Qatar where LF.7 may have been dominant at the end of September 2024.
-
-In Europe/North America, it is at around 1% in sequences collected at the end of September 2024 but it does not appear to be growing more rapidly than for instance XEC.
-
-## MV.1 (R346T, F456V (!), T22N, S31F, K182N, K478T (rev))
-
-Descendant of MB.1.1 (JN.1.49.1.1.1, R346T, L456V, S31F) which reached 30-40% in India in July 2024. Likely most common in South and South East Asia.
-
-On track to become dominant in Singapore where it surpassed 30% in early October 2024. Also growing in Europe and North America where it is at around 1% in sequences collected end of September 2024. However, it does not currently show a growth advantage over XEC there.
-
-The reversion of 478K to wild type T is interesting: 478K was part of both Delta and Omicron and has hence been the variant at this position that most people have been exposed to through infections since mid-2021. The other amino acid that was common at this position was R which reached around 35% of global circulation in mid 2023 as part of XBB sublineages XBB.1.16 and FL.1.5.1.
-
-Spike mutation 456V is less common than 456L, possibly due to a combination of being due to less frequent T->G mutations (as opposed to T->C).
-
-## ND.1.1 (=LF.8.1.1.1.1, R346T, F456L + T22N, S31F, M153I, K478T (rev))
-
-Very similar mutation profile to MV.1, but with S:F456L instead of S:F456V. It appears most common in Asia but there is no clear indication of where it is most common. Only in around 0.2% of sequences collected end of September 2024, but expected to grow in the coming months.
-
-## Useful resource: Ben Murrell's lineage competition model
-
-Ben Murrell's lineage competition model infers fitness of recurrent mutations as well as fitness of lineages, available at https://github.com/MurrellGroup/lineages
-
-Two example plots from the most recent data update (2024-10-19):
-
-![Recurrent mutations](images/mutations-2024-10.png)
-
-Fig 1: Fitness effect of recurrent mutations in units of multiplicative growth advantage per week if mutation is present. The plot clearly shows the singular importance of T22N.
-
-![Lineages](images/fit-lineages-2024-10.png)
-
-Fig 2: Lineage fitness derived from a combination of observed counts and inferred fitness of recurrent mutations with KP.3.1.1 fixed to 1.0.
-
 # Variant report 2024-09-26
 
 KP.3 (and descendants) is the dominant lineage globally except for China where XDV.1 is still dominant (roughly XBB backbone with the Spike of JN.1 + S:F456L)
@@ -74,7 +22,7 @@ KP.3.3 has been the most successful KP.3 sublineage in East Asia (at ~70% in Jap
 
 This is notable because the increased fitness can only be explained by one or both of the 3' mutations N:R204P and ORF9b:P3H. N:R204P is the result of a fourth mutation G28884C on top of the B.1.1-defining triplet mutation G28881A, G28882A, G28883C that results in N:R203K, G204R. This haplotype has been found to induce structural changes and novel sub-genomic RNA transcripts, which could plausibly enhance viral transcription and replication. The latter codon's further mutation from R to P, has been seen before in a B.1.1.7 lineage, were it appears to have been slightly beneficial (~1% growth advantage per day).
 
-## XEC (KP.3.3 with S:T22N and S:F59S)
+## XEC (KP.3 with S:T22N and S:F59S)
 
 XEC is a recently identified recombinant with ORF1ab and the NTD of spike from KS.1.1 (JN.1.13.1.1.1) and the rest of the genome from KP.3.3.
 
