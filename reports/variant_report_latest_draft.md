@@ -1,5 +1,7 @@
 # Variant report 2024-12-20
 
+NOTE: delayed release on 2025-01-18 -- numbers reflect the state on 2024-12-20.
+
 Caveat: given decreasing rate of sequencing and many countries having stopped sequencing altogether, the data is becoming increasingly sparse and less representative of the global situation. The following report is thus geographically biased towards those countries and regions that still do sequence.
 
 Notable blind spots are continental Africa (no sequences collected in past 30 days, only 30 in last 60 days) and India (no sequences available with collection date in past 90). Additionally, Singapore used to be a good proxy for India and South East Asia but has not shared any sequences since 2024-10-28. The successful US airport arrival surveillance program manages to fill those gaps to some extent.
