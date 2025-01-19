@@ -39,43 +39,6 @@ Based on current data, LP.8.1.1 shows the highest growth rate among known lineag
 - Appears to be or have been dominant in a number of geographically distant countries such as Qatar, the Philippines, and Russia.  well in certain countries: it appears to have been dominant 3 months ago in Qatar and the Philippines, and has recently become dominant in Russia.
 - Appears to show inferior growth compared to LP.8.1 and LP.8.1.1
 
-# Variant report 2024-12-20
-
-- XEC dominant in Europe, North America and Asia
-- LP.8.1 on the rise, apparently commonly exported from Philippines, most common in Asia (e.g. Hong Kong and Japan projected at ~15-20% in sequences collected mid-December), but also appearing in the Americas (projected ~10%), not so much in Europe (reasonable given smaller travel volume)
-- LF.7 + 475V on the rise in Europe (projected ~5%)
-- XDV.1.5.1 in China (with China continuing its relative independence from global trends)
-
-## LP.8.1 (S31-, F186L, R190S, H445R, R346T, Q493E, K1086R)
-
-Mini-saltation, first sequence shared by US airport surveillance from a traveler from the Philippines on 2024-09-06. Second sequence shared by German RKI on 2024-09-12. Afterwards lots of submissions from Singapore and Canada and US airport surveillance (first 5 all from Philippines).
-
-Interestingly, the 30 sequences from the Philippines collected between August and October 2024 indicate LF.7.1 being dominant there.
-
-Effectively a KP.3.1.1 with 5 extra Spike mutations F186L, R190S, R346T, H445R, K1086R.
-
-Sublineage LP.8.1.1 defined by a single extra S:K679R appears to make it even fitter by around 10-30% per week. LP.8.1.1 might already make up more than 50% of LP.8.1. The position is very close to Furin cleavage site, suggesting plausible reason for higher fitness. Site already mutated from wild-type N to K in all Omicrons. The mutation to R has been seen numerous times but it never arose as early in a fast growing lineage's history.
-
-Based on available data, LP.8.1.1 is the fittest known lineage with a doubling time of slightly below 2 weeks - though relative fitness likely varies by country based on the presence of other lineages and the level and type of immunity in the population.
-
-## KP.3.1.1 (S31-, 493E)
-
-- S:A435S has arisen multiple times, most prominently in MC.10.1
-
-## XEC (T22N, F59S, 493E)
-
-- So far no indication of strongly beneficial mutations, clearest one is S:T572I, but growing only slowly
-
-## LF.7 (T22N, S31P, K182R, R190S, R346T, K444R)
-
-- S:A475V very homoplasic (at least 3 large independent clusters)
-
-## Macro trends
-
-- No sign of a new saltation, longest period without one, but need to consider reduced surveillance
-- However, overall rate of lineage replacements of non-saltation is not reduced, similar or even higher levels than in the past, e.g. during the last long period between saltations, when XBB was dominant (2023)
-
-Developments within lineages (extra Spike mutations are listed on top of JN.1 + F456L which is present in all of them)
 
 # Variant report 2024-11-04
 
