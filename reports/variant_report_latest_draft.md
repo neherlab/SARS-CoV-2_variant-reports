@@ -53,7 +53,7 @@ No other site is mutated as commonly as S:456, but there are a number of mutatio
 - S:Q493E in KP.3.1.1, LP.8.1, XEC, NB.1.8.1 (~80%)
 - S:V1104L in KP.3.1.1, LP.8.1, XEC (all JN.1.11.1 descendants) (~80%)
 
-Overall, LP.8.1 is not just the fittest, widespread lineage but also contains the many mutations that are common in other circulating lineages. Hence, LP.8.1 would be a natural candidate for a vaccine update.
+Overall, LP.8.1 is not just the fittest, widespread lineage but also contains many mutations that are common in other circulating lineages. Hence, LP.8.1 would be a natural candidate for a vaccine update.
 
 # Variant report 2024-12-20
 
