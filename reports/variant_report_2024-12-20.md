@@ -1,60 +1,3 @@
-# Variant report 2025-04-23
-
-Lineage replacement pattern continues but there is increasing global diversity in which lineages are the fittest in different countries/regions.
-
-- LP.8.1 dominant or nearly-dominant in North America, most of Europe and Brazil
-- XEC is strong in Japan, LP.8.1 does not appear competitive there. LP.8.1 also relatively weaker in Australia and Singapore
-- LF.7 lineages are dominant in Chile, Singapore
-- China (including Hong Kong) continue to be dominated by XDV sublineages, with sublineage NB.1.8.1 quickly having replaced other XDV lineages
-
-## NB.1.8.1
-
-A recently emerged, fast-growing lineage is NB.1.8.1 (XDV.1.5.1.1.8.1). XDV and sublineages have been dominant in China since mid-2024. In other countries with surveillance it only played a minor role until now. NB.1.8.1 could potentially break this pattern: it has quickly become dominant in Hong Kong and also been detected at increasing frequency globally. However, due to reduced sequencing rates, it is difficult to assess whether the global increase is mostly due to imports or sustained local growth.
-
-NB.1.8.1 (XDV.1.5.1.1.8.1), descends from XDV.1 with additional Spike mutations T22N, F59S, G184S, A435S, K478I, Q493E (sorted by position, not order of acquisition). XDV is a recombinant of JN.1 and XDE which itself is a recombinant of 2 XBB sublineages (GW.5.1 and FL.13.4).
-
-Most of the Spike substitutions acquired over time have been observed globally in other lineages before and are likely beneficial:
-
-- T22N appears in e.g. LF.7, MV.1, XEC
-- F59S appears in e.g. XEC
-- G184S has been uncommon outside of XDV.1.5 but G184V has been seen in some XBB and JN.1.11.1 sublineages
-- A435S appears in e.g. MC.10.1, XEC.25.1, XEC.20.1
-- K478I was observed in XBB sublineage GW.5, a few JN.1 lineages. While not mutated to I, reversion of 478 to T has been commonly observed in JN.1 lineages, in particular in MV.1. 478 has been generally very diverse in all Omicron lineages.
-- Q493E appears in e.g. KP.3, LP.8, XEC
-
-The 2 most recently acquired Spike mutations are Q493E and A435S. Both are convergent across JN.1 sublineages, potentially explaining the onset of growth.
-
-The first NB.1.8.1 sequence was shared by the UK's CLIMB consortium on 2025-02-05. The next 4 submissions came from Hong Kong (2025-02-25), China (2025-02-28, 2025-03-07) and Thailand (2025-03-03). On the 23rd of April, there were 203 NB.1.8.1 sequences on GISAID, half of which had been submitted in the past 14 days indicating relatively rapid growth.
-
-In sequences collected in March 2025 and shared until April 20, NB.1.8.1 was 55% of sequences in Hong Kong (n=67), 35% in China (n=23), 10% in South Korea (n=69), 10% in Taiwan (n=30) and 6% in Singapore (n=278).
-
-## BA.3.2
-
-On March 10, the South African surveillance program announced the detection of a BA.3 saltation lineage, designated BA.3.2, in 3 sequences collected in two provinces between November 2024 and January 2025, out of 228 sequences collected since  November 2024 (i.e. ~1.5% are BA.3.2). It has not been detected in the 40 South African sequences collected since February 2025. Outside of South Africa, there has been only one detection to date, in a sequence collected on 2025-04-02 in the Netherlands.
-
-BA.3.2, thus, appears to be capable of community circulation but there is no evidence of it being competitive with the currently fittest lineages. Nonetheless, its emergence is a reminder that saltations can still occur, even descending from lineages that have not been circulating for nearly 3 years. When BA.2.86 emerged, it only became dominant when it acquired S:L455S (becoming JN.1). BA.3.2 could follow a similar pattern, although BA.2.86 spread more rapidly when it arose, even pre-L455S. The other saltation lineage to have emerged in Southern Africa, recently, BA.2.87.1, ended up not having a global impact.
-
-BA.3.2 and currently circulating JN.1 lineages, e.g. LP.8.1, are slightly more diverged from each other than they are each from the original Wuhan strain. Each have almost 60 substitutions in Spike, with slightly less than 30 of them shared. BA.3.2 also has noteworthy deletions in S1.
-
-For more details on mutational patterns, see the Pango designation issue: <https://github.com/cov-lineages/pango-designation/issues/2909>
-
-## Mutations shared by most fit lineages and implications for vaccine updates
-
-While the most recent common ancestor of almost all diversity is still JN.1 from mid 2023 (as opposed to a more recent variant), there has been widespread convergent evolution. The clearest example is S:F456L which has essentially fixed: less than 1% of sequences still have either the wild type (and JN.1) amino acid F or are mutated to V instead of L.
-
-No other site is mutated as commonly as S:456, but there are a number of mutations that have arisen repeatedly and are in at least a third of sequences collected since March 2025:
-
-- S:T22N in LF.7, XEC, NB.1.8.1 (~40%)
-- S:S31- in KP.3.1.1, LP.8.1 (~50%)
-- S:F59S in XEC, NB.1.8.1 (~33%)
-- S:R190S in LF.7 and LP.8.1 (~45%)
-- S:R346T in LF.7, LP.8.1 (in >50%)
-- S:V445R in LP.8.1 (~33%)
-- S:Q493E in KP.3.1.1, LP.8.1, XEC, NB.1.8.1 (~80%)
-- S:V1104L in KP.3.1.1, LP.8.1, XEC (all JN.1.11.1 descendants) (~80%)
-
-Overall, LP.8.1 is not just the fittest, widespread lineage but also contains many mutations that are common in other circulating lineages. Hence, LP.8.1 would be a natural candidate for a vaccine update.
-
 # Variant report 2024-12-20
 
 NOTE: delayed release on 2025-01-18 -- numbers reflect the state on 2024-12-20.
@@ -97,6 +40,7 @@ Based on current data, LP.8.1.1 shows the highest growth rate among known lineag
 - S:A475V appearing homoplasically in at least 3 large independent clusters
 - Appears to be or have been dominant in a number of geographically distant countries such as Qatar, the Philippines, and Russia.  well in certain countries: it appears to have been dominant 3 months ago in Qatar and the Philippines, and has recently become dominant in Russia.
 - Appears to show inferior growth compared to LP.8.1 and LP.8.1.1
+
 
 # Variant report 2024-11-04
 
