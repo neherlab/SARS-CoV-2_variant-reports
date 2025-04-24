@@ -38,16 +38,22 @@ BA.3.2 and currently circulating JN.1 lineages, e.g. LP.8.1, are slightly more d
 
 For more details on mutational patterns, see the Pango designation issue: <https://github.com/cov-lineages/pango-designation/issues/2909>
 
-## Mutations shared by most fit lineages
+## Mutations shared by most fit lineages and implications for vaccine updates
 
-While the fittest lineages come from a variety of JN.1 lineages (e.g. LF.7, LP.8.1, XEC, KP.3.1.1), some mutations are shared by many of them compared to JN.1, though none have fixed yet:
+While the most recent common ancestor of almost all diversity is still JN.1 (and not something more recent), there has been widespread convergent evolution. The clearest example is S:F456L which has essentially fixed: less than 1% of sequences still have wild type (and JN.1) F or are mutated to V instead of L.
 
-- S:T22N in LF.7, XEC, NB.1.8.1
-- S:S31- in KP.3.1.1, LP.8.1
-- S:F59S in XEC, NB.1.8.1
-- S:R190S in LF.7 and LP.8.1
-- S:R346T in LF.7, LP.8.1
-- S:Q493E in KP.3.1.1, LP.8.1, XEC, NB.1.8.1
+No other site can compare S:456, but there are a number of mutations that have arisen repeatedly and are in at least a third of sequences collected since March 2025:
+
+- S:T22N in LF.7, XEC, NB.1.8.1 (~40%)
+- S:S31- in KP.3.1.1, LP.8.1 (~50%)
+- S:F59S in XEC, NB.1.8.1 (~33%)
+- S:R190S in LF.7 and LP.8.1 (~45%)
+- S:R346T in LF.7, LP.8.1 (in >50%)
+- S:V445R in LP.8.1 (~33%)
+- S:Q493E in KP.3.1.1, LP.8.1, XEC, NB.1.8.1 (~80%)
+- S:V1104L in KP.3.1.1, LP.8.1, XEC (all JN.1.11.1 descendants) (~80%)
+
+Overall, LP.8.1 is not just the fittest, widespread lineage but also contains the mutations that are also common in other circulating lineages. Hence, LP.8.1 would be a natural candidate for a vaccine update.
 
 # Variant report 2024-12-20
 
