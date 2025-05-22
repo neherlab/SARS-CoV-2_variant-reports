@@ -1,43 +1,3 @@
-# Variant report 2025-05-21
-
-## Global overview
-
-Based on sequences collected in 2025 and shared until 2025-05-18:
-
-- XEC continues declining and is no longer dominant in almost all countries, except for Japan where it is still dominant and growing.
-- LP.8.1 is dominant in North America, parts of South America (Brazil), much of Europe and South Africa (the only continental African country with more than 10 sequences from 2025). It is still growing in Australia.
-- LF.7 appears to have peaked. In Russia and Peru it was was dominant in Q1 2025 and at around 40% in Singapore and Chile.
-- NB.1.8.1 is growing globally. It is dominant in Hong Kong and China and at 5-30% in most other countries with sequences collected end of April 2025.
-- XFG (described below) is most common in North America and Europe where it is growing around as fast as NB.1.8.1 and at similar frequencies.
-
-## XFG
-
-XFG is a recombinant of LF.7 and LP.8.1.2, with the region S:445-S:572 from LP.8.1.2, adding S:H445R, S:N487D, S:Q493E, S:T572I to an LF.7 backbone.
-
-It was first detected in Canada (Quebec) with 2 sequences were shared on 2025-02-14 and 2025-02-25, followed by a sequence from the US (NY, shared 2025-02-28) and Spain (Catalonia, shared 2025-03-04).
-
-XFG is most common in North America and Europe, where it made up around 10% of sequences collected at the end of April. It has also been sequenced sporadically in Australia, New Zealand and Singapore.
-
-### Comparison of XFG and NB.1.8.1
-
-In Europe and North America, both XFG and NB.1.8.1 are at similar frequencies and growing at similar rates (doubling every 1-2 weeks). It is currently unclear which lineage will be more successful in the long run.
-
-Per [recent work by Yunlong Cao's group](https://www.biorxiv.org/content/10.1101/2025.04.30.651462v1), NB.1.8.1 has relatively higher ACE2 binding affinity than XFG but lower immune escape (in serum neutralization assays using breakthrough infection samples). This could result in the two lineages becoming dominant in different regions, depending on prior lineage exposure, vaccination history and population immunity.
-
-Comparing Spike substitutions in LP.8.1, XFG and NB.1.8.1:
-
-- LP.8.1 and XFG share S:R190S, S:R346T, and S:H445R
-- XFG and NB.1.8.1 share S:T22N
-- LP.8.1 is the only with S:S31-, S:F186L, S:K1086R, and S:V1104L
-- XFG is the only one with S:S31P, S:K182R, S:K444R, S:N487D, and S:T572I
-- NB.1.8.1 is the only one with S:F59S, S:G184S, S:A435S, and S:T478I
-
-Outside of Spike there are also some interesting differences:
-
-- NB.1.8.1 has inherited all of ORF1a, some of ORF1b, and some of N from XBB
-- NB.1.8.1 and LP.8.1.1 share independently acquired ORF1a:T2283I
-- NB.1.8.1 and XFG share independently acquired ORF9b:I5T
-
 # Variant report 2025-04-23
 
 Lineage replacement pattern continues but there is increasing global diversity in which lineages are the fittest in different countries/regions.
@@ -89,7 +49,7 @@ No other site is mutated as commonly as S:456, but there are a number of mutatio
 - S:F59S in XEC, NB.1.8.1 (~33%)
 - S:R190S in LF.7 and LP.8.1 (~45%)
 - S:R346T in LF.7, LP.8.1 (in >50%)
-- S:H445R in LP.8.1 (~33%)
+- S:V445R in LP.8.1 (~33%)
 - S:Q493E in KP.3.1.1, LP.8.1, XEC, NB.1.8.1 (~80%)
 - S:V1104L in KP.3.1.1, LP.8.1, XEC (all JN.1.11.1 descendants) (~80%)
 
