@@ -1,15 +1,3 @@
-# Variant report 2025-06-XX
-
-## XFJ
-
-XFJ is a recombinant of a sublineage of LS.2 and LF.7.2 with 3 breakpoints: LS.2-(8818-12892)-LF.7.2-(22792-22893)-LS.2-(27414-28297)-LF.7.2.
-
-The LS.2 donor is a JN.1 with S:R346T, S:445P, S:F456L, S:T791A. Of the 24 sequences, 2 are notably from Senegal.
-
-XFJ's Spike is LF.7 with extra Spike mutations S:L441R, S:R444K, S:H445P, S:A475V, S:T791A. The same Spike is also found in XFM and XFP.
-
-The first sequence was shared on 2025-03-25 by the US CDC (collection date 2025-03-13), followed by one submission each from Ireland's St Vincent Hospital, US NYC Department of Health, and France's CNR Virus des Infections Respiratoires on 2025-03-28 (collection dates 2025-03-24, 2025-03-14, 2025-03-11). The earliest known sequence is from Germany with collection date 2025-03-10. The earliest travel-linked sequence is from a traveler from Ethiopia to the US.
-
 # Variant report 2025-05-21
 
 ## Global overview
