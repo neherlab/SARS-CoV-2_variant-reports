@@ -1,6 +1,138 @@
-# Variant report 2025-06-XX
+# Variant report 2025-08-XX
 
-## XFJ
+## XFG is generally outcompeting NB.1.8.1
+
+XFG is now dominant in most with recent sequencing data, with the exception of (South) East Asia and Oceania where NB.1.8.1 is still more prevalent.
+
+All data so far is consistent with XFG being overall fitter than NB.1.8.1, with XFG rising even in countries where NB.1.8.1 is still dominant, such as Australia, New Zealand, Thailand, Japan, etc.
+
+However, it is possible that in the countries where NB.1.8.1 is still dominant, XFG's growth advantage is smaller than in countries where XFG is already dominant. In the past, a similar geographic pattern of lower growth advantage in (South) East Asia and Oceania has been observed, e.g. with XEC being dominant in Japan for much longer than in Europe and North America. This could be explained by different population immunity profiles due to differing overall infection histories (e.g. China, Australia, and New Zealand having their first big infection waves ~1-2 years after most other countries with Omicrons as opposed to pre-Omicrons.
+
+The graphs below (derived from a customized run of https://nextstrain.org/sars-cov-2/forecasts with more countries and clades) show the observed and predicted prevalence of XFG and NB.1.8.1 in countries with recent sequencing data.
+
+![XFG prevalence across countries](./images/xfg.png)
+Fig 1: XFG prevalence across countries, with observations marked as dots and a hierarchical multinomial logistic regression fit as a line with 95% confidence intervals. Note the logistic y axis.
+
+![NB.1.8.1 prevalence across countries](./images/nb.1.8.1.png)
+Fig 2: NB.1.8.1 prevalence across countries, with observations indicated as dots and a pooled multinomial logistic regression fit as a line with 95% confidence intervals. Note the logistic y axis.
+
+### Emerging diversity within XFG
+
+Given the rapid growth of XFG, there is a surprising diversity in circulating XFG already, with around 5-12 mutations on top of the common ancestor, suggesting a somewhat older most recent common ancestor than NB.1.8.1, likely from somewhere in South Asia.
+
+Within XFG, a few sublineages have been designated, but there's no clear patter of significant growth advantage yet. Growth of XFG.3 appears to be mostly due to chance and absence of deleterious substitutions rather than a specific mutation conferring a growth advantage. Below is a selection of notable sublineages with Spike mutations:
+
+- XFG.3.4.1 has S:S680P which might confer a growth advantage of a few percent per day, similar to S:K679R in LP.8.1.1
+- XFG.6 has S:L441I, a site that when mutated to R has been beneficial in LF.7.9 and LF.7.6.2
+- XFG.3.1 has S:D1084G
+- XFG.14 has S:K529T
+- XFG.1 has S:E96D and S:R445P
+
+### Emerging diversity within NB.1.8.1
+
+Within NB.1.8.1 (alias PQ), the reversion S:I478T is very homoplasic and might offer a substantial growth advantage over NB.1.8.1's ancestral state. There are numerous designated sublineages with this mutation (PQ.1.2, PQ.2.1, PQ.8.1, PQ.9.1, PQ.10.1, PQ.13.1 as well as a catch-all PQ.17 on the NB.1.8.1 polytomy to label the many sublineages that have not yet been broken out yet). Overall, sublineage PQ.2, defined by extra mutation ORF3a:W193R, appears to have a small but consistent growth advantage over basal NB.1.8.1
+
+## BA.3.2
+
+In the short term, XFG and NB.1.8.1 appear to be unchallenged by other lineages. However, over the next few months, BA.3.2 could become a competitor globally. While there are only 14 sequences to date (counting the 2 US airport surveillance sequences as one, because they are from the same person, also not counting the cultured South African sequence as there's an NICD sequence as well), BA.3.2 has been growing in Southern Africa (5 of 21 available South African sequences with collection date April 2025 or later, and the only Mozambique sequence since February 2025). It has also been increasingly frequently detected abroad (Netherlands twice, Germany, US, Australia). 7 out of the 14 sequences were shared in July 2025, compared to 3 in June, 1 in April, and 3 in March.
+
+### BA.3.2 diversity: BA.3.2.2 appears fitter than BA.3.2.1
+
+The actual BA.3.2 ancestor has actually never been observed, at least not yet. All detections have been of one of two sublineages, each differing from the reconstructed ancestor BA.3.2 by 2 Spike substitutions.
+
+Initially, most detections of BA.3.2 were BA.3.2.1: BA.3.2 with extra S:H681R and S:P1162R: 2 out of 3 initial South African shared in March, the 2 Dutch shared in April and July, and the US sequence shared in June.
+
+However, most recent detections have been BA.3.2.2 (BA.3.2 with extra S:K356T, S:A575S): 6 South African (1 shared in March, 1 in June, 4 in July), 1 German shared in June and 1 each from Mozambique and Australia (both shared in July).
+
+S:K356T has been a known beneficial mutation in BA.2.75 and XBB backgrounds, and is part of all BA.2.86. It is thus plausible that BA.3.2.2 has a growth advantage over ancestral BA.3.2 and also BA.3.2.1. This could mirror what happened with BA.2.86, which initially had similar fitness to XBB and only outcompeted it after acquiring S:L455S (becoming JN.1).
+While BA.3.2 is circulating, it remains a lineage to watch. It could become dominant within a few months, especially if it acquires another beneficial mutation, with an increasing number of detections. It could remain a minor lineage with a steady rate of new detections, or it could disappear with few more detections.
+
+The table below shows all BA.3.2 sequences submitted before August 5, 2025
+
+| Virus Name                              | Lineage  | Accession        | Collection Date | Submission Date | Location                       | Notes                                              |
+| --------------------------------------- | -------- | ---------------- | --------------- | --------------- | ------------------------------ | -------------------------------------------------- |
+| hCoV-19/Australia/WA17182/2025          | BA.3.2.2 | EPI_ISL_20094964 | 2025-07-15      | 2025-07-30      | Australia/Western Australia    |                                                    |
+| hCoV-19/Mozambique/INS-PMB0734918/2025  | BA.3.2.2 | EPI_ISL_20081191 | 2025-03-17      | 2025-07-18      | Mozambique/Maputo Province     |                                                    |
+| hCoV-19/South Africa/NICD-N58960/2025   | BA.3.2.2 | EPI_ISL_20075832 | 2025-05-30      | 2025-07-15      | South Africa/Gauteng           |                                                    |
+| hCoV-19/South Africa/NICD-R05291/2025   | BA.3.2.2 | EPI_ISL_20075682 | 2025-06-12      | 2025-07-15      | South Africa/Gauteng           |                                                    |
+| hCoV-19/Netherlands/NH-RIVM-145636/2025 | BA.3.2.1 | EPI_ISL_20064494 | 2025-06-18      | 2025-07-07      | Netherlands/Noord-Holland      |                                                    |
+| hCoV-19/South Africa/NICD-R04779/2025   | BA.3.2.2 | EPI_ISL_20059244 | 2025-05-26      | 2025-07-02      | South Africa/North West        |                                                    |
+| hCoV-19/South Africa/NICD-R04410/2025   | BA.3.2.2 | EPI_ISL_20058295 | 2025-05-12      | 2025-07-02      | South Africa/North West        |                                                    |
+| hCoV-19/USA/CA-GBW-GKISBBBG92145/2025   | BA.3.2.1 | EPI_ISL_20054259 | 2025-06-17      | 2025-06-27      | USA/California                 |                                                    |
+| hCoV-19/USA/CA-GBW-GKPLAAAA62275/2025   | BA.3.2.1 | EPI_ISL_20054258 | 2025-06-17      | 2025-06-27      | USA/California                 | Pooled sample from same patient as USA/CA-GBW-GKIS |
+| hCoV-19/South Africa/NICD-R03487/2025   | BA.3.2.2 | EPI_ISL_19895539 | 2025-04-04      | 2025-06-05      | South Africa/Western Cape      |                                                    |
+| hCoV-19/Germany/NW-RKI-I-1148174/2025   | BA.3.2.2 | EPI_ISL_19893762 | 2025-04-29      | 2025-06-04      | Germany/North Rhine-Westphalia |                                                    |
+| hCoV-19/South Africa/SigOG_BA32/2024    | BA.3.2.1 | EPI_ISL_19885628 | 2024-11-22      | 2025-05-28      | South Africa/Gauteng           | Cultured virus, same patient as NICD-N58822        |
+| hCoV-19/Netherlands/NH-RIVM-145312/2025 | BA.3.2.1 | EPI_ISL_19835617 | 2025-04-02      | 2025-04-18      | Netherlands/Noord-Holland      |                                                    |
+| hCoV-19/South Africa/NICD-N58843/2024   | BA.3.2.1 | EPI_ISL_19771108 | 2024-11-24      | 2025-03-10      | South Africa/Gauteng           |                                                    |
+| hCoV-19/South Africa/NICD-N58822/2024   | BA.3.2.1 | EPI_ISL_19771107 | 2024-11-22      | 2025-03-10      | South Africa/Gauteng           |                                                    |
+| hCoV-19/South Africa/NICD-R00178/2025   | BA.3.2.2 | EPI_ISL_19771105 | 2025-01-10      | 2025-03-10      | South Africa/KwaZulu-Natal     |                                                    |
+
+## Sequencing rates
+
+Sequencing rates are now about 1% of what they were at their peak at the turn of the year 2021/22, and down around a factor of 3 compared to July 2024.
+
+There were around 15k sequences with collection date within the most recent 2 months available on GISAID at the end of July.
+
+The distribution across continents is very unequal: 5771 from Europe, 4253 from North America, 3404 from Asia, 1615 from Oceania, 267 from South America, and 78 from Africa.
+
+Per population, the highest ratio is thus Oceania with 30 recent sequences per million inhabitants, followed by Europe with 13, North America with 7, Asia with 0.7, South America with 0.5, and Africa with 0.05. The ratio between highest and lowest per capita sequencing rate is thus 600.
+
+The plot below shows the number of recent sequences (with recency defined as within N months of the x-axis date) available since the start of the pandemic (note the log y axis). For example, the highlighted point in blue shows that at the end of July, there were 3.4k sequences with collection date of July 2025 or later. A year earlier, at the end of July 2024, there were 14.8k sequences available with collection date of July 2024 or later:
+
+![Sequencing rates throughout the pandemic](images/sequencing-rates.png)
+
+Fig 3: Number of recent sequences available on GISAID (log y axis) at various points in time across the pandemic (x-axis) and with different cutoffs for recency (different lines).
+
+## Summary of relevant lineages
+
+- XFG has become dominant, for a fast growing lineage, there is a relatively high amount of diversity already. in particular XFG.3.4.1 with extra S680P conferring a surprisingly large apparent growth advantage for a non-RBD mutation
+- NB.1.8.1 still dominant in China and some Asian countries but otherwise declining, I478T reversion very homoplasic in NB.1.8.1
+- With more data uploaded from Asian countries, it appears XFG first became big in South Asia
+- LF.7.9.1 also big in South Asia but apparently not competitive with XFG (recall that XFG is mostly LF.7 with LP.8.1.2 S445-S572)
+- BA.3.2 slowly increasing in South Africa, also sequenced in Mozambique, and detected in US (traveller), Netherlands (2x) and Germany. Very few recent sequences o unclear if it can compete with XFG.
+- LP.8.1 largely replaced by XFG, though NW.1.2 (LP.8.1 with extra N487D, A1174V, T22N) still growing in some regions, e.g. Australia
+- XFQ is a recently identified LF.7.1.10/XFG.3.1 recombinant with Spike being XFG with extra D1084G, found in 2 of 14 sequences collected in 2025 from Bangladesh, but only 20 sequences so far so too early to tell whether it has any growth advantage over XFG.3
+
+Comments on mutations:
+
+- 493E has essentially fixed. The only circulating lineages without it are the LF.7\* and it seems they have to acquire it to be competitive - the fastest way is recombination as most other lineages hae 493E now, hence we get all the XFJ, XFG, ...
+- ORF9b:I5T has become dominant again, second time in the row after it was in a majority of XBB in 2023. It's present in NB.1.8.1 (descended from XBB through recombination) and has independently arisen in LF.7
+- S:T22N has now also essentially fixed, having been very homoplasic and beneficial in many lineages. It's in NB.1.8.1 and XFG and likely there to stay.
+- T572I is finally in the majority of sequences, having been slightly beneficial for years and peaked twice at around 20%. With XFG, it's for the first time in a dominant variant from the start, rather than as a late addition to an already established variant.
+- R346T remains in the majority, being in almost all circulating lineages except for NB.1.8.1 and what remains of XEC.
+- Various mutations in the region S:182-190, none is in both NB.1.8.1 and XFG. XFG has K182R, R190S. NB.1.8.1 has G184S. Other previously successful mutations in this region are K182N (MV.1, KP.1.1.1, XEC.11, XBB.2.3.3), Q183H (XBB, JN.1.9), F186L (LP.8.1, XAY). It seems a range of mutations are slightly beneficial here, without a clear winner.
+- S:A435S has been very homoplasic and beneficial in various KP.3 and XEC lineages, and is in all of NB.1.8.1. It hasn't arisen in LP.8.1 or XFG. Unclear.
+- S:L441R (T22884G) is in LF.7.9 and LF.7.6.2 and recombinents descendant from them.
+- S:K444R is in LF.7 and sublineages, it's a known site from BA.2.3.20, and (as K444T) also BQ.1 (BA.5*), CH.1.1 (BA.2.75*)
+- S:445 is :
+  - V in Wuhan,
+  - H in JN.1,
+  - R in LP.8.1 and XFG
+  - P extremely homoplasic,e.g. LB.1.3.1, MV.1.1.1, LF.7.9, LF.7.1.10, LF.7.6.2, XFJ, XFP (it was also P in XBB)
+- S:475V has been homoplasic, but never getting above 10% overall
+
+One site that hasn't been settled yet is S:31: it's been very polymorphic in JN.1, the deletion S:S31- having become dominant via KP.3.1.1, KP.2.3, KP.1.1.3, LB.1, LP.8.1. However, S:S31P appears the best, rising steadily since mid-2024, mostly as part of LF.7 and its (recombinant) descendants. S:S31P is now dominant, but not yet fixed, as there's still LP.8.1 and NB.1.8.1 around.
+
+So the reason we're now seeing recombinants is: LF.7 is very good, except it doesn't have 493E. With almost everything else having 493E, the fastest way to get competitive is to recombine a 493E lineage with LF.7.
+
+Potentially beneficial mutations not yet part of XFG:
+
+- S:H445P
+- S:L441R
+- S:A435S
+- S:A475V
+- S:K478T (rev)
+- S:N679R
+- S:S680P: already rising as XFG.3.4.1
+
+## Recently emerged variants of interest
+
+### BA.3.2
+
+### LF.7.9 and PY.1 (LF.7.9.1.1)
+
+### XFJ
 
 XFJ is a recombinant of a sublineage of LS.2 and LF.7.2 with 3 breakpoints: LS.2-(8818-12892)-LF.7.2-(22792-22893)-LS.2-(27414-28297)-LF.7.2.
 
@@ -9,6 +141,10 @@ The LS.2 donor is a JN.1 with S:R346T, S:445P, S:F456L, S:T791A. Of the 24 seque
 XFJ's Spike is LF.7 with extra Spike mutations S:L441R, S:R444K, S:H445P, S:A475V, S:T791A. The same Spike is also found in XFM and XFP.
 
 The first sequence was shared on 2025-03-25 by the US CDC (collection date 2025-03-13), followed by one submission each from Ireland's St Vincent Hospital, US NYC Department of Health, and France's CNR Virus des Infections Respiratoires on 2025-03-28 (collection dates 2025-03-24, 2025-03-14, 2025-03-11). The earliest known sequence is from Germany with collection date 2025-03-10. The earliest travel-linked sequence is from a traveler from Ethiopia to the US.
+
+### XFV
+
+XFG.3.3 (i.e. extra S:S680F) and some extra ORF1a
 
 # Variant report 2025-05-21
 
@@ -82,7 +218,7 @@ In sequences collected in March 2025 and shared until April 20, NB.1.8.1 was 55%
 
 ## BA.3.2
 
-On March 10, the South African surveillance program announced the detection of a BA.3 saltation lineage, designated BA.3.2, in 3 sequences collected in two provinces between November 2024 and January 2025, out of 228 sequences collected since  November 2024 (i.e. ~1.5% are BA.3.2). It has not been detected in the 40 South African sequences collected since February 2025. Outside of South Africa, there has been only one detection to date, in a sequence collected on 2025-04-02 in the Netherlands.
+On March 10, the South African surveillance program announced the detection of a BA.3 saltation lineage, designated BA.3.2, in 3 sequences collected in two provinces between November 2024 and January 2025, out of 228 sequences collected since November 2024 (i.e. ~1.5% are BA.3.2). It has not been detected in the 40 South African sequences collected since February 2025. Outside of South Africa, there has been only one detection to date, in a sequence collected on 2025-04-02 in the Netherlands.
 
 BA.3.2, thus, appears to be capable of community circulation but there is no evidence of it being competitive with the currently fittest lineages. Nonetheless, its emergence is a reminder that saltations can still occur, even descending from lineages that have not been circulating for nearly 3 years. When BA.2.86 emerged, it only became dominant when it acquired S:L455S (becoming JN.1). BA.3.2 could follow a similar pattern, although BA.2.86 spread more rapidly when it arose, even pre-L455S. The other saltation lineage to have emerged in Southern Africa, recently, BA.2.87.1, ended up not having a global impact.
 
@@ -147,7 +283,7 @@ Based on current data, LP.8.1.1 shows the highest growth rate among known lineag
 ### LF.7 (T22N, S31P, K182R, R190S, R346T, K444R on JN.1 + F456L)
 
 - S:A475V appearing homoplasically in at least 3 large independent clusters
-- Appears to be or have been dominant in a number of geographically distant countries such as Qatar, the Philippines, and Russia.  well in certain countries: it appears to have been dominant 3 months ago in Qatar and the Philippines, and has recently become dominant in Russia.
+- Appears to be or have been dominant in a number of geographically distant countries such as Qatar, the Philippines, and Russia. well in certain countries: it appears to have been dominant 3 months ago in Qatar and the Philippines, and has recently become dominant in Russia.
 - Appears to show inferior growth compared to LP.8.1 and LP.8.1.1
 
 # Variant report 2024-11-04
@@ -210,9 +346,9 @@ KP.3 (and descendants) is the dominant lineage globally except for China where X
 
 KP.3 (Nextstrain clade 24C) is a JN.1.11.1 (JN.1 + S:F456L + S:V1104L, Pango alias KP, Nextstrain clade 24B) descendant with additional Spike substitution S:Q493E. This site was Q in the original A/B lineages but mutated to R in the ancestral Omicrons BA.1, BA.2 and BA.3. It reverted back to Q in BA.4/5 and all successful BA.2 descendants (e.g. BA.2.75, XBB, BA.2.86). The substitution to E was rare until KP.3, observed most notably at low proportions in Delta lineages AY.4 and AY.49.
 
-With the exception of China, KP.3* accounted for 60-95% of sequences collected at the beginning of September, with the US at the lower end, and Europe and Japan at the upper end of the range.
+With the exception of China, KP.3\* accounted for 60-95% of sequences collected at the beginning of September, with the US at the lower end, and Europe and Japan at the upper end of the range.
 
-Given that 493E has not been beneficial until recently, it is possible that it confers immune escape at the expense of intrinsic fitness. This means that it is possible that KP.3 will eventually (over the course of months to years) be outcompeted by a lineage with ancestral 493Q. The currently fittest lineages with ancestral 493Q are KP.2.3*, KP.1.1.3* and LB.1, in particular  the sublineage LB.1.3.1 (extra S:H445P).
+Given that 493E has not been beneficial until recently, it is possible that it confers immune escape at the expense of intrinsic fitness. This means that it is possible that KP.3 will eventually (over the course of months to years) be outcompeted by a lineage with ancestral 493Q. The currently fittest lineages with ancestral 493Q are KP.2.3*, KP.1.1.3* and LB.1, in particular the sublineage LB.1.3.1 (extra S:H445P).
 
 ## KP.3.1.1 (S:31-)
 
