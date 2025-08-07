@@ -45,7 +45,7 @@ In the short term, XFG and NB.1.8.1 appear to be unchallenged by other lineages.
 
 ### BA.3.2 diversity: BA.3.2.2 appears fitter than BA.3.2.1
 
-The actual BA.3.2 ancestor has actually never been observed, at least not yet. All detections have been of one of two sublineages, each differing from the reconstructed ancestor BA.3.2 by 2 Spike substitutions.
+The actual BA.3.2 ancestor has never been observed, at least not yet. All detections have been of one of two sublineages, each differing from the reconstructed ancestor BA.3.2 by 2 Spike substitutions.
 
 Initially, most detections of BA.3.2 were BA.3.2.1: BA.3.2 with extra S:H681R and S:P1162R: 2 out of 3 initial South African shared in March, the 2 Dutch shared in April and July, and the US sequence shared in June.
 
@@ -100,7 +100,7 @@ Below are some more Spike mutations that are common but not yet dominant:
 - S:L441R (T22884G) is in LF.7.9 and LF.7.6.2 and recombinants descendant from them.
 - S:K444R is in LF.7 and sublineages, it's a known site from BA.2.3.20, and (as K444T) also BQ.1 (BA.5*), CH.1.1 (BA.2.75*)
 - S:445 is:
-  - V in Wuhan,
+  - V in Wuhan-Hu-1,
   - H in JN.1 and NB.1.8.1
   - R in LP.8.1 and XFG
   - P extremely homoplasic, e.g. LB.1.3.1, MV.1.1.1, LF.7.9, LF.7.1.10, LF.7.6.2, XFJ, XFP (it was also P in XBB)
