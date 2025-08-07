@@ -54,23 +54,9 @@ However, most recent detections have been BA.3.2.2 (BA.3.2 with extra S:K356T, S
 S:K356T has been a known beneficial mutation in BA.2.75 and XBB backgrounds, and is part of all BA.2.86. It is thus plausible that BA.3.2.2 has a growth advantage over ancestral BA.3.2 and also BA.3.2.1. This could mirror what happened with BA.2.86, which initially had similar fitness to XBB and only outcompeted it after acquiring S:L455S (becoming JN.1).
 While BA.3.2 is circulating, it remains a lineage to watch. It could become dominant within a few months, especially if it acquires another beneficial mutation, with an increasing number of detections. It could remain a minor lineage with a steady rate of new detections, or it could disappear with only a few more detections.
 
+### All BA.3.2 sequences (Submitted by August 5, 2025)
+
 The table below shows all BA.3.2 sequences submitted before August 5, 2025
-
-## Executive Summary
-
-**Key Findings as of August 7, 2025:**
-
-1. **XFG is outcompeting NB.1.8.1 globally**, becoming dominant in most regions except Southeast Asia and Oceania where NB.1.8.1 still prevails. XFG shows consistent growth advantage even in NB.1.8.1-dominant countries.
-
-2. **BA.3.2 emerging as potential competitor** - Despite only 14 sequences to date, BA.3.2 shows increasing detection frequency (7 sequences in July 2025 vs 3 in June) and geographic spread. Sublineage BA.3.2.2 appears fitter than BA.3.2.1 due to beneficial S:K356T mutation.
-
-3. **Key mutations approaching fixation**: S:Q493E has become the second substitution to fix post-JN.1 (after S:F456L), with S:T22N and ORF9b:I5T also essentially fixed across dominant lineages.
-
-4. **Sequencing surveillance critically low**: Current sequencing rates are ~1% of peak levels (2021/22) and down 3-fold from July 2024, with extreme geographic disparities (600-fold difference between highest and lowest per-capita rates).
-
----
-
-## BA.3.2 Sequences (Submitted before August 5, 2025)
 
 | Virus Name                              | Lineage  | Accession        | Collection Date | Submission Date | Location                       |
 | --------------------------------------- | -------- | ---------------- | --------------- | --------------- | ------------------------------ |
