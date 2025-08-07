@@ -3,7 +3,7 @@
 ## Summary
 
 1. XFG is outcompeting NB.1.8.1 globally, becoming dominant in most regions except Southeast Asia and Oceania where NB.1.8.1 still prevails. XFG shows consistent growth advantage even in NB.1.8.1-dominant countries.
-1. BA.3.2 emerging as potential competitor: - Despite only 14 sequences to date, BA.3.2 shows increasing detection frequency (7 sequences in July 2025 vs 3 in June) and geographic spread. Sublineage BA.3.2.2 appears fitter than BA.3.2.1, potentially due to beneficial S:K356T mutation.
+1. BA.3.2 emerging as potential competitor: Despite only 14 sequences to date, BA.3.2 shows increasing detection frequency (7 sequences in July 2025 vs 3 in June) and geographic spread. Sublineage BA.3.2.2 appears fitter than BA.3.2.1, potentially due to beneficial S:K356T mutation.
 1. Key mutations approaching fixation: S:Q493E has become the second substitution to fix post-JN.1 (after S:F456L), with S:T22N and ORF9b:I5T also essentially fixed across dominant lineages.
 1. Sequencing rates continue to drop: Current sequencing rates are ~1% of peak levels (2021/22) and down 3-fold from July 2024, with extreme geographic disparities (600-fold difference between highest and lowest per-capita rates by continent).
 
@@ -77,7 +77,7 @@ The table below shows all BA.3.2 sequences submitted before August 5, 2025
 | hCoV-19/South Africa/NICD-N58822/2024   | BA.3.2.1 | EPI_ISL_19771107 | 2024-11-22      | 2025-03-10      | South Africa/Gauteng           |
 | hCoV-19/South Africa/NICD-R00178/2025   | BA.3.2.2 | EPI_ISL_19771105 | 2025-01-10      | 2025-03-10      | South Africa/KwaZulu-Natal     |
 
-¹ Pooled sample from same patient as hCoV-19/USA/CA-GBW-GKPLAAAA62275/2025
+¹ Pooled sample from same patient as hCoV-19/USA/CA-GBW-GKISBBBG92145/2025
 ² Cultured virus, likely same patient as hCoV-19/South Africa/NICD-N58822/2024
 
 ## Mutation patterns across fit lineages
