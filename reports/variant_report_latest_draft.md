@@ -1,3 +1,48 @@
+# Variant report 2026-04-21
+
+## Summary
+
+Globally, 3 variants and their sublineages are dominant in different regions: BA.3.2, XFG and NB.1.8.1. Overall, BA.3.2 appears to be the fittest but only by a small margin. Within XFG and NB.1.8.1, some evolution is happening, but not to the extent that either of the 3 variants is clearly outcompeting the other two. The fittest lineages within XFG and NB.1.8.1 appear competitive with BA.3.2.
+
+### By variant
+
+BA.3.2.2 now dominant or almost so in Europe, South Korea and Australia. Growing in North America.
+
+XFG dominant in Americas, in particular South America where there is still little presence of BA.3.2 or NB.1.8.1.
+
+NB.1.8.1 dominant in China and Japan, growing in other regions as well.
+
+Those 3 variants are the main drivers, but some extra diversity exists such as PL.3 (an LF.7.1.10 sublineage) dominant in Kenya but rare elsewhere, or PE.1 (MC.10.2.1 sublineage) present at 10-20% in Oceania.
+
+### By region
+
+In Europe, BA.3.2 has become dominant or nearly dominant in most countries with XFG in second place. NB.1.8.1 is present at around 10%.
+
+In North America, XFG is dominant but BA.3.2 is growing steadily, currently at 10-15%. At current rates, BA.3.2 might become dominant in 4-8 months. NB.1.8.1 is present at 10-20%.
+
+In South America, XFG is completely dominant with little presence of BA.3.2 and NB.1.8.1.
+
+In East Asia, NB.1.8.1 is completely dominant in China, but BA.3.2 is growing steadily in Japan and South Korea - in South Korea, BA.3.2 might already be dominant.
+
+For South and Southeast Asia, data is very sparse. The best available data is from Singapore where XFG, NB.1.8.1 and LF.7 make up around a third each, with BA.3.2 just starting to be detected.
+
+In Oceania, BA.3.2 is becoming dominant, slowly replacing XFG and NB.1.8.1.
+
+In Africa, data is sparse and varied. In South Africa, XFG appears to be dominant, but BA.3.2 is growing. In Ghana, all recent sequences are XFG. In Kenya, almost all recent sequences are PL.3, an LF.7.1.10 sublineage.
+
+## Within-variant evolution
+
+### XFG
+
+- RV.1 (XFG.23.1.3) with S:L335F, S:S446N, S:A1174V
+- XFG.1.1 with 
+
+
+### BA.3.2
+
+
+### NB.1.8.1
+
 # Variant report 2025-08-07
 
 ## Summary
