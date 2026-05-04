@@ -2,7 +2,7 @@
 
 ## Summary
 
-Globally, 3 variants and their sublineages are dominant in different regions: BA.3.2, XFG and NB.1.8.1. Overall, BA.3.2 appears to be the fittest but only by a small margin. Within XFG and NB.1.8.1, some evolution is happening, but not to the extent that either of the 3 variants is clearly outcompeting the other two. The fittest lineages within XFG and NB.1.8.1 appear competitive with BA.3.2.
+Globally, 3 variants and their sublineages are dominant in different regions: BA.3.2, XFG and NB.1.8.1. Overall, BA.3.2 appears to be the fittest but only by a small margin. Within XFG and NB.1.8.1, some evolution is happening, but not to the extent that either of the 3 variants is clearly outcompeting the other two. The fittest lineages within XFG and NB.1.8.1 appear competitive with BA.3.2: they are within 1-2% daily growth rate of the fittest BA.3.2.2.
 
 ### By variant
 
@@ -54,6 +54,25 @@ Despite the common ancestor of BA.3.2.2 being more than a year old, no recurrent
 With the large deletion of ORF6 to ORF8 in BA.3.2 likely having a fitness effect (either positive or negative), recombination of BA.3.2 with a non-BA.3.2 lineage could result in a child with increased fitness. This has not been observed yet. While there are some sequences that could plausibly be recombinants of BA.3.2 and other lineages, they are mostly singlets lacking independent confirmation and also show signs of potential co-infection or contamination.
 
 ### NB.1.8.1
+
+Within NB.1.8.1 (Pango alias PQ), the reversion S:I478T has arisen at least two dozen times and is by now dominant. Other beneficial spike mutations that have arisen with or without S:I478T include S:R346T, S:D420N, S:R445P, and S:T572I.
+
+As for XFG, the fittest PQ lineages have fitness advantages of ~4-5% over the original NB.1.8.1 founder and are almost competitive with BA.3.2:
+
+- PQ.2.8.1 (S:R445P, Pango alias RC) is one of the fittest PQs despite notably not having S:I478T, though sublineage RC.1 has acquired S:I478T and appears to be slightly fitter than its parent.
+- PQ.16.1.1 has S:D253G, S:N417T, S:D420N, S:I478T
+- RK.1 (PQ.17.7.2.1) has S:D420N, S:R445P, S:I478T
+- PQ.39.1 has S:S157L, S:R445P, S:Q677H
+
+## Outlook
+
+Variant fitness depends on a combination of intrinsic properties of the virus and population immunity. In general, immunity is strongest against lineages that have recently circulated, meaning lineages that have not been widespread can have a relative advantage over those that have been dominant for a while.
+
+XFG and NB.1.8.1 arose roughly at the same time, yet XFG became dominant quickly in Europe and the Americas. However, NB.1.8.1 has slowly gained ground - potentially due to population immunity having become stronger against XFG relative to NB.1.8.1.
+
+The same effect could help XFG and NB.1.8.1 lineages from being eradicated by BA.3.2.2. While BA.3.2.2 has been dominant in most European countries with sequencing activity for several months, XFG and NB.1.8.1 are still present.
+
+With the fittes XFG and NB.1.8.1 sublineages being within 1-2% of daily growth rates of the fittest BA.3.2.2 lineages, it is plausible that all three variants will continue to co-circulate for a while. Nonetheless, for the next few months, BA.3.2.2 is most likely to be dominant in Europe and become dominant in North America. In Asia (Singapore, Japan, South Korea), BA.3.2.2 is growing and could become dominant by the end of the year. In Oceania, BA.3.2.2 is nearly dominant but other lineages appear competitive, preventing a full sweep. In South America, XFG is dominant and BA.3.2.2 is still so rarre that it is unlikely to become dominant in the short term. In Africa, limited data means it's hard to predict but in South Africa, the country with the best surveillance, BA.3.2.2 has slowly been gaining ground, although XFG appears to be still dominant, there.
 
 # Variant report 2025-08-07
 
