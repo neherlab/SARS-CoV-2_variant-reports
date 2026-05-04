@@ -34,12 +34,24 @@ In Africa, data is sparse and varied. In South Africa, XFG appears to be dominan
 
 ### XFG
 
-- RV.1 (XFG.23.1.3) with S:L335F, S:S446N, S:A1174V
-- XFG.1.1 with 
+As has been repeatedly observed in the past within successful variants, some beneficial spike mutations are arising repeatedly. In the case of XFG, these include S:L335F, S:A435S, S:S680P/F/Y, S:S704L.
 
+The fittest XFG lineages that have evolved to date have fitness advantages of ~4-5% over the original XFG founder and are almost competitive with BA.3.2:
+
+- XFG.1.1 with S:E96D, S:V445P, S:L452R. This lineage is most common in North America where it accounts for around 30% of sequences collected in March 2026.
+- RV.1 (XFG.23.1.3) with S:L335F, S:S446N, S:A1174V. Less common than XFG.1.1 (4% of North American sequences collected in March 2026), but slightly fitter than XFG.1.1. Some of the first detections were in US inbound airport surveillance with origins in West Africa (Nigeria, Ghana), in late 2025. The wide geographic distribution of RV.1 across Europe, North America and Asia is consistent with it having originated in West Africa and then spread globally.
 
 ### BA.3.2
 
+Ancestral BA.3.2 was never observed directly, only the two sublineages BA.3.2.1 and BA.3.2.2, each with 2 Spike substitutions compared to the reconstructed ancestor:
+
+The more recently emerged BA.3.2.2 (S:K356T, S:A575S)is clearly fitter than BA.3.2.1 (S:H681R, S:P1162R). More than 99% of recently collected BA.3.2 sequences are BA.3.2.2 and this fraction has been increasing.
+
+Global diversity of BA.3.2.2 (Pango alias RE) is predominantly split into 2 large branches: RE.1.1 and RE.2. RE.1.1 originated from the mid-2025 outbreak in Australia and New Zealand with subsequent spread to Asia, Europe and North America, while RE.2 is predominantly European with spread to North America and Asia. There are no spike differences between RE.1.1 and RE.2, but some differences in ORF1a, ORF1b and N that likely affect fitness with RE.2 appearing to be slightly fitter than RE.1.1.
+
+Despite the common ancestor of BA.3.2.2 being more than a year old, no recurrent, beneficial spike mutations have been observed so far.
+
+With the large deletion of ORF6 to ORF8 in BA.3.2 likely having a fitness effect (either positive or negative), recombination of BA.3.2 with a non-BA.3.2 lineage could result in a child with increased fitness. This has not been observed yet. While there are some sequences that could plausibly be recombinants of BA.3.2 and other lineages, they are mostly singlets lacking independent confirmation and also show signs of potential co-infection or contamination.
 
 ### NB.1.8.1
 
