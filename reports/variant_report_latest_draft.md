@@ -119,7 +119,7 @@ Kenya is dominated by PL.3, an LF.7.1.10 sublineage, with some presence of XFG a
 
 ### XFG
 
-As has been repeatedly observed in the past within successful variants, some beneficial spike mutations are arising repeatedly. In the case of XFG, these include S:L335F, S:A435S, S:S680P/F/Y, S:S704L.
+As has been repeatedly observed in the past within successful variants, some beneficial spike mutations have arisen several times independently. In the case of XFG, these include S:L335F, S:A435S, S:S680P/F/Y, S:S704L.
 
 The fittest XFG lineages that have evolved to date have fitness advantages of ~4-5% over the original XFG founder and are almost competitive with BA.3.2:
 
@@ -151,7 +151,7 @@ As for XFG, the fittest PQ lineages have fitness advantages of ~4-5% over the or
 
 ## Outlook
 
-Variant fitness depends on a combination of intrinsic properties of the virus and population immunity. In general, immunity is strongest against lineages that have recently circulated, meaning lineages that have not been widespread can have a relative advantage over those that have been dominant for a while.
+Variant fitness depends on a combination of intrinsic properties of the virus and population immunity. In general, immunity is strongest against lineages that have recently circulated at high prevalence, meaning lineages that have not been widespread can have a relative advantage over those that have been dominant for a while.
 
 XFG and NB.1.8.1 arose roughly at the same time, yet XFG became dominant quickly in Europe and the Americas. However, NB.1.8.1 has slowly gained ground - potentially due to population immunity having become stronger against XFG relative to NB.1.8.1.
 
