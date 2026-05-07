@@ -52,7 +52,7 @@ New Zealand is dominated by NB.1.8.1. BA.3.2.2 is at 20%, growing, but not set t
 
 #### Europe
 
-After a period of dominance of XFG, Europe sees growth of BA.3.2.2 and NB.1.8.1. In most countries, NB.1.8.1 and XFG remain at frequences above 10%.
+After a period of dominance of XFG, Europe sees growth of BA.3.2.2 and NB.1.8.1. In most countries, NB.1.8.1 and XFG remain at frequencies above 10%.
 In Germany, the initial fast growth of BA.3.2.2 slowed at the turn of the year with NB.1.8.1 becoming dominant.
 In France, the Netherlands, the UK, and Denmark BA.3.2.2 has become dominant but NB.1.8.1 and XFG remain present at 10-20% each, potentially plateauing at those levels.
 
@@ -157,7 +157,7 @@ XFG and NB.1.8.1 arose roughly at the same time, yet XFG became dominant quickly
 
 The same effect could help XFG and NB.1.8.1 lineages from being entirely outcompeted by BA.3.2.2. While BA.3.2.2 has been dominant in most European countries with sequencing activity for several months, XFG and NB.1.8.1 are still present.
 
-With the fittest XFG and NB.1.8.1 sublineages being within 1-2% of daily growth rates of the fittest BA.3.2.2 lineages, it is plausible that all three variants will continue to co-circulate for a while. Nonetheless, for the next few months, BA.3.2.2 is most likely to be dominant in Europe and become dominant in North America. In Asia (Singapore, Japan, South Korea), BA.3.2.2 is growing and could become dominant by the end of the year. In Oceania, BA.3.2.2 is nearly dominant but other lineages appear competitive, preventing a full sweep. In South America, XFG is dominant and BA.3.2.2 is still so rare that it is unlikely to become dominant in the short term. In Africa, limited data means it's hard to predict but in South Africa, the country with the best surveillance, BA.3.2.2 has slowly been gaining ground, although XFG appears to be still dominant, there.
+With the fittest XFG and NB.1.8.1 sublineages being within 1-2% of daily growth rates of the fittest BA.3.2.2 lineages, it is plausible that all three variants will continue to co-circulate for a while. Nonetheless, for the next few months, BA.3.2.2 is most likely to be dominant in Europe and become dominant in North America. In Asia (Singapore, Japan, South Korea), BA.3.2.2 is growing and could become dominant by the end of the year. In Oceania, BA.3.2.2 is nearly dominant, but other lineages appear competitive, preventing a full sweep. In South America, XFG is dominant and BA.3.2.2 is still so rare that it is unlikely to become dominant in the short term. In Africa, limited data means it's hard to predict but in South Africa, the country with the best surveillance, BA.3.2.2 has slowly been gaining ground, although XFG appears to be still dominant, there.
 
 ## Implications for vaccine strain selection
 
