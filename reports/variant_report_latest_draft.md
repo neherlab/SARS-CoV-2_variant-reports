@@ -103,7 +103,7 @@ Brazil and Chile are totally dominated by XFG (and its recombinant XFV).
 
 #### Africa
 
-South Africa is dominated by XFG, with BA.3.2.2 at around 10-20% and growing at most slowly.
+South Africa is dominated by XFG, with BA.3.2.2 at around 10-20%, possibly growing slowly.
 All recent sequences from Ghana are XFG, but data is very sparse.
 Kenya is dominated by PL.3, an LF.7.1.10 sublineage, with some presence of XFG and NB.1.8.1 but no BA.3.2.
 
@@ -130,7 +130,7 @@ The fittest XFG lineages that have evolved to date have fitness advantages of ~4
 
 Ancestral BA.3.2 was never observed directly, only the two sublineages BA.3.2.1 and BA.3.2.2, each with 2 Spike substitutions compared to the reconstructed ancestor:
 
-The more recently emerged BA.3.2.2 (S:K356T, S:A575S)is clearly fitter than BA.3.2.1 (S:H681R, S:P1162R). More than 99% of recently collected BA.3.2 sequences are BA.3.2.2 and this fraction has been increasing.
+The more recently emerged BA.3.2.2 (S:K356T, S:A575S) is clearly fitter than BA.3.2.1 (S:H681R, S:P1162R). More than 99% of recently collected BA.3.2 sequences are BA.3.2.2 and this fraction has been increasing.
 
 Global diversity of BA.3.2.2 (Pango alias RE) is predominantly split into 2 large branches: RE.1.1 and RE.2. RE.1.1 originated from the mid-2025 outbreak in Australia and New Zealand with subsequent spread to Asia, Europe and North America, while RE.2 is predominantly European with spread to North America and Asia. There are no spike differences between RE.1.1 and RE.2, but some differences in ORF1a, ORF1b and N that likely affect fitness with RE.2 appearing to be slightly fitter than RE.1.1.
 
@@ -341,7 +341,7 @@ Based on sequences collected in 2025 and shared until 2025-05-18:
 
 - XEC continues declining and is no longer dominant in almost all countries, except for Japan where it is still dominant and growing.
 - LP.8.1 is dominant in North America, parts of South America (Brazil), much of Europe and South Africa (the only continental African country with more than 10 sequences from 2025). It is still growing in Australia.
-- LF.7 appears to have peaked. In Russia and Peru it was was dominant in Q1 2025 and at around 40% in Singapore and Chile.
+- LF.7 appears to have peaked. In Russia and Peru it was dominant in Q1 2025 and at around 40% in Singapore and Chile.
 - NB.1.8.1 is growing globally. It is dominant in Hong Kong and China and at 5-30% in most other countries with sequences collected end of April 2025.
 - XFG (described below) is most common in North America and Europe where it is growing around as fast as NB.1.8.1 and at similar frequencies.
 
